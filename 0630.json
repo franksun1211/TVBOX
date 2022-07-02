@@ -60,7 +60,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.nite07.com/bl/ttsp.json"
+      "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/ttsp.json"
     },
 //{"key":"csp_xpath_kangbazi","name":"扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TXT/raw/main/mao/JSON/kangbazi.json"},   
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
