@@ -1,6 +1,6 @@
 
 {
-"spider":"https://github.com/franksun1211/TVBOX/blob/main/0701apple.jar?raw=true",
+"spider":"https://github.com/franksun1211/TVBOX/blob/main/custom_spider0704.jar?raw=true",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2ZyYW5rc3VuMTIxMS9UVkJPWC9yYXcvbWFpbi9BUFAvdHYvYmMudHh0"]}]}],
 
