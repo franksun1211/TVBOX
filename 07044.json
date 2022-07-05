@@ -1,20 +1,6 @@
-//微信公众号【云星日记】制作分享
-//QQ频道搜索云星日记加入频道交流
-
-//关注公众号回复【接口】获取在线接口
-//关注公众号回复【本地接口】获取本地接口
-//保存外链网址实时在线更新
-
-//直接把在线网址外链输入TvBox就可以同步更新
-//打造属于自己的app，请看下面微信公号文章链接
-//TvBox生成项目打包教程：https://mp.weixin.qq.com/s/FDa4OSDwHemy8uDyhn-1UQ
-//TVBox在线接口地址：https://mp.weixin.qq.com/s/uCipLSKxHvEdwKpIaQTFlw
-
-//云星旗下话费充值折扣公众号：【云优惠生活】
-//详情查看文章介绍：https://mp.weixin.qq.com/s/Bbm6mQtu_DjNJPXcXW0VOA
 
 {
-"spider":"https://maoyingshi.cc/tvbox/云星日记/jar/0702.jar",
+"spider":"https://github.com/franksun1211/TVBOX/blob/main/07044.jar?raw=true",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tYW95aW5nc2hpLmNjL3R2Ym94L3poaWJvLzEudHh0"]}]}],
 
@@ -69,10 +55,10 @@
       
 
 
-//{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-//{"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/douyu.json"},
-//{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXP/duboku2.json"},
+{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXP/duboku2.json"},
 //{"key": "___xmf哔","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yosakoi.tk:5716/d/Alist/tvbox/MaooXP/bidi.json"},
 
 
