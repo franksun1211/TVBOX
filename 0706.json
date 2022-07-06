@@ -36,7 +36,7 @@
 {"key": "csp_Blidw","name":"🐞动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blixq","name":"🐞戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Gitcafe","name":"🐞小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1}
+
 
 
 //{"key":"csp_Dy555","name":"🐞555电影","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -48,8 +48,8 @@
 //{"key":"csp_Qicui","name":"🐞奇粹视频","type": 3,"api": "csp_Qicui","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Subaibai","name":"🐞素白白","type": 3,"api": "csp_Subaibai","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_lgyy","name":"🐞藍光影院","type": 3,"api": "csp_lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"csp_Languang","name":"🐞蓝光","type": 3,"api": "csp_Languang","searchable": 1,"quickSearch": 1,"filterable": 1}
-
+//{"key":"csp_Languang","name":"🐞蓝光","type": 3,"api": "csp_Languang","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1}
 
 ],
 
