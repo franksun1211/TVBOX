@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/franksun1211/TVBOX/blob/main/custom_spider0703?raw=true",
+  "spider": "https://github.com/franksun1211/TVBOX/blob/main/custom_spider?raw=true",
 
   "sites": [
   {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
