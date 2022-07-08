@@ -30,11 +30,11 @@
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
 //////comic///////////////////////////////////
-{"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/OmoFun动漫.json"},      
-{"key":"csp_xpath_ysjdm","name":"🥒异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/ysjdm.json"},      
-{"key":"csp_xpath_age","name":"🥒AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/agefans.json"},
-{"key":"csp_xpath_yinghua","name":"🥒樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/yinghua.json"},
-{"key":"csp_xpath_17skr","name":"🥒路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/17skr.json"},      
+{"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/OmoFun动漫.json"},      
+{"key":"csp_xpath_ysjdm","name":"🥒异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/ysjdm.json"},      
+{"key":"csp_xpath_age","name":"🥒AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/agefans.json"},
+{"key":"csp_xpath_yinghua","name":"🥒樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/yinghua2.json"},
+{"key":"csp_xpath_17skr","name":"🥒路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/17skr.json"},      
       
 //////////////////////////////////////////////
 {"key":"csp_Bttoo","name":"💜两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
