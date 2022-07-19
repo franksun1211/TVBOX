@@ -38,26 +38,9 @@
     {"key":"在线之家","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Mjxq","name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-    //{
-      "key": "Lib",
-      "name": "🐞Libvio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    //{
-      "key": "Nfyun",
-      "name": "🐞Nf云",
-      "type": 3,
-      "api": "csp_Nfyun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 {"key":"csp_xpath_libv","name":"🦋Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/xpath/libv.json"},
-    {
+{
       "key":"csp_Bttoo",
       "name": "🐞两个BT",
       "type":3,
