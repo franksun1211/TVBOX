@@ -56,7 +56,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_xpath_libv"        ,"name":"🦋Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/xpath/libv.json"},
+{"key":"csp_xpath_libv","name":"🦋Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/xpath/libv.json"},
     {
       "key":"csp_Bttoo",
       "name": "🐞两个BT",
