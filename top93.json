@@ -1,7 +1,7 @@
 //配置地址-->clan://localhost/TVBox/0729.json
 
 {
-"spider":"clan://TVBox/top.jar",
+"spider":"https://github.com/franksun1211/TVBOX/blob/main/top93.jar?raw=true",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3RvcC50eHQ="]}]}],
 
 "sites":[
