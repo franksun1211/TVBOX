@@ -1,7 +1,7 @@
 ﻿// 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://wp.wangshi520.com/down.php/f1119df4fc629e71103cc19e2c7b2338.jar",
+"spider":"https://github.com/franksun1211/TVBOX/blob/main/cz0708.jar?raw=true",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93cC53YW5nc2hpNTIwLmNvbS9kb3duLnBocC80NWE3ZGU1ZmY3NTllY2Q0N2UyMDU3YTlmOWZkNTI4NC50eHQ="]}]}],
 
 "sites":[
