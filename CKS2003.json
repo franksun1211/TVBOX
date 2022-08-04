@@ -3,17 +3,34 @@
 	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/qiaoji0804.jar?raw=true;md5;e55959c3da426a2c528e220332b76a3a",
 	//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ZyYW5rc3VuMTIxMS9UVkJPWC9tYWluL0FQUC90di90cy50eHQ="]}]}],
-	"sites": [{
-		"key": "KanSJ_spider",
-		"name": "🐞看视界",
-		"api": "csp_KanSJ",
+	"sites": [
+		{
+		"key": "csp_Cokemv",
+		"name": "🐞Cokemv",
 		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
+		"api": "csp_Cokemv",
 		"searchable": 1,
-		"ext": ""
+		"quickSearch": 1,
+		"filterable": 1
+	},
+		{
+		"key": "csp_CZSPP",
+		"name": "🐞厂长资源",
+		"type": 3,
+		"api": "csp_Czsapp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	}, {
+		"key": "csp_LibVio",
+		"name": "🐞LibVio",
+		"type": 3,
+		"api": "csp_Lib",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
 	}, 
-{
+		{
       "key": "csp_xpath_olevod",
       "name":"🦋欧乐影院-Exo",
       "type":3,
@@ -24,7 +41,62 @@
       "ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
 {"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"spider_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
-{
+		
+		 {
+		"key": "在线之家",
+		"name": "🐞在线之家",
+		"type": 3,
+		"api": "csp_Zxzj",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},  
+		{
+		"key": "csp_hbys",
+		"name": "🐞简影",
+		"api": "csp_JianYing",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
+	},
+		{
+		"key": "KanSJ_spider",
+		"name": "🐞看视界",
+		"api": "csp_KanSJ",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	}, 
+		{
+		"key": "csp_DiDuan",
+		"name": "🐞低端影视",
+		"type": 3,
+		"api": "csp_Ddrk",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	}, {
+		"key": "csp_Auete",
+		"name": "🐞Auete",
+		"type": 3,
+		"api": "csp_Auete",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+//////comic///////////////////////////////////
+{"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/OmoFun动漫.json"},      
+{"key":"csp_xpath_ysjdm","name":"🥒异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/ysjdm.json"},      
+{"key":"csp_xpath_age","name":"🥒AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/agefans.json"},
+{"key":"csp_xpath_yinghua","name":"🥒樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/yinghua2.json"},
+{"key":"csp_xpath_17skr","name":"🥒路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/17skr.json"},      
+///////////////////////////////////////////////////////////////////////// 
+
+		{
 		"key": "293视频",
 		"name": "🐞293视频",
 		"type": 3,
@@ -82,16 +154,9 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
-		"key": "csp_hbys",
-		"name": "🐞简影",
-		"api": "csp_JianYing",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
-	}, {
+	},
+		 
+		  {
 		"key": "csp_Wmkk",
 		"name": "🐞完美看看",
 		"api": "csp_Wmkk",
@@ -110,55 +175,8 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	}, {
-		"key": "csp_CZSPP",
-		"name": "🐞厂长资源",
-		"type": 3,
-		"api": "csp_Czsapp",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	}, {
-		"key": "csp_LibVio",
-		"name": "🐞LibVio",
-		"type": 3,
-		"api": "csp_Lib",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	}, {
-		"key": "csp_DiDuan",
-		"name": "🐞低端影视",
-		"type": 3,
-		"api": "csp_Ddrk",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	}, {
-		"key": "csp_Auete",
-		"name": "🐞Auete",
-		"type": 3,
-		"api": "csp_Auete",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "csp_Cokemv",
-		"name": "🐞Cokemv",
-		"type": 3,
-		"api": "csp_Cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "在线之家",
-		"name": "🐞在线之家",
-		"type": 3,
-		"api": "csp_Zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
+	},
+		{
 		"key": "酷猫",
 		"name": "酷猫",
 		"type": 3,
@@ -172,13 +190,19 @@
 {"key":"csp_biubiu_影视工厂","name":"🎯影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXB/ysgc2.json"},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
-//////comic///////////////////////////////////
-{"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/OmoFun动漫.json"},      
-{"key":"csp_xpath_ysjdm","name":"🥒异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/ysjdm.json"},      
-{"key":"csp_xpath_age","name":"🥒AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/agefans.json"},
-{"key":"csp_xpath_yinghua","name":"🥒樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/yinghua2.json"},
-{"key":"csp_xpath_17skr","name":"🥒路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/17skr.json"},      
-///////////////////////////////////////////////////////////////////////// 
+{
+      "key": "csp_xpath_ttsp",
+      "name": "🦋天天视频",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/ttsp.json"
+    },
+{"key":"csp_xpath_kangbazi","name":"🦋扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TXT/raw/main/mao/JSON/kangbazi.json"},   
+{"key":"csp_appys_美剧虫","name":"🐌美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+
 {
 		"key": "AliPS",
 		"name": "盘搜",
@@ -214,18 +238,7 @@
 
 
 
-	{
-      "key": "csp_xpath_ttsp",
-      "name": "🦋天天视频",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/ttsp.json"
-    },
-{"key":"csp_xpath_kangbazi","name":"🦋扛把子影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TXT/raw/main/mao/JSON/kangbazi.json"},   
-{"key":"csp_appys_美剧虫","name":"🐌美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+	
 {"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
      
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXB/qiumi.json"},
