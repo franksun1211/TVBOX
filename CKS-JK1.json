@@ -218,16 +218,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": ""
-	}, {
-		"key": "push_agent",
-		"name": "推送",
-		"type": 3,
-		"api": "csp_PushAgent",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "阿里Token"
 	}, 
+//{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "阿里Token"}, 
 {"key":"csp_GitCafe","name":"📜小纸条0704","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
