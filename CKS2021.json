@@ -171,17 +171,15 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	},
-		 //{
-		"key": "csp_BBB",
+	},		 
+//{"key": "csp_BBB",
 		"name": "🐞哔哩哔哩",
 		"type": 3,
 		"api": "csp_Bili",
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
-	}, 
+		"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"}, 
 		{
 		"key": "AliPS",
 		"name": "盘搜",
