@@ -213,50 +213,12 @@
 		"filterable": 1,
 		"ext": ""
 	}, 
-//{
-		"key": "push_agent",
-		"name": "推送",
-		"type": 3,
-		"api": "csp_PushAgent",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "阿里Token"
-	}, 
+
 //{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 //{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 
-//{
-		"key": "csp_xpath_huya",
-		"name": "🐯虎牙(XP)",
-		"type": 3,
-		"api": "csp_XPathMacFilter",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"
-	}, 
-//{
-		"key": "csp_biubiu_斗鱼",
-		"name": "🥒斗鱼(XB)",
-		"type": 3,
-		"api": "csp_XBiubiu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"
-	}, 
-//{
-		"key": "csp_xpath_kuqimv",
-		"name": "🎤酷奇MV(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"
-	}, 
+
 
 	{
       "key": "csp_xpath_ttsp",
