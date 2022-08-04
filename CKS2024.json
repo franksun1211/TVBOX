@@ -1,6 +1,6 @@
 {
 	//微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
-	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/qiaoji0804.jar?raw=true",
+	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/qiaoji0804.jar?raw=true;md5;e55959c3da426a2c528e220332b76a3a",
 	//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
