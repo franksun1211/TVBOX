@@ -29,7 +29,7 @@
       "filterable": 1,
       "ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
 {"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"spider_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true"},
+{"key":"spider_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 		  {
 		"key": "293视频",
 		"name": "🐞293视频",
