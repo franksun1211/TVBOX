@@ -161,15 +161,8 @@
 		"filterable": 1,
 		"quickSearch": 1,
 		"searchable": 1
-	}, {
-		"key": "csp_77",
-		"name": "🐞酷云七七",
-		"type": 3,
-		"api": "csp_Kunyu77",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
+	}, 
+		 {
 		"key": "360_spider",
 		"name": "🐞360影视",
 		"api": "csp_SP360",
@@ -179,7 +172,7 @@
 		"searchable": 1,
 		"ext": ""
 	},
-		 {
+		 //{
 		"key": "csp_BBB",
 		"name": "🐞哔哩哔哩",
 		"type": 3,
@@ -188,7 +181,8 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
-	}, {
+	}, 
+		{
 		"key": "AliPS",
 		"name": "盘搜",
 		"type": 3,
