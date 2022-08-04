@@ -2,13 +2,7 @@
 	//微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
 	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/qiaoji0804.jar?raw=true;md5;e55959c3da426a2c528e220332b76a3a",
 	//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]
-		}]
-	}],
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ZyYW5rc3VuMTIxMS9UVkJPWC9tYWluL0FQUC90di90cy50eHQ="]}]}],
 	"sites": [
 		 {
 		"key": "csp_Cokemv",
@@ -19,15 +13,7 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, 
-		  {
-		"key": "在线之家",
-		"name": "🐞在线之家",
-		"type": 3,
-		"api": "csp_Zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, 
+        
 		 {
 		"key": "csp_CZSPP",
 		"name": "🐞厂长资源",
@@ -45,6 +31,15 @@
 		"quickSearch": 1,
 		"filterable": 0
 	},
+		{
+		"key": "在线之家",
+		"name": "🐞在线之家",
+		"type": 3,
+		"api": "csp_Zxzj",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	}, 
 		{
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
@@ -182,8 +177,17 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	},		 
-//{"key": "csp_BBB","name": "🐞哔哩哔哩","type": 3,		"api": "csp_Bili",		"searchable": 0,		"quickSearch": 0,	"filterable": 1,		"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"}, 
+	},
+		{
+		"key": "酷猫",
+		"name": "酷猫",
+		"type": 3,
+		"api": "csp_Kmys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+//{"key":"csp_BBB","name":"🐞哔哩哔哩","type": 3,"api":"csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"}, 
 		{
 		"key": "AliPS",
 		"name": "盘搜",
@@ -219,42 +223,14 @@
 		"quickSearch": 0,
 		"filterable": 0,
 		"ext": "阿里Token"
-	}, {
-		"key": "酷猫",
-		"name": "酷猫",
-		"type": 3,
-		"api": "csp_Kmys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "csp_xpath_huya",
-		"name": "🐯虎牙(XP)",
-		"type": 3,
-		"api": "csp_XPathMacFilter",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"
-	}, {
-		"key": "csp_biubiu_斗鱼",
-		"name": "🥒斗鱼(XB)",
-		"type": 3,
-		"api": "csp_XBiubiu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"
-	}, {
-		"key": "csp_xpath_kuqimv",
-		"name": "🎤酷奇MV(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"
-	},
+	}, 
+{"key":"csp_GitCafe","name":"📜小纸条0704","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
+{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
+{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
+
+//{"key": "csp_xpath_huya","name": "🐯虎牙(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"}, 
+//{"key": "csp_biubiu_斗鱼","name": "🥒斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"},
+//{"key": "csp_xpath_kuqimv","name": "🎤酷奇MV(XP)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 
  {
 		"key": "快播资源",
