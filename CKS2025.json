@@ -9,7 +9,26 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]
 		}]
 	}],
-	"sites": [{
+	"sites": [
+		 {
+		"key": "csp_Cokemv",
+		"name": "🐞Cokemv",
+		"type": 3,
+		"api": "csp_Cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	}, 
+		  {
+		"key": "在线之家",
+		"name": "🐞在线之家",
+		"type": 3,
+		"api": "csp_Zxzj",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	}, 
+		{
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
 		"api": "csp_KanSJ",
@@ -154,23 +173,8 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
-		"key": "csp_Cokemv",
-		"name": "🐞Cokemv",
-		"type": 3,
-		"api": "csp_Cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "在线之家",
-		"name": "🐞在线之家",
-		"type": 3,
-		"api": "csp_Zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
+	},
+		 {
 		"key": "csp_BBB",
 		"name": "🐞哔哩哔哩",
 		"type": 3,
