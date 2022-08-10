@@ -89,7 +89,7 @@
 		"filterable": 1
 	},
 
-{"key":"csp_Juhuang","name":"🐞剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
+{"key":"csp_Juhuang","name":"🐞剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/juhuang.jar?raw=true;md5;076e2157530714a37606e1599c01a19a"},
 
 {"key":"csp_Bttoo","name":"💜两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 //////comic///////////////////////////////////
