@@ -100,8 +100,8 @@
 {"key":"csp_xpath_yinghua","name":"🥒樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/yinghua2.json"},
 {"key":"csp_xpath_17skr","name":"🥒路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/17skr.json"},      
 {"key":"csp_xpath_dmw","name":"🥒动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/dmw.json"},
-{"key":"OmoFun","name":"OmoFun(优)","type":1,"api":"https://app.omofun.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
+//{"key":"OmoFun","name":"OmoFun(优)","type":1,"api":"https://app.omofun.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+//{"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 		
 ///////////////////////////////////////////////////////////////////////// 
 
