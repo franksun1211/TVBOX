@@ -1,5 +1,5 @@
 {
-	//20220804
+	//20220813
 	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/qiaoji0804.jar?raw=true;md5;e55959c3da426a2c528e220332b76a3a",
 	//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ZyYW5rc3VuMTIxMS9UVkJPWC9tYWluL0FQUC90di90cy50eHQ="]}]}],
@@ -93,11 +93,16 @@
 
 {"key":"csp_Bttoo","name":"💜两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
 //////comic///////////////////////////////////
-{"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/OmoFun动漫.json"},      
+//{"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/OmoFun动漫.json"},      
+{"key":"csp_biubiu_风车动漫","name":"🥒风车动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/风车动漫.json"},
 {"key":"csp_xpath_ysjdm","name":"🥒异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/ysjdm.json"},      
 {"key":"csp_xpath_age","name":"🥒AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/agefans.json"},
 {"key":"csp_xpath_yinghua","name":"🥒樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/yinghua2.json"},
 {"key":"csp_xpath_17skr","name":"🥒路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/17skr.json"},      
+{"key":"csp_xpath_dmw","name":"🥒动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/dmw.json"},
+{"key":"OmoFun","name":"OmoFun(优)","type":1,"api":"https://app.omofun.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
+		
 ///////////////////////////////////////////////////////////////////////// 
 
 		{
