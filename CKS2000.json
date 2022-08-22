@@ -71,7 +71,7 @@
 		"searchable": 1,
 		"ext": ""
 	}, 
-{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0821w.jar?raw=true;md5;de0bc94aa73b65bb543d368ca0393244},
+{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0821w.jar?raw=true;md5;de0bc94aa73b65bb543d368ca0393244"},
 	
         {
 		"key": "csp_Auete",
