@@ -41,7 +41,8 @@
       "ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
 
 {"key":"spider_IKan","name": "🐞爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cz0708.jar?raw=true;md5;f1119df4fc629e71103cc19e2c7b2338"},
-		
+{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0821w.jar?raw=true;md5;de0bc94aa73b65bb543d368ca0393244"},
+			
 		 {
 		"key": "在线之家",
 		"name": "🐞在线之家",
@@ -71,8 +72,7 @@
 		"searchable": 1,
 		"ext": ""
 	}, 
-{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0821w.jar?raw=true;md5;de0bc94aa73b65bb543d368ca0393244"},
-	
+
         {
 		"key": "csp_Auete",
 		"name": "🐞Auete",
