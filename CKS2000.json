@@ -54,7 +54,7 @@
 	},  
 		{
             "key": "T4",
-            "name": "(T4)",
+            "name": "💎T4",
             "type": 4,
             "api": "https://t4.catvod.eu.org/catvod/gaze",
             "searchable": 1,
