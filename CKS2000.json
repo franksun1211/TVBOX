@@ -81,6 +81,8 @@
 		"quickSearch": 1,
 		"filterable": 1
 	},
+{"key":"t4test","name":"🦋T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0}
+
 
 {"key":"csp_Juhuang","name":"🐞剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/juhuang.jar?raw=true;md5;076e2157530714a37606e1599c01a19a"},
 
