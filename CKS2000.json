@@ -71,7 +71,7 @@
 		"searchable": 1,
 		"ext": ""
 	}, 
-{"key":"t4test","name":"🦋T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"t4test","name":"🦋T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
         {
 		"key": "csp_Auete",
 		"name": "🐞Auete",
