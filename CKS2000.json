@@ -61,17 +61,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		{
-		"key": "KanSJ_spider",
-		"name": "🐞看视界",
-		"api": "csp_KanSJ",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
-	}, 
-{"key":"t4test","name":"🦋T4测试","type":4,"api":"http://127.0.0.1:8080/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "KanSJ_spider","name": "🐞看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext":"","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0821w.jar?raw=true;md5;de0bc94aa73b65bb543d368ca0393244"},
+//{"key":"t4test","name":"🦋T4测试","type":4,"api":"http://127.0.0.1:8080/vod","searchable":1,"quickSearch":1,"filterable":0},
         {
 		"key": "csp_Auete",
 		"name": "🐞Auete",
