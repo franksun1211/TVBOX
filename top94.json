@@ -26,15 +26,6 @@
       "filterable": 1
     },
 
-      {
-            "key":"t4public",
-            "name":"T4公共",
-            "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=app:ab19c4ed9e48425a81b0f532ff86e2d4&timeout=10",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🐼Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
