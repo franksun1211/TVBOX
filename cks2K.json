@@ -90,7 +90,7 @@
 
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo" ,"name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Anime1","name": "🌸动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_Anime1","name": "🌸动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 {"key": "csp_xpath_qiumi","name": "⚽球赛直播(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
 {"key":"csp_xpath_88kanqiu","name":"🏀JRKAN直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/88kanqiu.json"},
@@ -129,6 +129,9 @@
 "drives":[
 {"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
 {"name":"99T","plugin":"alist","server":"https://drive.9t.ee","userName":"","password":"","type":"plugin"},
+
+{"name":"七米藍","plugin":"alist","server":"https://al.chirmyram.com/","userName":"","password":"","type":"plugin"},
+
 {"name":"一只魚","plugin":"alist","server":"https://alist.youte.ml/","userName":"","password":"","type":"plugin"},
 {"name":"姬路白雪","plugin":"alist","server":"https://pan.jlbx.xyz/","userName":"","password":"","type":"plugin"},
 {"name":"嗨翻","plugin":"alist","server":"https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
