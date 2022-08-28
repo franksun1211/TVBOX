@@ -45,7 +45,7 @@
 		
 ///////////////////////////////////////////////////////////////////////// 
 //{"key": "T4","name": "🐞T4","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7bb5b24ca3274ad781a6071082e9eebd","searchable": 1,"quickSearch": 1,"filterable": 0},	
-{"key":"t4public","name":"🥇T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4public","name":"🌸T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key": "T4","name": "💎T4","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"小宝影院","name":"👶小宝影院(搭飞机)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/hongdeng98/YH/raw/branch/main/Jar/Mao0820.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},
 {"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
