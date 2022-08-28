@@ -124,8 +124,8 @@
 //{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"},
 //{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 //{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0826.jpg;md5;B10D1D0527E69BCDC323A4C0BF9E5D65"},
-{"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0826.jpg;md5;B10D1D0527E69BCDC323A4C0BF9E5D65"}
-
+//{"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0826.jpg;md5;B10D1D0527E69BCDC323A4C0BF9E5D65"}
+{"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/B站.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg;md5;F772B0AF73D43BE1C8F1B664101B32A8"}
 ],
 "drives":[
 {"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
