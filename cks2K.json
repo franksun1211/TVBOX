@@ -44,8 +44,8 @@
 //{"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 		
 ///////////////////////////////////////////////////////////////////////// 
-{"key": "T4","name": "🐞T4","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7bb5b24ca3274ad781a6071082e9eebd","searchable": 1,"quickSearch": 1,"filterable": 0},	
-{"key":"t4public","name":"💎T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+//{"key": "T4","name": "🐞T4","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7bb5b24ca3274ad781a6071082e9eebd","searchable": 1,"quickSearch": 1,"filterable": 0},	
+{"key":"t4public","name":"🥇T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key": "T4","name": "💎T4","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"小宝影院","name":"👶小宝影院(搭飞机)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/hongdeng98/YH/raw/branch/main/Jar/Mao0820.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},
 {"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -100,10 +100,11 @@
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ftyyy.tk/MeowXP/yinfans.json"},
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
 {"key":"csp_xpath_电影牛","name":"电影牛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/dyn.json"},
-
-
-
-## Aliyun系列
+##Alist系列
+{"key": "csp_Alist2","name": "🐼Puppet studio(Alist)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://www.kugutsu.ml"},	
+{"key": "csp_Alist2","name": "🐼99T(Alist)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee"},
+{"key": "csp_Alist2","name": "🐼一只魚(Alist)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
+##Aliyun系列
 {"key":"csp_Gitcafe","name":"📜小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd"},
 {"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
 {"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
