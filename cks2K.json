@@ -105,11 +105,11 @@
 //{"key": "csp_Alist2","name": "🐼99T(Alist)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee"},
 //{"key": "csp_Alist2","name": "🐼一只魚(Alist)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
 ##Aliyun系列
-{"key":"csp_Gitcafe","name":"📜小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd"},
-{"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
-{"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
-{"key": "csp_Yiso","name": "🔍一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
-{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
+//{"key":"csp_Gitcafe","name":"📜小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd"},
+//{"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
+//{"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
+//{"key": "csp_Yiso","name": "🔍一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
+//{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
 
 
 //!{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true;md5;b45c4ecea82bfe22d3e8b86a69e04407"},
