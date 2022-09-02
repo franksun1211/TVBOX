@@ -2,7 +2,7 @@
 
 //数据接口
    
-"sites": [
+"sites":[
 
 {"key":"mtv_pc_焦炭影视","name":"🐞Cokemv","type":3,"api":"csp_Cokemv"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_厂长影视","name":"🐞厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0},
