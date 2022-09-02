@@ -11,7 +11,7 @@
 {"key":"mtv_pc_简影影视","name":"🐞简影","type":3,"api":"csp_JianYing"      ,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"},
 {
       "key": "csp_xpath_olevod",
-      "name":"🦋欧乐影院(Exo)",
+      "name":"💿欧乐影院(Exo)",
       "type":3,
       "api":"csp_XPathMacFilter",
       "searchable":1,
@@ -19,7 +19,7 @@
       "filterable": 1,
       "ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
 {"key":"mtv_pc_剧荒影院","name":"🐞剧荒影院","type":3,"api":"csp_Juhuang"       ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cz0708.jar?raw=true;md5;f1119df4fc629e71103cc19e2c7b2338"},
+{"key":"spider_IKan","name":"🐞爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cz0708.jar?raw=true;md5;f1119df4fc629e71103cc19e2c7b2338"},
 {"key":"mtv_pc_奥特影视","name":"🐞Auete","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"🐞小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 
