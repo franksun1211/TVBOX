@@ -78,7 +78,7 @@
 {"key":"mtv_xp_棋牌娱乐","name":"🅱棋牌娱乐","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/棋牌娱乐.json"},
 {"key":"mtv_xp_美食天地","name":"🅱美食天地","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/美食天地.json"},
 
-
+{"key":"优众影视","name":"💿优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"mtv_xp_特狗影视","name":"💿特狗影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/特狗影视.json"},
 
 {"key":"mtv_xp_干饭影视","name":"💿干饭影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/干饭影视.json"},
@@ -184,6 +184,8 @@
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_ali.py"
 	},
+//Alist系列
+{"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.json","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider_alist.jar?raw=true;md5;2f19c527b9a335fb1415c5f9686515c8"},
 
 //T4爬蟲
 //{"key": "T4","name": "💎T4","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -191,7 +193,22 @@
 //{"key": "T4","name": "🐞T4","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7bb5b24ca3274ad781a6071082e9eebd","searchable": 1,"quickSearch": 1,"filterable": 0},	
 {"key":"t4public","name":"💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0}],
 
+//Alist+web
+"drives":[
+{"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
+{"name":"99T","plugin":"alist","server":"https://drive.9t.ee","userName":"","password":"","type":"plugin"},
 
+{"name":"梓澪の妙妙屋(H)","plugin":"alist","server":"https://xn--i0v44m.xyz","userName":"","password":"","type":"plugin"},
+{"name":"七米藍","plugin":"alist","server":"https://al.chirmyram.com/","userName":"","password":"","type":"plugin"},
+{"name":"一只魚","plugin":"alist","server":"https://alist.youte.ml/","userName":"","password":"","type":"plugin"},
+{"name":"姬路白雪","plugin":"alist","server":"https://pan.jlbx.xyz/","userName":"","password":"","type":"plugin"},
+{"name":"嗨翻","plugin":"alist","server":"https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
+{"name":"非盘","plugin":"alist","server":"http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
+{"name":"听闻","plugin":"alist","server":"https://wangpan.sangxuesheng.com/","userName":"","password":"","type":"plugin"},
+{"name":"晴園","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}
+{"name":"晴园","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"}
+
+],	
 
 //解析接口
 
