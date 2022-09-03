@@ -94,7 +94,37 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cokemv.py"
+	}, 
+{
+		"key": "py_cctv",
+		"name": "🦂央视",
+		"type": 3,
+		"api": "py_cctv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cctv.py"
 	}, {
+		"key": "py_czspp",
+		"name": "🦂厂长",
+		"type": 3,
+		"api": "py_czspp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_czspp.py"
+	},{
+		"key": "py_bilimd",
+		"name": "🔥B站影视",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilimd.py"
+	},
+
+{
 		"key": "py_xmaomi",
 		"name": " 🦂猫咪",
 		"type": 3,
@@ -131,6 +161,7 @@
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_ali.py"
 	},
+
 //{"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/Bili.json"},
 //{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
 //{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
