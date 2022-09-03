@@ -181,9 +181,10 @@
 "drives":[
 {"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
 {"name":"9T","plugin":"alist","server":"https://drive.9t.ee","userName":"","password":"","type":"plugin"},
-
 {"name":"梓澪の妙妙屋","plugin":"alist","server":"https://xn--i0v44m.xyz","userName":"","password":"","type":"plugin"},
 {"name":"晴園","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"},
+{"name":"小兵组网盘影视","plugin":"alist","server":"https://6vv.app","userName":"","password":"","type":"plugin"},
+{"name":"菊花盘","plugin":"alist","server":"https://pan.142856.xyz","userName":"","password":"","type":"plugin"},
 {"name":"七米藍","plugin":"alist","server":"https://al.chirmyram.com/","userName":"","password":"","type":"plugin"},
 {"name":"一只魚","plugin":"alist","server":"https://alist.youte.ml/","userName":"","password":"","type":"plugin"},
 {"name":"姬路白雪","plugin":"alist","server":"https://pan.jlbx.xyz/","userName":"","password":"","type":"plugin"},
