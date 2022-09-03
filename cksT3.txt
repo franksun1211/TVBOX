@@ -39,7 +39,7 @@
 //////////////////////////////////////////////////////////////////////
 
 {"key":"Alist","name":" 🅰Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.json","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider_alist.jar?raw=true;md5;2f19c527b9a335fb1415c5f9686515c8"},
-{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.json"},
+{"key":"Alist","name":"🅿️Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.json"},
 //////PY//////
 {
 		"key": " py_bilibili",
