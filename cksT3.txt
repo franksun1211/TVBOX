@@ -37,7 +37,7 @@
 {"key":"Anime","name": "🐞Anime(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/spider-dw.jar?raw=true;md5;b62550b71feff1f0ffdc2fba843a244a"},
 
 //////////////////////////////////////////////////////////////////////
-{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ju990c.i996.me/T4/Alist.json"},
+{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.txt"},
 //{"key":"Alist","name":" 🅰Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.json","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider_alist.jar?raw=true;md5;2f19c527b9a335fb1415c5f9686515c8"},
 //{"key":"Alist","name":"🅿️Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.json"},
 //////PY//////
