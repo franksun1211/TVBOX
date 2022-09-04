@@ -26,8 +26,8 @@
 {"key":"mtv_pc_快看影视","name":"🐞快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mtv_pc_三亿影视","name":"🐞三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"mtv_pc_三五电影","name":"🐞三五电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"mtv_pc_两个磁力","name":"🐞两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_三五电影","name":"🐞555电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"mtv_pc_两个磁力","name":"🐞2BT","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_乐猪影视","name":"🐞乐猪影视","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1}, 
 
 {"key":"mtv_pc_在线之家","name":"🐞在线之家","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -77,15 +77,15 @@
 {"key":"mtv_xp_特狗影视","name":"💿特狗影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/特狗影视.json"},
 
 {"key":"mtv_xp_干饭影视","name":"💿干饭影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/干饭影视.json"},
-{"key":"mtv_xp_动漫巴士","name":"💿动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/动漫巴士.json"},
-{"key":"mtv_xp_动漫直链","name":"💿动漫直链","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/动漫直链.json"},
+//{"key":"mtv_xp_动漫巴士","name":"💿动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/动漫巴士.json"},
+//{"key":"mtv_xp_动漫直链","name":"💿动漫直链","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/动漫直链.json"},
 {"key":"mtv_xp_AGE动漫" ,"name":"💿AGE动漫" ,"type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/AGE动漫.json"},
-{"key":"mtv_xp_Omo动漫" ,"name":"💿Omo动漫" ,"type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/Omo动漫.json"},
+//{"key":"mtv_xp_Omo动漫" ,"name":"💿Omo动漫" ,"type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/Omo动漫.json"},
 {"key":"mtv_xp_动漫岛源","name":"💿动漫岛源","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/动漫岛源.json"},
 {"key":"mtv_xp_异次动漫","name":"💿异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/异次动漫.json"},
 {"key":"mtv_xp_去看动漫","name":"💿去看动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/去看动漫.json"},
 {"key":"mtv_xp_风车动漫","name":"💿风车动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/风车动漫.json"},
-{"key":"mtv_xp_维奇动漫","name":"💿维奇动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/维奇动漫.json"},
+//{"key":"mtv_xp_维奇动漫","name":"💿维奇动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/维奇动漫.json"},
 
 //PY爬蟲
 {
