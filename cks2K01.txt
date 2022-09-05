@@ -73,6 +73,7 @@
 //{"key":"mtv_xp_体育赛事","name":"🅱体育赛事","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/体育赛事.json"},
 //{"key":"mtv_xp_棋牌娱乐","name":"🅱棋牌娱乐","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/棋牌娱乐.json"},
 //{"key":"mtv_xp_美食天地","name":"🅱美食天地","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/美食天地.json"},
+{"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 
 {"key":"mtv_xp_特狗影视","name":"💿特狗影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/特狗影视.json"},
 
