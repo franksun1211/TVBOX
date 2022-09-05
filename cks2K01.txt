@@ -212,6 +212,7 @@
 
 {"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/B站.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg;md5;F772B0AF73D43BE1C8F1B664101B32A8"},	
 //T4爬蟲
+{"key": "T4","name": "🐞T4爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://ju990c.i996.me/TS1/token.json","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"t4public","name":"💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0}
 
