@@ -23,7 +23,7 @@
 {"key":"spider_IKan","name":"🐞爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cz0708.jar?raw=true;md5;f1119df4fc629e71103cc19e2c7b2338"},
 {"key":"mtv_pc_奥特影视","name":"🐞Auete","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"🐞小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_AppTT","name":"🐞图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;292c5f602e90ca870e9a017b16cf59cb"},
 {"key":"mtv_pc_快看影视","name":"🐞快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mtv_pc_三亿影视","name":"🐞三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1}, 
