@@ -222,6 +222,88 @@
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_ali.py"
 	},
+//////////////from海阔道长，感谢~
+			{
+    "key":"dr_在线之家",
+    "name":"在线之家（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=在线之家",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_喵喵",
+    "name":"喵喵（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=喵喵",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_cokemv",
+    "name":"cokemv（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=cokemv",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_LIBVIO",
+    "name":"LIBVIO（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=LIBVIO",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_鸭奈飞",
+    "name":"鸭奈飞（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_蓝光影院",
+    "name":"蓝光影院（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=蓝光影院",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_剧白白",
+    "name":"剧白白（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=剧白白",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_看视界",
+    "name":"看视界（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=看视界",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_玩偶姐姐",
+    "name":"玩偶姐姐（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=玩偶姐姐",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
 
 {"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/B站.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg;md5;F772B0AF73D43BE1C8F1B664101B32A8"}
 ],
