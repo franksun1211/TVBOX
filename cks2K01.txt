@@ -53,8 +53,8 @@
 {"key":"Anime","name": "🐞Anime(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/spider-dw.jar?raw=true;md5;b62550b71feff1f0ffdc2fba843a244a"},
 ////////////////////////T4爬蟲//////////////////////////////////////////////////////
 {"key":"t4public","name":"💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-//{"key": "T4","name": "🐞T4爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://ju990c.i996.me/TS1/token.json","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"VIP1","name":"🐞低端(T4)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "T4","name": "🐞T4爬虫","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://ju990c.i996.me/TS1/token.json","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"VIP1","name":"🐞低端(T4)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP2","name":"🐞T4-VIP2","type":4,"api":"https://vod.kooo.eu.org/t4/vip11a0c4","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP3","name":"🐞80S(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP4","name":"🐞简影(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
