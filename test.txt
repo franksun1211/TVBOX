@@ -272,10 +272,10 @@
 {"key":"dr_吸瓜","name":"🔃吸瓜(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=吸瓜","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_库马伊","name":"🔃库马伊(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
  {
-      "key": "dr_vip影院",
-      "name": "🔃vip影院",
+      "key": "dr_小强迷",
+      "name": "🔃小强迷",
       "type": 1,
-      "api": "https://drpy.aqingyuan.repl.co/vod?rule=vip影院",
+      "api": "https://drpy.aqingyuan.repl.co/vod?rule=小强迷",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
