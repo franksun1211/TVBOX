@@ -261,6 +261,24 @@
 {"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
+ {
+      "key": "dr_vip影院",
+      "name": "🔃vip影院",
+      "type": 1,
+      "api": "https://drpy.aqingyuan.repl.co/vod?rule=vip影院",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "dr_玩偶姐姐",
+      "name": "🔃玩偶姐姐",
+      "type": 1,
+      "api": "https://drpy.aqingyuan.repl.co/vod?rule=玩偶姐姐",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 ////////////////////////////////////////////////////////////////////////////
 {"key":"Alist","name":"🅿️Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/alist.txt","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider-T3.jar?raw=true;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 {"key":"csp_Yj1211","name": "📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
