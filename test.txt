@@ -261,11 +261,11 @@
 {"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_菜狗","name":"🔃菜狗(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=菜狗","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_菜狗","name":"🔃菜狗(道长)","type":1,"api":"https://drpy.ph30.repl.co/vod?rule=菜狗","searchable":1,"quickSearch":1,"filterable":0},
 
 
-{"key":"dr_007影视","name":"🔃007影视(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=007影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_AnFuns","name":"🔃AnFuns(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_007影视","name":"🔃007影视(道长)","type":1,"api":"https://drpy.ph30.repl.co/vod?rule=007影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_AnFuns","name":"🔃AnFuns(道长)","type":1,"api":"https://drpy.ph30.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_101","name":"🔃101(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=101","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_人人影视","name":"🔃人人影视(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_兔小贝","name":"🔃兔小贝(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
