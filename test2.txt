@@ -1,7 +1,7 @@
 //20220912
 
 {
-	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0913.jar?raw=true;md5;89fe42be4e61ccda8fa5392546fcf821",
+	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0921w.jar?raw=true;md5;34f6c193c8fc2ee4e4e529d8b313b217",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
