@@ -47,7 +47,7 @@
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dmw.json"},
 {"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/ysjdm.json"},      
 
-{"key":"csp_xpath_17skr","name":"💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/92cj.json"},      
+//{"key":"csp_xpath_17skr","name":"💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/92cj.json"},      
 
 {"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/omofun.json"},
 {"key":"csp_xbb_漫岛动漫","name":"🍀漫岛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/漫岛动漫.json"},
@@ -145,66 +145,8 @@
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_czspp.py"
 	},
-{
-		"key": "py_libvio",
-		"name": "🦂LibVio",
-		"type": 3,
-		"api": "py_libvio",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_libvio.py"
-	},
-{
-		"key": "py_ddys",
-		"name": "🦂低端影视",
-		"type": 3,
-		"api": "py_ddys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/ddys.py"
-	},
-{
-		"key": "py_smdyy",
-		"name": "🦂神馬",
-		"type": 3,
-		"api": "py_smdyy",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/smdyy.py"
-	},
-{
-		"key": "py_lezhutv",
-		"name": "🦂乐猪TV",
-		"type": 3,
-		"api": "py_lezhutv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/lezhutv.py"
-	},
-{
-		"key": "py_bdys01",
-		"name": "🦂BDys",
-		"type": 3,
-		"api": "py_bdys01",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/bdys01.py"
-	},
-{
-		"key": "py_bttwoo",
-		"name": "🦂2個BT",
-		"type": 3,
-		"api": "py_bttwoo",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/bttwoo.py"
-	},
+
+
 {
 		"key": "py_zxzj",
 		"name": " 🦂在线之家",
@@ -347,7 +289,7 @@
 {"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_菜狗","name":"🔃菜狗(道长)","type":1,"api":"https://drpy.ph30.repl.co/vod?rule=菜狗","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"dr_菜狗","name":"🔃菜狗(道长)","type":1,"api":"https://drpy.ph30.repl.co/vod?rule=菜狗","searchable":1,"quickSearch":1,"filterable":0},
 
 
 {"key":"dr_特狗影视","name":"🔃特狗影视(道长)","type":1,"api":"http://catvod.fun:5705/vod?rule=特狗影视","searchable":1,"quickSearch":1,"filterable":0},
@@ -355,7 +297,7 @@
 {"key":"dr_101","name":"🔃101(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=101","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_人人影视","name":"🔃人人影视(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_兔小贝","name":"🔃兔小贝(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_菜狗","name":"🔃菜狗2(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=菜狗","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_菜狗","name":"🔃菜狗(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=菜狗","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_库马伊","name":"🔃库马伊(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
  {
       "key": "dr_吸瓜",
@@ -370,7 +312,7 @@
       "key": "dr_l0l",
       "name": "🔃l0l",
       "type": 1,
-      "api": "https://drpy.aqingyuan.repl.co/vod?rule=l0l",
+      "api": "http://catvod.fun:5705/vod?rule=l0l",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
