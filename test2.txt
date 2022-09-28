@@ -1,7 +1,7 @@
 //20220912
 
 {
-	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0921w.jar?raw=true;md5;34f6c193c8fc2ee4e4e529d8b313b217",
+	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -16,7 +16,7 @@
 {"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP" ,"name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🦅看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
