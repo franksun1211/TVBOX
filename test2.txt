@@ -47,7 +47,7 @@
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dmw.json"},
 {"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/ysjdm.json"},      
 
-//{"key":"csp_xpath_17skr","name":"💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/92cj.json"},      
+//{"key":"csp_xpath_17skr","name":"💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/92cj.json"},     {key:'csp_xpath_17skr',name:' 🌾路漫漫动漫(XP)',type:3,api:'csp_XPath',searchable:1,quickSearch:1,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/axu2tlfh.json'}, 
 
 {"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/omofun.json"},
 {"key":"csp_xbb_漫岛动漫","name":"🍀漫岛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/漫岛动漫.json"},
@@ -79,6 +79,8 @@
 {"key":"csp_xbb_555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/555电影.json"},
 {"key":"csp_xp_libv","name":"💢Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/libv.json"},
 {"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/zxzj2.json"},
+{key:'csp_xpath_bdys',name:' 🌾哔嘀影视2(XPF)',type:3,api:'csp_XPathFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/9oc5ut9a.json'},
+{"key":"csp_xml_搬运工","name":"🐝搬运工资源","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
 {
       "key": "多多",
       "name": "🐌多多采集",
