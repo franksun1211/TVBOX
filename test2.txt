@@ -393,7 +393,7 @@
 {"name":"嗨翻","plugin":"alist","server":"https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
 {"name":"非盘","plugin":"alist","server":"http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
 {"name":"听闻","plugin":"alist","server":"https://wangpan.sangxuesheng.com/","userName":"","password":"","type":"plugin"},
-{"name":"TG","plugin":"alist","server":"https://www.tgbak.com/","userName":"","password":"","type":"plugin"},
+{"name":"TG","server":"https://www.tgbak.com/","userName":"","password":"","type":"webdav"},
 
 {"name":"晴园","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"}
 
