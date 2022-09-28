@@ -1,8 +1,8 @@
 {
   "ua": "",
-  "homeUrl": "https://www.92cj.com/",
+  "homeUrl": "https://www.17skr.com/",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.92cj.com/static/js/playerconfig.js",
+  "pCfgJs": "https://www.17skr.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
@@ -26,8 +26,8 @@
   "homeVodImg": "/div[contains(@class, 'img-box')]/a/img/@data-src",
   "homeVodMark": "/div[contains(@class, 'img-box')]/a/div[contains(@class,'absolute-bottom-right')]/span/text()",
 
-  //"cateUrl": "https://www.92cj.com/type/{cateId}_{catePg}.html",
-  "cateUrl": "https://www.92cj.com/vod/show/id/{cateId}/page/{catePg}.html",
+  //"cateUrl": "https://www.17skr.com/type/{cateId}_{catePg}.html",
+  "cateUrl": "https://www.17skr.com/vod/show/id/{cateId}/page/{catePg}.html",
   "cateVodNode": "//div[contains(@class, 'video-img-box')]",
   "cateVodName": "/div[contains(@class, 'detail')]/h6/a/text()",
   "cateVodId": "/div[contains(@class, 'img-box')]/a/@href",
@@ -35,7 +35,7 @@
   "cateVodImg": "/div[contains(@class, 'img-box')]/a/img/@data-src",
   "cateVodMark": "/div[contains(@class, 'img-box')]/a/div[contains(@class,'absolute-bottom-right')]/span/text()",
 
-  "dtUrl": "https://www.92cj.com/detail/{vid}.html",
+  "dtUrl": "https://www.17skr.com/detail/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[@class='module-item-pic']/a/img/@alt",
   "dtNameR": "",
@@ -63,9 +63,9 @@
   "dtUrlId": "/@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/span/text()",
-  "playUrl": "https://www.92cj.com/play/{playUrl}.html",
+  "playUrl": "https://www.17skr.com/play/{playUrl}.html",
 
-  "searchUrl": "https://www.92cj.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "searchUrl": "https://www.17skr.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
