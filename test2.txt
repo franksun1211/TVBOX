@@ -132,152 +132,27 @@
 
 ///////////////////////////////////////////////////////////////
 ///////////////////////PY爬蟲/////////////////////////////////
-{
-		"key": "py_cokemv",
-		"name": " 🦂COKEMV",
-		"type": 3,
-		"api": "py_cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cokemv.py"
-	}, 
-{
-		"key": "py_czspp",
-		"name": "🦂厂长",
-		"type": 3,
-		"api": "py_czspp",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_czspp.py"
-	},
+{"key": "py_gitcafe","name": "🦂小纸条(pyramid)","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_gitcafe.py"}, 
+{"key": "py_alist","name": "🦂Alist(pyramid)","type": 3,"api": "py_alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_alist.py"}, 
+{"key": "py_cctv","name": "🦂央视(pyramid)","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cctv.py"}, 
+{"key": "py_czspp","name": "🦂厂长(pyramid)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_czspp.py"}, 
+{"key": "py_zxzj","name": "🦂在线之家(pyramid)","type": 3,"api": "py_zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_zxzj.py"}, 
+{"key": "py_voflix","name": "🦂Voflix(pyramid)","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_voflix.py"}, 
+{"key": "py_gimytv","name": "🦂剧迷(pyramid)","type": 3,"api": "py_gimytv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_gimytv.py"}, 
+{"key": "py_genmov","name": "🦂跟剧(pyramid)","type": 3,"api": "py_genmov","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_genmov.py"},
+{"key": "py_cokemv","name": "🦂COKE(pyramid)","type": 3,"api": "py_cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cokemv.py"}, 
+{"key": "py_xmaomi","name": "🦂猫咪(pyramid)","type": 3,"api": "py_xmaomi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_xmaomi.py"}, 
+{"key": "py_bilimd","name": "🦂B站影视(pyramid)","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilimd.py"}, 
+{"key": "py_bilibili","name": "🦂哔哩(pyramid)","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilibili.py"}, 
+//{"key": "py_huya","name": "🦂虎牙(pyramid)","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_huya.py"}, 
+//{"key": "py_douyu","name": "🦂斗鱼(pyramid)","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_douyu.py"}, 
+{"key": "py_bilivd","name": "🦂B站(pyramid)","type": 3,"api": "py_bilivd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilivd.py"},
+{"key": "py_3qu","name": "🦂3QU(pyramid)","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_3qu.py"},
+{"key": "py_cyys","name": "🦂创艺(pyramid)","type": 3,"api": "py_cyys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cyys.py"},
+{"key": "py_wmkk","name": "🦂完美看看(pyramid)","type": 3,"api": "py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_wmkk.py"},
+{"key": "py_kunyu77","name": "🦂酷云77(pyramid)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kunyu77"},
+{"key": "py_kuaikan","name": "🦂快看(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kuaikan"},
 
-
-{
-		"key": "py_zxzj",
-		"name": " 🦂在线之家",
-		"type": 3,
-		"api": "py_zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_zxzj.py"
-	}, {
-		"key": "py_voflix",
-		"name": " 🦂Voflix",
-		"type": 3,
-		"api": "py_voflix",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_voflix.py"
-	},
-{
-		"key": " py_bilibili",
-		"name": " 🦂哔哩",
-		"type": 3,
-		"api": "py_bilibili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilibili.py"
-	}, 
-{
-		"key": "py_bilivd",
-		"name": "🦂B站(带搜索)",
-		"type": 3,
-		"api": "py_bilivd",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilivd.py"
-	},{
-		"key": "py_3qu",
-		"name": "🦂3QU",
-		"type": 3,
-		"api": "py_3qu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_3qu.py"
-	},
-{
-		"key": "py_gimytv",
-		"name": " 🦂剧迷",
-		"type": 3,
-		"api": "py_gimytv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_gimytv.py"
-	},{
-		"key": "py_genmov",
-		"name": " 🦂跟剧",
-		"type": 3,
-		"api": "py_genmov",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_genmov.py"
-	}, 
-{
-		"key": "py_cctv",
-		"name": "🦂央视",
-		"type": 3,
-		"api": "py_cctv",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cctv.py"
-	}, {
-		"key": "py_bilimd",
-		"name": "🔥B站影视",
-		"type": 3,
-		"api": "py_bilimd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilimd.py"
-	},
-
-{
-		"key": "py_xmaomi",
-		"name": " 🦂猫咪",
-		"type": 3,
-		"api": "py_xmaomi",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_xmaomi.py"
-	}, {
-		"key": "py_zhaozy",
-		"name": " 🦂找资源",
-		"type": 3,
-		"api": "py_zhaozy",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_zhaozy.py"
-	}, {
-		"key": "py_pansou",
-		"name": " 🦂盘搜",
-		"type": 3,
-		"api": "py_pansou",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_pansou.py"
-	}, {
-		"key": "push_agent",
-		"name": " 🦂阿里",
-		"type": 3,
-		"api": "py_ali",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_ali.py"
-	},
 
 //////////////from海阔道长/////
 {"key":"dr_万能影视","name":"🔃万能(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
