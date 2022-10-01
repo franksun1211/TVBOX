@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
+    "spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/E8plus.jar?raw=true",
     "sites": [
         {"key":"csp_xpath_扛把子影院","name":"扛把子影院(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/扛把子影院(xpf).json"},
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
