@@ -60,6 +60,8 @@
 {"key": "T4","name": "🕵️T4聚合","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://ju990c.i996.me/TS1/token.json","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"t4public","name":"💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{ "key": "RelaxSP","name": "🐌轻松影視","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://agit.ai/relax/adcc/raw/branch/master/relax.json","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/RelaxSP.jar"},
+
 {"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"3️⃣3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 
