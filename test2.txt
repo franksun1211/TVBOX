@@ -160,6 +160,8 @@
 {"key": "py_wmkk","name": "🦂完美看看(pyramid)","type": 3,"api": "py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_wmkk.py"},
 {"key": "py_kunyu77","name": "🦂酷云77(pyramid)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kunyu77"},
 {"key": "py_kuaikan","name": "🦂快看(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kuaikan"},
+{"key": "py_freezb","name": "🦂freezb(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_freezb"},
+
 
 
 //////////////from dr_py/////
