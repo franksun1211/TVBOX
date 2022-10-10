@@ -19,7 +19,7 @@
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🦅看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
       "key": "csp_xpath_olevod",
       "name":"💿欧乐影院(Exo)",
@@ -130,12 +130,12 @@
 {"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinfans.json"},
 
 //{"key": "csp_xpath_qiumi","name":"🏀球赛直播(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/516-qiumi.js"},
-//{"key":"csp_XYQBiu_17kan","name":"⚽17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/17看球.json"},
+{"key":"csp_XYQBiu_17kan","name":"⚽17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/17看球.json"},
 
 
-{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/17看.json"},
+//{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/17看.json"},
 {"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
-{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/88kanqiu.json"},
+//{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/88kanqiu.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/310直播.json"},
 
 ///////////////////////////////////////////////////////////////
