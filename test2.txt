@@ -1,4 +1,4 @@
-//20221005
+//20221012
 
 {
 	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33",
@@ -62,7 +62,7 @@
 
 {"key":"t4public","name":"💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{ "key": "RelaxSP","name": "🐌轻松影視","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/relax.json","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/RelaxSP.jar?raw=true;md5;3f59506311fbbfe6a1976d5481ee3fad"},
-{ "key": "RelaxSP","name": "轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
+//{ "key": "RelaxSP","name": "轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
 {"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"3️⃣3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 
