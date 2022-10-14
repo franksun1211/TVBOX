@@ -163,7 +163,7 @@
 
 {"key":"csp_xbb_YYDS影院","name":"🍀YYDS影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/YYDS影院.json"},
 //{"key":"csp_xbb_tegou","name":"🍀特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/tegou.json"},
-{"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+//{"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 
 
 //{"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
@@ -196,7 +196,7 @@
 {"key": "py_wmkk","name": "🦂完美看看(pyramid)","type": 3,"api": "py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_wmkk.py"},
 {"key": "py_kunyu77","name": "🦂酷云77(pyramid)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kunyu77"},
 {"key": "py_kuaikan","name": "🦂快看(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kuaikan"},
-{"key": "py_freezb","name": "🦂freezb(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_freezb"},
+//{"key": "py_freezb","name": "🦂freezb(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_freezb"},
 
 
 
