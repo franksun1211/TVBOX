@@ -1,0 +1,51 @@
+{
+    "author": "dj22.9.7",
+    "homeUrl": "http://www.jrskanqiu.com/",//http://didiaokan2018.com/
+    "ua":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+
+    "cateManual": {"JRS看球网": "666"},
+
+    // 首页
+    "cateUrl": "http://www.jrskanqiu.com/",
+	// 首页推荐视频的节点
+	"cateVodNode": "//div [@class='listBox']",
+    // 首页推荐视频的名称
+    "cateVodName": "concat(/div[@class='myList']/div[@class='timer']/text(),':',/div[@class='myList']/div[@class='matchType']/text())",
+    // 首页推荐视频的id
+    "cateVodId": "/div[@class='download']/div[@class='status']/a/@href",
+    "cateVodIdR": "/live/(\\d+).html",
+    // 首页推荐视频的图片
+    "cateVodImg": "/div[@class='myList']/div[@class='team']/p[1]/img/@src",
+    // 首页推荐视频的简介
+    "cateVodMark": "concat(/div[@class='myList']/div[@class='team']/p[1]/text(),'vs',/div[@class='myList']/div[@class='team']/p[3]/text())",
+ 
+	
+	// 详情页
+	"dtUrl": "http://www.jrskanqiu.com/live/{vid}.html",
+	// 详情节点
+    "dtNode": "//div[@class='msg']",
+	// 视频名
+    "dtName": "concat(/ul/li[1]/text(),'vs',/ul/li[7]/text())",
+	// 视频图片
+    "dtImg": "/ul/li[2]/img/@src",
+    // 视频简介
+    "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
+	
+	// 播放源节点
+    "dtFromNode": "//ul[@class='checkChannel']",
+	// 播放源名称
+    "dtFromName":  "'【直播源】'",
+	// 播放列表节点
+    "dtUrlNode": "//ul[@class='checkChannel']",
+	// 播放地址节点
+    "dtUrlSubNode": "/li/a[@data-url]",
+	// 播放地址
+    "dtUrlId": "@data-url",
+    "dtUrlIdR": "http(\\S+)",
+	// 剧集名称
+    "dtUrlName": "/text()",
+	
+	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+    "playUrl":"http{playUrl}"
+
+}
