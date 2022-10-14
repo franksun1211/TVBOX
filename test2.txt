@@ -34,6 +34,9 @@
 {"key":"csp_NianYing","name":"🌐念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},     
 //{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cz0708.jar?raw=true;md5;f1119df4fc629e71103cc19e2c7b2338"},
 //////sport///////////////////////
+{"key":"csp_xpath_qiumi","name": "⚽🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
+
+
 {
       "key": "JRS看球网",
       "name": "⚽🏀JRS看球网",
@@ -46,7 +49,6 @@
     },
 
 //{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/17看.json"},
-{"key":"csp_xpath_qiumi","name": "⚽🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
 //{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/88kanqiu.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽🏀310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/310直播.json"},
 ///////////////////////////////////////////////////////
