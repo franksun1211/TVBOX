@@ -208,7 +208,8 @@
 //{"key": "dr_百忙无果","name": " 🌼百忙无果(dr)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=百忙无果","searchable": 2,"quickSearch": 0,"filterable": 1},
 //{"key": "dr_优酷","name": " 🌼优酷(dr)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=优酷","searchable": 2,"quickSearch": 0,"filterable": 1},
 
-{"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
+
 {
    "key": "dr_18av",
    "name": "🔃18av(道长)",
@@ -238,7 +239,7 @@
   },
   {
    "key": "dr_养端",
-   "name": "养端(道长)",
+   "name": "🔃养端(道长)",
    "type": 1,
    "api": "http://3.35.61.16:51730/vod?rule=养端&ext=txt/js/18/养端.js",
    "searchable": 2,
@@ -268,6 +269,159 @@
    "name": "🔃玩偶姐姐(道长)",
    "type": 1,
    "api": "http://3.35.61.16:51730/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_MXONE",
+   "name": "🔃MXONE(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=MXONE&ext=txt/js/tg/MXONE.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_Nike影视",
+   "name": "🔃Nike影视(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=Nike影视&ext=txt/js/tg/Nike影视.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_TV云播",
+   "name": "🔃TV云播(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=TV云播&ext=txt/js/tg/TV云播.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_两个BT",
+   "name": "🔃两个BT(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=两个BT&ext=txt/js/tg/两个BT.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_乐猪TV",
+   "name": "🔃乐猪TV(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=乐猪TV&ext=txt/js/tg/乐猪TV.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_剧荒",
+   "name": "🔃剧荒(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=剧荒&ext=txt/js/tg/剧荒.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_剧迷",
+   "name": "🔃剧迷(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=剧迷&ext=txt/js/tg/剧迷.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_大师兄影视",
+   "name": "🔃大师兄影视(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=大师兄影视&ext=txt/js/tg/大师兄影视.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_天空影视",
+   "name": "🔃天空影视(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=天空影视&ext=txt/js/tg/天空影视.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_完美看看",
+   "name": "🔃完美看看(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=完美看看&ext=txt/js/tg/完美看看.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_快云影院",
+   "name": "🔃快云影院(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=快云影院&ext=txt/js/tg/快云影院.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_爱看影视",
+   "name": "🔃爱看影视(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=爱看影视&ext=txt/js/tg/爱看影视.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_爱看电影",
+   "name": "🔃爱看电影(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=爱看电影&ext=txt/js/tg/爱看电影.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_特狗影视",
+   "name": "🔃特狗影视(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=特狗影视&ext=txt/js/tg/特狗影视.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_皮皮泡",
+   "name": "🔃皮皮泡(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=皮皮泡&ext=txt/js/tg/皮皮泡.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_看了么",
+   "name": "🔃看了么(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=看了么&ext=txt/js/tg/看了么.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_胖虎影视",
+   "name": "🔃胖虎影视(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=胖虎影视&ext=txt/js/tg/胖虎影视.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 0
