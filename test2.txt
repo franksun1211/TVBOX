@@ -208,6 +208,69 @@
 //{"key": "dr_优酷","name": " 🌼优酷(dr)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=优酷","searchable": 2,"quickSearch": 0,"filterable": 1},
 
 {"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
+{
+   "key": "dr_18av",
+   "name": "🔃18av(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=18av&ext=txt/js/18/18av.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_banan",
+   "name": "🔃banan(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=banan&ext=txt/js/18/banan.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_Missav",
+   "name": "🔃Missav(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=Missav&ext=txt/js/18/Missav.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_养端",
+   "name": "养端(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=养端&ext=txt/js/18/养端.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_吸瓜",
+   "name": "🔃吸瓜(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_朱古力",
+   "name": "🔃朱古力(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=朱古力&ext=txt/js/18/朱古力.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
+  {
+   "key": "dr_玩偶姐姐",
+   "name": "🔃玩偶姐姐(道长)",
+   "type": 1,
+   "api": "http://3.35.61.16:51730/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0
+  },
 
 //{"key": "dr_两个BT","name": " 🌼两个BT","type": 1,"api": "https://drpy.justmiss.repl.co/vod?rule=两个BT","searchable": 2,"quickSearch": 0,"filterable": 0},
 //{"key":"dr_特狗影视","name":"🔃特狗影视(道长)","type":1,"api":"http://catvod.fun:5705/vod?rule=特狗影视","searchable":1,"quickSearch":1,"filterable":0},
