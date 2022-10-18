@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top97.jar",
+  "spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/top97.jar?raw=true;md5;7299c83c6ee488b6051041d3f9a30488",
   "lives": [
     {
       "group": "redirect",
