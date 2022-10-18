@@ -23,6 +23,16 @@
 //{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Jianying","name":"🐾简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw","jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8"},
 {"key": "csp_AppTT","name": "🆗TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},	
+{
+      "key": "csp_xBPQ_爱看影视",
+      "name": "❤️爱看（xBPQ）",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
+    },
 
 
 {
@@ -38,16 +48,6 @@
 //{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cz0708.jar?raw=true;md5;f1119df4fc629e71103cc19e2c7b2338"},
 //////sport///////////////////////
 {"key":"csp_xpath_qiumi","name": "⚽🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
-{
-      "key": "csp_xBPQ_爱看影视",
-      "name": "❤️爱看（xBPQ）",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
-    },
 
 {
       "key": "JRS看球网",
