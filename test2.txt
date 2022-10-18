@@ -55,10 +55,10 @@
 ///////////////////////////////////////////////////////
 
 
-{"key":"Lezhu_spider","name": "🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
-{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"Lezhu_spider","name": "🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
+//{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_dd5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
@@ -106,17 +106,17 @@
 {"key":"t4public","name":"💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{ "key": "RelaxSP","name": "🐌轻松影視","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/relax.json","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/RelaxSP.jar?raw=true;md5;3f59506311fbbfe6a1976d5481ee3fad"},
 //{ "key": "RelaxSP","name": "轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
-{"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"3EDY","name":"3️⃣3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "9E03","name":"9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 //{"key":"csp_Wmkk","name":"💯完美看看","api":"csp_Wmkk","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key":"Smdyy","name": "🐎神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
+//{"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Auete" ,"name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"bdys","name":"☀️哔嘀(磁力测试)","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/Bdys.json"},
 ////////////////////////liucn/////////////////////////////////////////////
@@ -161,10 +161,10 @@
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/美剧虫.json"},
 //{"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinfans.json"},
 //{"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/bdys01.json","jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/ext/cili.jpg"},
-{"key":"csp_xbb_人人影视","name":"🍀人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/人人影视.json"},
-{"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/在线之家.json"},
+//{"key":"csp_xbb_人人影视","name":"🍀人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/人人影视.json"},
+//{"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/在线之家.json"},
 
-{"key":"csp_xbb_YYDS影院","name":"🍀YYDS影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/YYDS影院.json"},
+//{"key":"csp_xbb_YYDS影院","name":"🍀YYDS影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/YYDS影院.json"},
 //{"key":"csp_xbb_tegou","name":"🍀特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXB/tegou.json"},
 //{"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 
@@ -185,8 +185,8 @@
 {"key": "py_czspp","name": "🦂厂长(pyramid)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_czspp.py"}, 
 {"key": "py_zxzj","name": "🦂在线之家(pyramid)","type": 3,"api": "py_zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_zxzj.py"}, 
 {"key": "py_voflix","name": "🦂Voflix(pyramid)","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_voflix.py"}, 
-{"key": "py_gimytv","name": "🦂剧迷(pyramid)","type": 3,"api": "py_gimytv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_gimytv.py"}, 
-{"key": "py_genmov","name": "🦂跟剧(pyramid)","type": 3,"api": "py_genmov","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_genmov.py"},
+//{"key": "py_gimytv","name": "🦂剧迷(pyramid)","type": 3,"api": "py_gimytv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_gimytv.py"}, 
+//{"key": "py_genmov","name": "🦂跟剧(pyramid)","type": 3,"api": "py_genmov","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_genmov.py"},
 {"key": "py_cokemv","name": "🦂COKE(pyramid)","type": 3,"api": "py_cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cokemv.py"}, 
 {"key": "py_xmaomi","name": "🦂猫咪(pyramid)","type": 3,"api": "py_xmaomi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_xmaomi.py"}, 
 {"key": "py_bilimd","name": "🦂B站影视(pyramid)","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilimd.py"}, 
@@ -196,7 +196,7 @@
 {"key": "py_bilivd","name": "🦂B站(pyramid)","type": 3,"api": "py_bilivd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_bilivd.py"},
 {"key": "py_3qu","name": "🦂3QU(pyramid)","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_3qu.py"},
 {"key": "py_cyys","name": "🦂创艺(pyramid)","type": 3,"api": "py_cyys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_cyys.py"},
-{"key": "py_wmkk","name": "🦂完美看看(pyramid)","type": 3,"api": "py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_wmkk.py"},
+//{"key": "py_wmkk","name": "🦂完美看看(pyramid)","type": 3,"api": "py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_wmkk.py"},
 //{"key": "py_kunyu77","name": "🦂酷云77(pyramid)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kunyu77"},
 {"key": "py_kuaikan","name": "🦂快看(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_kuaikan"},
 //{"key": "py_freezb","name": "🦂freezb(pyramid)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/PY/py_freezb"},
@@ -210,222 +210,6 @@
 
 //{"key":"dr_养端","name":"🔃养端(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
 
-{
-   "key": "dr_18av",
-   "name": "🔃18av(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=18av&ext=txt/js/18/18av.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_banan",
-   "name": "🔃banan(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=banan&ext=txt/js/18/banan.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_Missav",
-   "name": "🔃Missav(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=Missav&ext=txt/js/18/Missav.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_养端",
-   "name": "🔃养端(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=养端&ext=txt/js/18/养端.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_吸瓜",
-   "name": "🔃吸瓜(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_朱古力",
-   "name": "🔃朱古力(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=朱古力&ext=txt/js/18/朱古力.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_玩偶姐姐",
-   "name": "🔃玩偶姐姐(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_MXONE",
-   "name": "🔃MXONE(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=MXONE&ext=txt/js/tg/MXONE.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_Nike影视",
-   "name": "🔃Nike影视(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=Nike影视&ext=txt/js/tg/Nike影视.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_TV云播",
-   "name": "🔃TV云播(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=TV云播&ext=txt/js/tg/TV云播.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_两个BT",
-   "name": "🔃两个BT(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=两个BT&ext=txt/js/tg/两个BT.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_乐猪TV",
-   "name": "🔃乐猪TV(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=乐猪TV&ext=txt/js/tg/乐猪TV.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_剧荒",
-   "name": "🔃剧荒(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=剧荒&ext=txt/js/tg/剧荒.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_剧迷",
-   "name": "🔃剧迷(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=剧迷&ext=txt/js/tg/剧迷.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_大师兄影视",
-   "name": "🔃大师兄影视(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=大师兄影视&ext=txt/js/tg/大师兄影视.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_天空影视",
-   "name": "🔃天空影视(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=天空影视&ext=txt/js/tg/天空影视.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_完美看看",
-   "name": "🔃完美看看(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=完美看看&ext=txt/js/tg/完美看看.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_快云影院",
-   "name": "🔃快云影院(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=快云影院&ext=txt/js/tg/快云影院.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_爱看影视",
-   "name": "🔃爱看影视(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=爱看影视&ext=txt/js/tg/爱看影视.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_爱看电影",
-   "name": "🔃爱看电影(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=爱看电影&ext=txt/js/tg/爱看电影.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_特狗影视",
-   "name": "🔃特狗影视(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=特狗影视&ext=txt/js/tg/特狗影视.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_皮皮泡",
-   "name": "🔃皮皮泡(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=皮皮泡&ext=txt/js/tg/皮皮泡.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_看了么",
-   "name": "🔃看了么(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=看了么&ext=txt/js/tg/看了么.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_胖虎影视",
-   "name": "🔃胖虎影视(道长)",
-   "type": 1,
-   "api": "http://3.35.61.16:51730/vod?rule=胖虎影视&ext=txt/js/tg/胖虎影视.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
 
 //{"key": "dr_两个BT","name": " 🌼两个BT","type": 1,"api": "https://drpy.justmiss.repl.co/vod?rule=两个BT","searchable": 2,"quickSearch": 0,"filterable": 0},
 //{"key":"dr_特狗影视","name":"🔃特狗影视(道长)","type":1,"api":"http://catvod.fun:5705/vod?rule=特狗影视","searchable":1,"quickSearch":1,"filterable":0},
