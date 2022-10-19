@@ -1,7 +1,7 @@
 {
-"spider": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt",
+//"spider": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt",
 
-//"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider-T3.jar?raw=true;md5;1b0fae7c99b09c6f66d6c39b114580a9",
+"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.txt?raw=true;md5;695c8e045a1de669dbb104678ca87773",
   "lives": [
     {
       "group": "redirect",
@@ -18,7 +18,7 @@
 "sites": [
 
 {"key": "Czsapp","name": " 🥇厂长","type":3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Cokemv","name": " 🥇可乐","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Cokemv","name": " 🥇CokemV","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lib","name": " 🥇Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "IKan","name": " 🥇爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -38,7 +38,7 @@
 
 {"key": "Bili","name": "哔哩","type":3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/ext/B站.txt"},
 
-{"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
+{"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Zhaozy","name": "资源(挂)","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
 {"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
 {"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"}
