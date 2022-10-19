@@ -1,5 +1,7 @@
 {
-  "spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider-T3.jar?raw=true;md5;1b0fae7c99b09c6f66d6c39b114580a9",
+"spider": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt",
+
+//"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider-T3.jar?raw=true;md5;1b0fae7c99b09c6f66d6c39b114580a9",
   "lives": [
     {
       "group": "redirect",
