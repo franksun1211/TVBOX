@@ -1,6 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0883C16C05F842241FC1A5F38DF19813",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C85CFD3DC93FD68808610103BB9C8898",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
@@ -11,7 +11,7 @@
 	    }],
 
 	"sites":[
-{"key":"csp_Cokemv","name":"🥇可乐","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🥇Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"🥇厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/737/ts.jar?sign=RyqCdJ4fn0AEjlN5ZlYqm02vO0V_0GIOeRmCBFekX7o%3D%3A0"},
@@ -37,11 +37,13 @@
 {"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/737/ts.jar?sign=RyqCdJ4fn0AEjlN5ZlYqm02vO0V_0GIOeRmCBFekX7o%3D%3A0"},
 {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/737/ts.jar?sign=RyqCdJ4fn0AEjlN5ZlYqm02vO0V_0GIOeRmCBFekX7o%3D%3A0"},
 //////////////////////////////////////////////////////////////////////////
-{"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/企鹅直播.json"},
-{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/JRS赛事直播.json"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88看球.json"},
 {"key":"csp_XYQBiu_17kan","name":"⚽17kan","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/17kan.json"},
 {"key":"csp_xBPQ_抓饭体育","name":"️🍀抓饭体育（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
+{"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/企鹅直播.json"},
+{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/JRS赛事直播.json"},
+
+		
 //////////////////////////////////////////////////////////////////////////
 {"key":"csp_xpath_17skr","name":" 🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/17skr.json"},
 //{"key":"csp_xpath_dmw","name":" 🌾动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/dmw.json"},
