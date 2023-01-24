@@ -98,7 +98,7 @@
 
 //{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/737/ts.jar?sign=RyqCdJ4fn0AEjlN5ZlYqm02vO0V_0GIOeRmCBFekX7o%3D%3A0"},
 {"key":"t4public","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+//{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 
 //{"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
