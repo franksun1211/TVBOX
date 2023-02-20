@@ -119,7 +119,8 @@
 {"key":"mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
 
 {"key":"csp_Bd","name":"💥哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_xBPQ_98影院","name":"💢98影院（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
+{"key":"csp_xBPQ_ 零零七","name":"💢零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
 {"key":"csp_Bttoo","name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
