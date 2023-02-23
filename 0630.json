@@ -1,7 +1,7 @@
 {
 "spider":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider0704.jar?raw=true",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ZyYW5rc3VuMTIxMS9UVkJPWC9tYWluL0FQUC90di90cy50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2phY2tzb24wODI5L2phY2tzb24wODI5LmdpdGh1Yi5pby9tYWluL0NSLnR4dA=="]}]}],
 
 
 "sites":[
