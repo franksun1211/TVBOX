@@ -26,7 +26,7 @@
 //{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Lib","name":"🔷LibVio(T)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
-
+{"key":"csp_biubiu_LIBVIO","name": "LIBVIO（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://agit.ai/65012833/Json/raw/branch/master/LIBVIO.json"},
 
 //{"key":"IKan","name":"🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"独播库","name":"🏭独播库","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1"},
