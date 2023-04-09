@@ -11,8 +11,9 @@
     {
       "name": "直播",
       "type": 0,
-      //"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/230107.txt",    
-      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
+      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/tvbus.txt",
+      //"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/230107.txt",  	    
+      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
       //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
       //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
