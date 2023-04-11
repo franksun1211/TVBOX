@@ -11,9 +11,9 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/tvbus.txt",
+      //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/tvbus.txt",
       //"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/230107.txt",  	    
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
+      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
       //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
       //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
@@ -46,7 +46,7 @@
 {"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
+//{"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
 {"key":"csp_Dy1010","name":"⏺双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
