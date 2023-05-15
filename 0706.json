@@ -35,8 +35,6 @@
 {"key":"drpy_js_l0l","name":"🥇If101[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/l0l.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/custom_spider.jar"},
 {"key":"AppTT","name":"🥇图图","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/cs.jar"},
 {"key":"IKan","name":"🥇爱看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/cs.jar"},
-//{"key":"If101","name":"🥇If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "drpy_js_if101","name": "🥇If101[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},
 
 //{"key": "csp_xpath_olevod","name":"🥇欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
 //{"key": "drpy_js_多瑙影视","name": "💿多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
