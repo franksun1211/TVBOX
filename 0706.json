@@ -104,7 +104,7 @@
 {"key":"csp_Anime1","name":"💢小日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_agemys","name":"💢AGE动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/AnFuns.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"drpy_js_NyaFun","name":"动漫 | NyaFun[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/NyaFun.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
-
+{"key":"drpy_js_爱弹幕","name":"动漫 | 爱弹幕[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/爱弹幕.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"drpy_js_58动漫","name":"动漫 | 58动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/58动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 
 //{"key": "drpy_js_AnFuns","name": " 🥇💢AnFuns[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/AnFuns.js"},
