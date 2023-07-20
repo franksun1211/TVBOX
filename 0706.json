@@ -21,10 +21,12 @@
   ],
 
 	"sites":[
-{"key":"csp_Cokemv","name":"🥇Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+		
+{"key":"t4public","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🥇Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},		
+
 {"key":"泥巴","name":"🥇泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_l0l","name":"🥇If101[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/l0l.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/custom_spider.jar"},
@@ -79,7 +81,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 
-{"key":"t4public","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+
 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
