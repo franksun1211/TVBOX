@@ -22,7 +22,7 @@
 
 	"sites":[
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
-		
+{"key":"csp_Lib","name": "🌽┃LIBVIO┃8K","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},		
 {"key":"t4public","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🥇Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},		
@@ -84,7 +84,12 @@
 {"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/58动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 
 ////////////////////////////////////////////////////////////////////////////////
+{"key":"csp_WoGG","name":"💂🏿‍♀️┃玩偶哥哥┃8K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://192.168.1.4:5244/Alan/Alist/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},
 
+{"key":"荐片","name":"✒️┃荐片哥哥┃4K","type": 3,"playerType":"1","api":"http://xhww.fun:63/lib/drpy2.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},
+
+{"key": "蘑菇","name": "🍄┃陌陌姐姐┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gvideo.me/api.php/app/","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},
+{"key": "csp_mdd","name": "🥚┃蛋蛋妹妹┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.mengdandan.com/xgapp.php/v1/","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},
 
 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
