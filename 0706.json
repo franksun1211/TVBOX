@@ -56,6 +56,9 @@
 //{"key":"多米","name":"🌽️多米","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"key": "py_webqq","name": "🛫看看美剧(PY)","type": 3,"api": "py_webqq","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/py_kankanmeiju.py"},
+
+		
 //////////////////////////////////////////////////////////////////////////
 {"key":"dr_88看球","name":"🏆🏀88看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88看球.js"},
 {"key":"csp_XYQBiu_17kan","name":"🏆🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
