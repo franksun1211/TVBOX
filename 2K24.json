@@ -75,8 +75,14 @@
 
 {"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-
+{
+      "key": "低端",
+      "name": "🛣┃低端┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/ddys.js"
+    },
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 {"key": "巧技二","name": "🛫喵播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
 {
