@@ -1,28 +1,23 @@
 {
 "sites":[
 ##from alan-X
-{"key":"csp_DouDou","name":"🔍豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/bluefriendCN/bin/raw/main/Yoursmile.jar"},
+{"key": "豆瓣","name":"🔍豆瓣推荐","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
+//{"key":"csp_DouDou","name":"🔍豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/bluefriendCN/bin/raw/main/Yoursmile.jar"},
 {"key":"贱贱","name":"🥇贱贱p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
 {"key":"泥巴","name":"🥇泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
 {"key":"胡胡","name":"🥇胡胡4K","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 {"key":"哔嘀","name":"🥇哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 {"key":"云播","name":"🥇云播","type":3,"api":"csp_Skapp","ext":"./EXT/云播","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},	
 {"key":"欣欣","name":"🥇欣欣","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/欣欣","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
+{"key":"飞马影视","name":"🥇飞马if","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
+
+{"key":"drpy_hh","name":"🛫吼吼","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/HoHo影视.js"},
+{"key":"drpy_od","name":"🥇欧帝","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"},
+{"key":"Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy55.com/"},
+{"key":"Xinsj","name":"🥇视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 
 {"key": "天天","name": "🥇天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
-{"key": "巧技二","name": "🥇喵播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
-{
-            "key": "1996",
-            "name": "🍷996影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            }
-        },
+
      {
       "key": "js_荐片",
       "name": "🥇荐片",
@@ -35,16 +30,6 @@
       "filterable": 1
     },
 
-{
-      "key": "csp_日后",
-      "name": "🌜┃三思┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json"
-    },
 
 
 //////////////////////////////////////////////////////////////////////////
@@ -83,8 +68,6 @@
 
 {"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/多瑙影视.js","playerType":"2","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/custom_spider.jar"},
 
-{"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy55.com/"},
-{"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 
 {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
@@ -95,7 +78,29 @@
 {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
-
+{"key": "巧技二","name": "🛫喵播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
+{
+            "key": "1996",
+            "name": "🍷996影视",
+            "type": 3,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+                "筛选": "1"
+            }
+        },
+{
+      "key": "csp_日后",
+      "name": "🌜┃三思┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json"
+    },
 
 {"key":"csp_Auete","name":"🐼┃Auete┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -112,10 +117,6 @@
 
 
 
-{"key":"飞马影视","name":"🥇飞马if","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
-
-{"key":"drpy_hh","name":"🛫┃吼吼┃","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/HoHo影视.js"},
-{"key":"drpy_od","name":"🛫┃欧帝┃","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"},
 
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
