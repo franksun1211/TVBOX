@@ -62,21 +62,24 @@
 {"key":"drpy_js_动漫岛","name":"💢动漫岛[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/动漫岛.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"csp_Anime1","name":"💢小日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_agemys","name":"💢AGE动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/AnFuns.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
-{"key":"drpy_js_NyaFun","name":"🥇💢NyaFun动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/NyaFun.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
+//{"key":"drpy_js_NyaFun","name":"🥇💢NyaFun动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/NyaFun.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"drpy_js_爱弹幕","name":"🥇💢爱弹幕动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/爱弹幕.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/58动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 //{"key":"drpy_js_风车动漫","name":"💢风车动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/风车动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
  {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 //{"key":"drpy_js_Anime1动畫","name":"动漫 | Anime1动畫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/Anime1动畫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 ////////////////////////////////////////////////////////////////////////////////
-
+{"key":"稀饭动漫","name":"🥇稀饭动漫","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
+{"key":"妮可动漫","name":"妮可动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/妮可动漫.js"},
+{"key":"奇米动漫","name":"奇米动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/奇米动漫.js"},
+{"key":"维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/维奇动漫.json","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 
 
 
 
 
 {"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/多瑙影视.js","playerType":"2","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/custom_spider.jar"},
-
+{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
@@ -87,30 +90,9 @@
 
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 {"key": "巧技二","name": "🛫喵播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
-{
-            "key": "1996",
-            "name": "🍷996影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            }
-        },
-{
-      "key": "csp_日后",
-      "name": "🌜┃三思┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json"
-    },
 
-{"key":"csp_Auete","name":"🐼┃Auete┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Auete","name":"🐼┃Auete┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 
 {"key": "SNzy","name": "🚠┃索尼┃追剧","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","海外剧","大陆综艺","国产动漫"]},
 
