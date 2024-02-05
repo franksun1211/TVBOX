@@ -70,9 +70,9 @@
  {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 //{"key":"drpy_js_Anime1动畫","name":"动漫 | Anime1动畫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/Anime1动畫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 ////////////////////////////////////////////////////////////////////////////////
-{"key":"妮可动漫","name":"妮可动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/tree/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/tree/main/JS/妮可动漫.js","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
-{"key":"奇米动漫","name":"奇米动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/tree/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/tree/main/JS/奇米动漫.js","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
-{"key":"维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/PizazzGY/TVBox/tree/main/XBPQ/维奇动漫.json","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
+{"key":"妮可动漫","name":"妮可动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/blob/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/blob/main/JS/妮可动漫.js","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
+{"key":"奇米动漫","name":"奇米动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/blob/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/blob/main/JS/奇米动漫.js","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
+{"key":"维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/PizazzGY/TVBox/blob/main/XBPQ/维奇动漫.json","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 
 
 
