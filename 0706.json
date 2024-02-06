@@ -89,7 +89,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "动作片",
+        "篮球",
+	"动作片",
         "喜剧片",
         "科幻片",
         "恐怖片",
@@ -115,8 +116,7 @@
         "日韩综艺",
         "欧美综艺",
 	"4K电影",
-	"体育赛事", 
-	"篮球"     
+	"足球"     
       ]
     },
 {"key":"畅梦","name":"💤畅梦","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/changmeng.js"},
