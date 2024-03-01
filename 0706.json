@@ -12,7 +12,7 @@
 {"key":"哔嘀","name":"🥇哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 {"key":"云播","name":"🥇云播","type":3,"api":"csp_Skapp","ext":"https://github.com/PizazzGY/TVBox/raw/main/EXT/云播","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},	
 {"key":"欣欣","name":"🥇欣欣","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/PizazzGY/TVBox/raw/main/EXT/欣欣","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
-{"key":"飞马影视","name":"🥇飞马if","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
+{"key":"飞马影视","name":"🥇飞马(if)","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
 
 {"key":"Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy55.com/"},
 {"key":"Xinsj","name":"🥇视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
