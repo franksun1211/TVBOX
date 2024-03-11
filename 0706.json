@@ -51,7 +51,7 @@
 {"key":"奇米动漫","name":"💢奇米动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/raw/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/raw/main/JS/奇米动漫.js","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 {"key":"维奇动漫","name":"💢维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/PizazzGY/TVBox/raw/main/XBPQ/维奇动漫.json","jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"},
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+{"key": "csp_日后","name": "🌜┃三思┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json","jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"},
 
 
 {"key": "drpy_js_欧帝影院","name": "💿欧帝","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧帝影院.js","jar": "https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"},
