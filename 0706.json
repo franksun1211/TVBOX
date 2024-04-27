@@ -57,7 +57,7 @@
 {"key":"妮可动漫","name":"💢妮可动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/raw/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/raw/main/JS/妮可动漫.js","jar":"https://github.com/PizazzGY/TVBox/raw/main/spider.jar"},
 {"key":"奇米动漫","name":"💢奇米动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/raw/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/raw/main/JS/奇米动漫.js","jar":"https://github.com/PizazzGY/TVBox/raw/main/spider.jar"},
 {"key":"维奇动漫","name":"💢维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/PizazzGY/TVBox/raw/main/XBPQ/维奇动漫.json","jar":"https://github.com/PizazzGY/TVBox/raw/main/spider.jar"},
-{"key":"drpy_js_喵次元","name":"🥇喵次元[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/喵次元.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/pg.jar"},
+{"key":"drpy_js_喵次元","name":"🥇💢喵次元[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/喵次元.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/pg.jar"},
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key": "drpy_js_欧帝影院","name": "💿欧帝","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧帝影院.js","jar": "https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"},
 
