@@ -57,7 +57,7 @@
 {"key":"drpy_js_喵次元","name":"🥇💢喵次元[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/喵次元.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/pg.jar"},
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key": "drpy_js_欧帝影院","name": "💿欧帝","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧帝影院.js","jar": "https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"},
-
+{"key":"酷看","name":"💡酷看┃App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"drpy_js_多瑙影视","name":"💿多瑙影视[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/多瑙影视.js","playerType":"2","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/custom_spider.jar"},
 //{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"爱看","name":"💡爱看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
