@@ -13,7 +13,7 @@
 //{"key":"csp_Jianpian","name":"🥇🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"},
 {"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	
 {"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/荐片.js"},
-{"key": "drpy_js_if101","name": "🥇If101","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},
+{"key": "drpy_js_if101","name": "🥇If101","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/if101.js"},
 {"key":"哔嘀","name":"🥇哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/PandaQ240724.jar"},
 {"key":"飞马影视","name":"🥇飞马(if)","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
 {"key":"csp_YCyz","name":"🥇原创(BiDi)","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://github.com/bluefriendCN/bin/raw/main/Yoursmile.jar"},
