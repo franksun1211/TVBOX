@@ -9,7 +9,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
 //{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},  
-{"key":"Lib","name": "👒LIBVIO(8K)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.cc/"},
+{"key":"Lib","name": "☘️LIBVIO(8K)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.cc/"},
 {"key":"csp_Jianpian","name":"🥇🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 {"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	
 {"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/荐片.js"},
@@ -27,7 +27,7 @@
 //{"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"苹果","name":"🥇小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},	
 //{"key":"泥巴","name":"🥇泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar":"https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
-{"key": "csp_SNzy","name": "🐉索尼","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","4K电影","篮球","足球"]},
+{"key": "csp_SNzy","name": "☘️索尼","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","4K电影","篮球","足球"]},
 //{"key":"haiwaikan","name":"👌🏻海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"timeout":10,"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"],"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"},  
 
 ///動漫/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -39,14 +39,19 @@
 {"key":"drpy_js_NT动漫","name":"🥇💢NT动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/NT动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"drpy_js_去看吧","name":"🥇💢去看吧动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/去看吧.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"drpy_js_怡萱动漫","name":"🥇💢怡萱动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/怡萱动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
+{"key":"csp_Dm84","name":"🥇💢动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drpy_js_NyaFun","name":"🥇💢NyaFun动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/NyaFun.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/pg.jar"},
+{"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/58动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
+		
 {"key":"drpy_js_异世界动漫","name":"💢异世界动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/异世界动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 //{"key":"drpy_js_omofun动漫","name":"💢omofun动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/omofun动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
 {"key":"drpy_js_动漫岛","name":"💢动漫岛[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/动漫岛.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
-{"key":"csp_Anime1","name":"💢小日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Anime1","name":"💢小日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Anime1","name":"💢Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_xp_agemys","name":"💢AGE动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/AnFuns.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
-{"key":"drpy_js_NyaFun","name":"🥇💢NyaFun动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/NyaFun.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/pg.jar"},
-{"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/58动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 //{"key":"drpy_js_风车动漫","name":"💢风车动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/风车动漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 {"key":"妮可动漫","name":"💢妮可动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/raw/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/raw/main/JS/妮可动漫.js","jar":"https://github.com/PizazzGY/TVBox/raw/main/spider.jar"},
@@ -106,9 +111,7 @@
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
 {"key":"csp_XYQHikerAL_4KHDR","name":"🧲4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/4KHDR.json"},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_YGP","name":"🌎叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Djtt","name":"🌈短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Yj1211","name":"📽️JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
