@@ -11,11 +11,15 @@
       //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/pro.txt",    
       //"url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/sunny.txt",  	    
       //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",   
-      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",  
+      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",  
+      "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",    
       //"url":"https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/vip.txt?ref_type=heads",
       //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
       //"url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "playerType":1,
+      "ua":"okhttp/3.15",
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],	
 	
