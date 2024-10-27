@@ -67,18 +67,18 @@
 {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"🎃南瓜","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
-   {
-      "key": "厂长",
-      "name": "📔厂长",
-      "type": 3,
-      "api": "csp_NewCz",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt",
-      "ext": "https://czzy.top/"
-    },		
+{
+            "key": "厂长资源",
+            "name": "📔厂长",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+	    "jar":"https://github.com/PizazzGY/TVBox/raw/refs/heads/main/spider.jar",
+            "filterable": 1
+        },
+		
+		
 ////////////////////////////////////////////////////////動漫/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key":"drpy_js_路漫漫","name":"🥇💢路漫漫动漫[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/路漫漫.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fanty.jar"},
 //{"key":"csp_xifan","name":"🥇💢稀饭动漫🐱","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/PandaQ240724.jar"},
