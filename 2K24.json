@@ -49,6 +49,18 @@
       "quickSearch": 1,
       "filterable": 1,"jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar"
     },
+    {
+            "key": "酷影视",
+            "name": "🥇酷影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/","jar":"https://github.com/PizazzGY/TVBox/raw/refs/heads/main/spider.jar"
+        },
+{"key":"木叶","name":"🥇木叶","type":3,"api":"csp_Muye","playerType":2,"jar":"http://cdn.qiaoji8.com/fix24108.jar","ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},		
+{"key":"柠檬","name":"🥇柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar":"http://cdn.qiaoji8.com/fix24108.jar","ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
 {"key":"飞马影视","name":"🥇飞马(if)","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
 {"key":"原创","name":"🥇原创(BiDi)","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726409251899/fan.txt"},
 //{"key":"csp_YCyz","name":"🥇原创(BiDi)","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://github.com/bluefriendCN/bin/raw/main/Yoursmile.jar"},
