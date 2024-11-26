@@ -129,6 +129,7 @@
 {"key":"奇米动漫","name":"💢奇米动漫","type":3,"api":"https://github.com/PizazzGY/TVBox/raw/main/JS/drpy.min.js","ext":"https://github.com/PizazzGY/TVBox/raw/main/JS/奇米动漫.js","jar":"https://github.com/PizazzGY/TVBox/raw/main/spider.jar"},
 //{"key":"维奇动漫","name":"💢维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/PizazzGY/TVBox/raw/main/XBPQ/维奇动漫.json","jar":"https://github.com/PizazzGY/TVBox/raw/main/spider.jar"},
 //{"key":"drpy_js_喵次元","name":"🥇💢喵次元[js]","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy2.min.js","ext":"https://github.com/gaotianliuyun/gao/raw/master/js/喵次元.js","jar":"https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt"},
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 
