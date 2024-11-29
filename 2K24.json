@@ -101,7 +101,7 @@
       "api": "csp_Xifan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar":"http://我不是.肥猫.live/jar.php"
+      "filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/PandaQ240724.jar"
     },
 
 {"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/58动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
