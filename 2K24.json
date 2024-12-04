@@ -1,3 +1,4 @@
+
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 ///from XC/////////////
 {
@@ -38,7 +39,7 @@
 {"key":"csp_Jianpian","name":"🥇🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 {"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	
 //{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/荐片.js"},
-{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://github.com/qist/tvbox/raw/master/FTY/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/FTY/jp.js"},
+//{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://github.com/qist/tvbox/raw/master/FTY/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/FTY/jp.js"},
 //{"key": "drpy_js_if101","name": "🥇If101","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/if101-2.js"},
 {"key":"夜貓_drpy_xb","name":"👑小宝影视","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 //{"key":"哔嘀","name":"🥇哔嘀🐱","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/PandaQ240724.jar"},
