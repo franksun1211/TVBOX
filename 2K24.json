@@ -97,8 +97,10 @@
 		
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},		
 ////////////////////////////////////////////////////////動漫/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-{"key":"drpy_js_路漫漫","name":"🥇💢路漫漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/路漫漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_爱弹幕","name":"🥇💢爱弹幕[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/爱弹幕.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
+{"key":"drpy_js_路漫漫","name":"🥇💢路漫漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/路漫漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
+{"key":"csp_Dm84","name":"🥇💢动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+
 {
       "key": "csp_xifan",
       "name": "🥇💢稀饭动漫🐱",
@@ -111,14 +113,14 @@
 
 {"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/58动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_AGE动漫","name":"🥇💢AGE动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/AGE动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
-{"key":"drpy_js_AnFuns","name":"🥇💢AnFuns[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/AnFuns.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
+//{"key":"drpy_js_AnFuns","name":"🥇💢AnFuns[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/AnFuns.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_Anime1动畫","name":"🥇💢Anime1动畫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/Anime1动畫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_NT动漫","name":"🥇💢NT动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/NT动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_NyaFun","name":"🥇💢NyaFun[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/NyaFun.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 
 {"key":"drpy_js_动漫岛","name":"🥇💢动漫岛[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/动漫岛.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 
-{"key":"drpy_js_喵次元","name":"影视 | 喵次元[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/喵次元.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
+//{"key":"drpy_js_喵次元","name":"影视 | 喵次元[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/喵次元.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_奇米动漫","name":"🥇💢奇米动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/奇米动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_去看吧","name":"🥇💢去看吧[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/去看吧.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_曲奇动漫","name":"🥇💢曲奇动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/曲奇动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
