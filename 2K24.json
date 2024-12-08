@@ -33,13 +33,29 @@
 
 //{"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+{"key":"文采","name":"🥇文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726409251899/fan.txt"},
 {"key":"Lib","name": "🥇LibVio","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732870410650/fan.txt"},		
-//{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
-//{"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},  
-//{"key":"Lib","name": "☘️LIBVIO(8K)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.cc/"},
 {"key":"csp_Jianpian","name":"🥇🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 {"key":"csp_DiDuan","name":"🥇低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	
+{"key": "sgabys","name": "🥇安博","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
+
+{"key":"木耳","name":"🥇黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
+	
+{"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+{
+      "key": "926看球",
+      "name": "🏆🏆🏆⚽926┃看球",
+      "type": 3,
+      "api": "csp_kanqiu926",
+      "searchable": 0,
+      "changeable": 0,
+      "jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt",
+      "style": {
+        "type": "list"
+      }
+    },
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/荐片.js"},
 //{"key":"贱贱","name":"🥇🧲贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://github.com/qist/tvbox/raw/master/FTY/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/FTY/jp.js"},
 //{"key": "drpy_js_if101","name": "🥇If101","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/if101-2.js"},
@@ -69,7 +85,6 @@
 {"key":"飞马影视","name":"🥇飞马(if)","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
 {"key":"原创","name":"🥇原创(BiDi)","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733131789935/fan.txt"},
 //{"key":"csp_YCyz","name":"🥇原创(BiDi)","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://github.com/bluefriendCN/bin/raw/main/Yoursmile.jar"},
-{"key":"文采","name":"🥇文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726409251899/fan.txt"},
 //{"key":"文采","name":"🥇文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key": "T4-安博","name": "🥇安博(T4)","type": 4,"api": "https://tang.hz.cz/power/ub18?token=b1dbee0e","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 {"key": "可可","name":"🥇可可影视","type": 3,"playerType": "2","api": "csp_Keke","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/PandaQ240724.jar"},
@@ -100,6 +115,7 @@
 {"key":"drpy_js_爱弹幕","name":"🥇💢爱弹幕[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/爱弹幕.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_路漫漫","name":"🥇💢路漫漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/路漫漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"csp_Dm84","name":"🥇💢动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/58动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 
 {
       "key": "csp_xifan",
@@ -111,7 +127,6 @@
       "filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/PandaQ240724.jar"
     },
 
-{"key":"drpy_js_58动漫","name":"🥇💢58动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/58动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_AGE动漫","name":"🥇💢AGE动漫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/AGE动漫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 //{"key":"drpy_js_AnFuns","name":"🥇💢AnFuns[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/AnFuns.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
 {"key":"drpy_js_Anime1动畫","name":"🥇💢Anime1动畫[js]","type":3,"api":"https://github.com/qist/tvbox/raw/master/lib/drpy2.min.js","ext":"https://github.com/qist/tvbox/raw/master/js/Anime1动畫.js","jar":"https://github.com/qist/tvbox/raw/master/jar/fan.txt"},
@@ -140,18 +155,7 @@
 //{"key":"drpy_js_JRKAN直播","name":"🏆🏆🏀JRKAN直播看球","type":3,"api":"https://github.com/gaotianliuyun/gao/raw/master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://github.com/gaotianliuyun/gao/raw/master/js/JRKAN直播.js","jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/pg.jar"},
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
- {
-      "key": "926看球",
-      "name": "🏆🏆🏆⚽926┃看球",
-      "type": 3,
-      "api": "csp_kanqiu926",
-      "searchable": 0,
-      "changeable": 0,
-      "jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt",
-      "style": {
-        "type": "list"
-      }
-    },
+ 
 //{"key":"88看球","name":"🏆🏀88看球k","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"timeout":10,"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"},	
 {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
 {"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
@@ -186,11 +190,7 @@
       "changeable": 0
     },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-{"key": "sgabys","name": "🍡安博","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
 
-{"key":"木耳","name":"🍄黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
-	
-{"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "drpy_js_欧帝影院","name": "💿欧帝","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧帝影院.js","jar": "https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"},
