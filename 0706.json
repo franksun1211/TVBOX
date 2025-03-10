@@ -1122,6 +1122,24 @@
             "filterable": 1
         },
         {
+            "key": "天翼",
+            "name": "天翼｜4K",
+            "type": 3,
+            "api": "csp_Wextyso",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/wex.jar"
+        },
+        {
+            "key": "盘他",
+            "name": "盘他｜4K‍",
+            "type": 3,
+            "api": "csp_WexYDpanta",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/wex.jar"
+        },
+        {
             "key": "我的阿里",
             "name": "我的｜阿里",
             "type": 3,
