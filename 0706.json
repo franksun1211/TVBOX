@@ -820,7 +820,7 @@
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/Anime1.js"
         },
-        {
+        //{
             "key": "DFun动漫",
             "name": "DFun｜动漫",
             "type": 3,
@@ -830,7 +830,7 @@
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDsmFlZsKlw7HDnMKow5zDqcKgX8Kpwp3Cp8Onw7LDrcKcX1LCg8KZw63DmMOPw6vDplVqUlLCpcKVw67DosOqVWpSwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFJcUsK6w5jDrcOEw5/CrFJqUsOsw5TCr8Odwq7CpmXCkWbCrcOXwq/DqsOxaWFSXMKbwrTDn8Osw4PCqVJqUsOsw5TCr8Odwq7CpmXCkWbCrcOXwq/DqsOxaWFSwq0="
         },
-        {
+        //{
             "key": "曼波动漫",
             "name": "曼波｜动漫",
             "type": 3,
@@ -840,7 +840,7 @@
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
         },
-        {
+        //{
             "key": "稀饭动漫",
             "name": "稀饭｜动漫",
             "type": 3,
@@ -859,7 +859,7 @@
         },
         {
             "key": "路漫漫",
-            "name": "路漫漫｜动漫",
+            "name": "🥇💢路漫漫｜动漫",
             "type": 3,
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
@@ -880,7 +880,7 @@
         },
         {
             "key": "爱弹幕",
-            "name": "爱弹幕｜动漫",
+            "name": "🥇💢爱弹幕｜动漫",
             "type": 3,
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
@@ -934,6 +934,7 @@
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/樱花动漫.js"
         },
+        {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
         {
             "key": "搜索弹幕",
             "name": "搜索｜弹幕",
