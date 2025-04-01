@@ -910,6 +910,35 @@
         },
         {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
         {
+            "key": "曼波动漫",
+            "name": "曼波｜动漫",
+            "type": 3,
+            "api": "csp_Xdai",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
+        },
+        {
+            "key": "稀饭动漫",
+            "name": "稀饭｜动漫",
+            "type": 3,
+            "api": "csp_Xdai",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
+        },
+        {
+            "key": "咕咕动漫",
+            "name": "咕咕｜动漫",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
+        },
+        
+        {
             "key": "搜索弹幕",
             "name": "搜索｜弹幕",
             "type": 3,
@@ -1002,6 +1031,14 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
+        },
+        {
+            "key": "荐片",
+            "name": "荐片｜磁力",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": 1,
+            "ext": "http://api2.rinhome.com"
         },
         {
             "key": "修罗影视",
