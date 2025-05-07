@@ -1119,7 +1119,8 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "ext": {
+            "jar":"https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
+		"ext": {
                 "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
                 "dataIv": "66dc309cbeeca454",
@@ -1133,6 +1134,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
+	    "jar":"https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
             "ext": {
                 "url": "https://pzoap.moedot.net",
                 "dataKey": "1yZ2Spn9krnzVKoC",
@@ -1147,6 +1149,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
+	    "jar":"https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
             "ext": {
                 "url": "https://www.gugu3.com",
                 "dataKey": "nKfZ8KX6JTNWRzTD",
@@ -1161,6 +1164,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
+	    "jar":"https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
             "ext": {
                 "url": "http://45.43.29.111:9527",
                 "dataKey": "GETMIFUNGEIMIFUN",
