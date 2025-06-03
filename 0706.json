@@ -48,6 +48,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -60,6 +61,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
@@ -73,6 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YucmJvdHYuY24="
@@ -86,6 +89,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YubGt1eXMuY24="
@@ -99,6 +103,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -111,6 +116,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -123,6 +129,7 @@
             "api": "csp_Libvio",
             "searchable": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -137,6 +144,7 @@
             "key": "米兔弹幕",
             "name": "米兔｜弹幕",
             "type": 3,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/米兔弹幕.js"
         },
@@ -144,6 +152,7 @@
             "key": "小熊弹幕",
             "name": "小熊｜弹幕",
             "type": 3,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/小熊弹幕.js"
         },
@@ -151,6 +160,7 @@
             "key": "巨人弹幕",
             "name": "巨人｜弹幕",
             "type": 3,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/巨人弹幕.js"
         },
@@ -158,6 +168,7 @@
             "key": "追剧弹幕",
             "name": "追剧｜弹幕",
             "type": 3,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
         },
@@ -165,6 +176,7 @@
             "key": "梦米弹幕",
             "name": "梦米｜弹幕",
             "type": 3,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/梦米弹幕.js"
         },
@@ -172,6 +184,7 @@
             "key": "小虎斑弹幕",
             "name": "小虎斑｜弹幕",
             "type": 3,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/小虎斑弹幕.js"
         },
@@ -183,6 +196,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -195,6 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -207,6 +222,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
