@@ -1066,7 +1066,253 @@
             "quickSearch": 0,
             "filterable": 0
         },
-////////////////////////////////////////////////////////////////////////////////////	    
+//////4K///////////////////////////////////////////////////////////////////////////
+{
+            "key": "玩偶哥哥",
+            "name": "玩偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/wogg.json"
+        },
+        {
+            "key": "木偶",
+            "name": "木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/mogg.json"
+        },
+        {
+            "key": "蜡笔",
+            "name": "蜡笔｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/lb.json"
+        },
+        {
+            "key": "至臻",
+            "name": "至臻｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/zz.json"
+        },
+        {
+            "key": "多多",
+            "name": "多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/yyds.json"
+        },
+        {
+            "key": "欧哥",
+            "name": "欧哥｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/og.json"
+        },
+        {
+            "key": "二小",
+            "name": "二小｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/ex.json"
+        },
+        {
+            "key": "大玩",
+            "name": "大玩｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/dawo.json"
+        },
+        {
+            "key": "虎斑",
+            "name": "虎斑｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/hb.json"
+        },
+        {
+            "key": "闪电",
+            "name": "闪电｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/sd.json"
+        },
+        {
+            "key": "奥秘",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/am.json"
+        },
+        {
+            "key": "团长",
+            "name": "团长｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebTz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "雷鲸",
+            "name": "雷鲸｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudLJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/lj.json"
+        },
+        {
+            "key": "海绵",
+            "name": "海绵｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudHM",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/hm.json"
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/json/kf.json"
+        },
+        {
+            "key": "趣盘",
+            "name": "趣盘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "url": "https://www.qupanshe.com"
+            }
+        },
+        {
+            "key": "盘库",
+            "name": "盘库｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebKuBa",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://panku8.com,https://yipanso.com"
+            }
+        },
+        {
+            "key": "聚搜",
+            "name": "聚搜｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "双星",
+            "name": "双星｜4K弹幕",
+            "type": 3,
+            "api": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/js/cloud.min.js",
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/js/双星.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "懒盘",
+            "name": "懒盘｜4K弹幕",
+            "type": 3,
+            "api": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/js/cloud.min.js",
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/js/懒盘.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "米搜｜4K弹幕",
+            "type": 3,
+            "api": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/js/cloud.min.js",
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/js/米搜.js",
+            "style": {
+                "type": "list"
+            }
+        },
+
+////////////////////////////////////////////////////////////////////////////////////////
         {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         {"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
 
@@ -1123,7 +1369,7 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/XYQHiker/短剧屋.json"
         },
-        
+   //////动漫////////////////////////////////////////////////////////////////////////////////////////////////////     
         {
             "key": "56动漫",
             "name": "56｜动漫",
@@ -1306,7 +1552,7 @@
                 "version": ""
             }
         },
-        
+//////////////////////////////////////////////////////////////////////////////////////////////////        
         {
             "key": "搜索弹幕",
             "name": "搜索｜弹幕",
