@@ -2131,7 +2131,12 @@
                 ]
             }
         },
-        {
+          {
+            "name": "modum3u8",
+            "type": 0,
+            "url": "https://jiexi.modujx01.com/?url="
+        },     
+	    {
             "name": "线路1",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
