@@ -2001,7 +2001,16 @@
                 "type": "list"
             }
         },
-        
+        {
+            "key": "版本信息",
+            "name": "版本｜信息",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://pizazz.s3.bitiful.net/single.json"
+        },
         {
             "key": "push_agent",
             "name": "手机｜推送",
