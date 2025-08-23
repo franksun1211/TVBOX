@@ -70,33 +70,8 @@
                 "site": "aHR0cDovL3YubGt1eXMuY24="
             }
         },
-        {
-            "key": "糯米弹幕",
-            "name": "糯米｜弹幕",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
        
+        
         {
             "key": "立播弹幕",
             "name": "LibVio｜弹幕",
@@ -115,30 +90,9 @@
             }
         },
         
-        {
-            "key": "米兔弹幕",
-            "name": "米兔｜弹幕",
-            "type": 3,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/米兔弹幕.js"
-        },
-        {
-            "key": "小熊弹幕",
-            "name": "小熊｜弹幕",
-            "type": 3,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/小熊弹幕.js"
-        },
-        {
-            "key": "巨人弹幕",
-            "name": "巨人｜弹幕",
-            "type": 3,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/巨人弹幕.js"
-        },
+      
+       
+     
         {
             "key": "追剧弹幕",
             "name": "追剧｜弹幕",
@@ -147,48 +101,8 @@
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
         },
-        {
-            "key": "梦米弹幕",
-            "name": "梦米｜弹幕",
-            "type": 3,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/梦米弹幕.js"
-        },
-        {
-            "key": "小虎斑弹幕",
-            "name": "小虎斑｜弹幕",
-            "type": 3,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/小虎斑弹幕.js"
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "三六零｜弹幕",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
+       
+        
         {
             "key": "小苹果弹幕",
             "name": "小苹果｜弹幕",
@@ -2506,4 +2420,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
