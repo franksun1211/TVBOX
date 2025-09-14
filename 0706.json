@@ -769,7 +769,7 @@
 		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/奇米动漫.js"
         },
-        
+        {
             "key": "花子动漫",
             "name": "花子｜动漫",
             "type": 3,
@@ -2587,6 +2587,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
