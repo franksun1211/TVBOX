@@ -4,7 +4,7 @@
     //"spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/new-spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-	"notice": "FK20250914",
+	"notice": "[0706]FK20250914",
     "sites": [
         {
             "key": "豆瓣",
@@ -2511,6 +2511,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
