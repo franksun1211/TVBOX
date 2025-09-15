@@ -94,9 +94,6 @@
       
        
 {"key": "黑木耳","name": "黑木耳┃秒播","type": 4,"api": "http://zhangqun66.com/225.php","style": {"type": "rect","ratio": 1.33},"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"}, 
-{"key":"原创","name":"修罗┃影视","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
-
-{"key": "iKanbot","name": "iKanbot┃秒播","type": 3,"api": "csp_Ikanbot","jar": "https://github.com/alantang1977/X/raw/main/jar/iKanbot.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://v.aikanbot.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
 
         {
             "key": "追剧弹幕",
@@ -2101,6 +2098,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
