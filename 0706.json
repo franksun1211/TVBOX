@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-	"notice": "[0706]FK20250915",
+	"notice": "[0706]FK20250917",
     "sites": [
         {
             "key": "豆瓣",
@@ -2101,6 +2101,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
