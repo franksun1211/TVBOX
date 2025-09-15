@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-	"notice": "[0706]FK20250917",
+	"notice": "[0706]FK20250918",
     "sites": [
         {
             "key": "豆瓣",
@@ -202,7 +202,7 @@
         },
         {
             "key": "咖啡",
-            "name": "咖啡丨APP",
+            "name": "🥇咖啡丨APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -279,7 +279,7 @@
         },
         {
             "key": "仓鼠",
-            "name": "仓鼠｜APP",
+            "name": "🥇仓鼠｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -294,7 +294,7 @@
         },
         {
             "key": "鲸鱼",
-            "name": "鲸鱼｜APP",
+            "name": "🥇鲸鱼｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -309,7 +309,7 @@
         },
         {
             "key": "一三",
-            "name": "一三丨APP",
+            "name": "🥇一三丨APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -2098,6 +2098,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
