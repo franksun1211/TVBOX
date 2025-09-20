@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-	"notice": "[0706]FK20250918-1",
+	"notice": "[0706]FK20250920",
     "sites": [
         {
             "key": "豆瓣",
@@ -143,7 +143,40 @@
             "ext": {
                 "url": "http://tt.ysdqjs.cn"
             }
-        },        {
+        },
+		{
+            "key": "像素",
+            "name": "像素丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mcvod.top",
+                "site": "",
+                "dataKey": "cnmbknmbtounimab",
+                "dataIv": "cnmbknmbtounimab",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "豆丁",
+            "name": "豆丁丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://45.66.157.77:9427",
+                "site": "",
+                "dataKey": "Xasdasd!123123dd",
+                "dataIv": "Xasdasd!123123dd",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+		{
             "key": "浪酷影视",
             "name": "浪酷｜APP",
             "type": 3,
@@ -2098,6 +2131,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
