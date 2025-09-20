@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/logo.jpg",
-	"notice": "[0706]FK20250920",
+	"notice": "[0706]FK20250920-1",
     "sites": [
         {
             "key": "豆瓣",
@@ -162,7 +162,7 @@
         },
         {
             "key": "豆丁",
-            "name": "豆丁丨APP",
+            "name": "🥇豆丁丨APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -2131,6 +2131,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
