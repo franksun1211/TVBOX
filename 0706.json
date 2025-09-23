@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20250921",
+	"notice": "[0706]FK20250922",
     "sites": [
         {
             "key": "豆瓣",
@@ -97,7 +97,7 @@
 
         {
             "key": "追剧弹幕",
-            "name": "追剧｜弹幕",
+            "name": "🥇追剧｜弹幕",
             "type": 3,
 		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
@@ -1045,7 +1045,7 @@
             "ext": "https://www.czzymovie.com/"
         },
         {
-            "key": "金牌影视",
+            "key": "🥇金牌影视",
             "name": "金牌｜影视",
             "type": 3,
             "api": "csp_Jpys",
@@ -1065,7 +1065,7 @@
             "api": "csp_Qiyou"
         },
         {
-            "key": "苹果影视",
+            "key": "🥇苹果影视",
             "name": "苹果｜影视",
             "type": 3,
             "api": "csp_LiteApple",
@@ -2178,6 +2178,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
