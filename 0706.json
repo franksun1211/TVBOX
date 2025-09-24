@@ -120,7 +120,7 @@
             }
         },
 ////++++++++嗷嗚++++++++////////////////////////////////////////////////////////////  
-{"key":"賤","name":"🥇嗷嗚賤片","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0","jar": "https://github.com/su147456888444/tvbox/raw/main/yt.jar"},
+{"key":"賤","name":"🥇嗷嗚賤片","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/su147456888444/tvbox/raw/main/yt.jar"},
 {"key":"优视频","name":"🥇嗷嗚优视频","type":4,"changeable":0,"api":"https://tvbot.ggff.net/uvod","jar": "https://github.com/su147456888444/tvbox/raw/main/yt.jar"},
 {"key":"金牌","name":"🥇嗷嗚金牌","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/su147456888444/tvbox/raw/main/yt.jar"},
 {"key":"爱瓜","name":"🥇嗷嗚爱瓜","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/爱瓜.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/su147456888444/tvbox/raw/main/yt.jar"},
@@ -2189,6 +2189,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
