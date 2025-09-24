@@ -3,10 +3,10 @@
     "spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
     "spider": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
 	"spider":"https://github.com/su147456888444/tvbox/raw/main/yt.jar",
-	"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
+	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20250923-2",
+	"notice": "[0706]FK20250923-3",
     "sites": [
         {
             "key": "豆瓣",
@@ -2207,6 +2207,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
