@@ -51,7 +51,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -67,7 +67,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YubGt1eXMuY24="
@@ -82,7 +82,7 @@
             "api": "csp_Libvio",
             "searchable": 1,
             "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -100,7 +100,7 @@
             "key": "追剧弹幕",
             "name": "🥇追剧｜弹幕",
             "type": 3,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
         },
@@ -129,7 +129,7 @@
 
 
 {"key": "黑木耳","name": "黑木耳┃秒播","type": 4,"api": "http://zhangqun66.com/225.php","style": {"type": "rect","ratio": 1.33},"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"}, 
-{"key":"嗷呜金牌影院","name":"🦆┃嗷呜金牌影院","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},		
+{"key":"嗷呜金牌影院","name":"🥇🦆嗷呜金牌荐片","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},		
 ////++++++++APP++++++++////////////////////////////////////////////////////////////      
 	{
             "key": "热播影视",
@@ -173,7 +173,7 @@
         },
         {
             "key": "豆丁",
-            "name": "🥇豆丁丨APP",
+            "name": "🥇豆丁4K丨APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -2360,6 +2360,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
