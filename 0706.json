@@ -57,8 +57,47 @@
             }
         },
        
-        {"key":"文采","name":"文才┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
+        //{"key":"文采","name":"文才┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg"},
+        {
+            "key": "文采",
+            "name": "💮文才┃FTY",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+			"changeable": 1
+        }, 
+		{
+            "key": "立播",
+            "name": "🌟立播┃FTY",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "ext": {
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
         
+        {
+            "key": "原创",
+            "name": "☀原创┃FTY",
+            "type": 3,
+            "api": "csp_YCyzGuard",
+            "timeout": 30,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "changeable": 1
+        },
         {
             "key": "浪酷弹幕",
             "name": "浪酷｜弹幕",
@@ -1207,20 +1246,51 @@
 //////++++++++++++++++++4K++++++++++++++++++++++++///////////////////////////////////////////////////////////////////////////
 
 
-////////////////////////////////////////////////////////////////////////////////////////
-        {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
-        {"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
-{
-            "key": "88看球",
-            "name": "88｜看球",
+//////+++++++++++++SPORT+++++++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////
+        //{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
+        //{"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
+ {
+            "key": "超全",
+            "name": "⚽超全┃FTY",
             "type": 3,
-            "api": "csp_Kanqiu",
-            "gridview": 3,
+            "api": "csp_ZbzGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+	        "jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            },
+            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+        },
+        {
+            "key": "88",
+            "name": "🏆🏆⚽88┃FTY",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
             "style": {
                 "type": "list"
             }
         },
-          {
+        {
+            "key": "看球",
+            "name": "🏆🏆⚽手机┃FTY",
+            "type": 3,
+            "api": "csp_KanqiuGuard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            }
+        },
+/////////////////////////////////////////////////////////////////          
+{
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
@@ -2389,6 +2459,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
