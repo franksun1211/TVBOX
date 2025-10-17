@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20251015-A",
+	"notice": "[0706]FK20251017",
     "sites": [
         {
             "key": "豆瓣",
@@ -88,7 +88,7 @@
         
         {
             "key": "原创",
-            "name": "☀原创┃FTY",
+            "name": "🌟原创┃FTY",
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 30,
@@ -1285,20 +1285,7 @@
 //////+++++++++++++SPORT+++++++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////
         //{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         //{"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
- {
-            "key": "超全",
-            "name": "⚽超全┃FTY",
-            "type": 3,
-            "api": "csp_ZbzGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-	        "jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "style": {
-                "type": "list"
-            },
-            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-        },
+ 
         {
             "key": "88",
             "name": "🏆🏆⚽88┃FTY",
@@ -1314,7 +1301,7 @@
         },
         {
             "key": "看球",
-            "name": "🏆🏆⚽手机┃FTY",
+            "name": "🏆🏆⚽看球┃FTY",
             "type": 3,
             "api": "csp_KanqiuGuard",
             "timeout": 15,
@@ -2495,6 +2482,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
