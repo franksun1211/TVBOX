@@ -957,20 +957,6 @@
 //////+++++++++++++SPORT+++++++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////
         //{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         //{"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
- 
-        {
-            "key": "88",
-            "name": "🏆🏆⚽88┃FTY",
-            "type": 3,
-            "api": "csp_Sir88Guard",
-            "timeout": 15,
-            "searchable": 0,
-            "changeable": 0,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "style": {
-                "type": "list"
-            }
-        },
         {
             "key": "看球",
             "name": "🏆🏆⚽看球┃FTY",
@@ -984,6 +970,20 @@
                 "type": "list"
             }
         },		
+        {
+            "key": "88",
+            "name": "🏆🏆⚽88┃FTY",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            }
+        },
+        
 ///////+++++++++++++++++影视+++++++///////////////////////////////////////////////////////////////////////////////////////////////////////////////     
         
      
@@ -1606,7 +1606,7 @@
         },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key":"Apple","name":"Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
-{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/麦田.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+//{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/麦田.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"4KVM","name":"4KVM","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/4KVM.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"爱壹帆","name":"爱壹帆","jar":"https://github.com/su147456888444/tvbox/raw/main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
 "api":"csp_GM","ext":{"userScript":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
@@ -2546,6 +2546,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
