@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20251023",
+	"notice": "[0706]FK20251023-A",
     "sites": [
         {
             "key": "豆瓣",
@@ -1606,7 +1606,8 @@
         },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 {"key":"Apple","name":"Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
-{"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/麦田.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"4KVM","name":"4KVM","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/4KVM.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"爱壹帆","name":"爱壹帆","jar":"https://github.com/su147456888444/tvbox/raw/main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
 "api":"csp_GM","ext":{"userScript":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
 "spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},
@@ -2545,6 +2546,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
