@@ -1605,7 +1605,16 @@
             }
         },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-       
+{"key":"Apple","name":"Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"爱壹帆","name":"爱壹帆","jar":"https://github.com/su147456888444/tvbox/raw/main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
+"api":"csp_GM","ext":{"userScript":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
+"spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},
+"categoryContent":{"loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"},
+"detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},
+"playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},
+"searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}}},
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////       
         {
             "key": "版本信息",
             "name": "版本｜信息",
@@ -2536,6 +2545,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
