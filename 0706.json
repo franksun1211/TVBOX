@@ -114,7 +114,7 @@
         },
        {
       "key": "云云.py",
-      "name": "云云",
+      "name": "🥇云云",
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
 	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
@@ -1614,7 +1614,7 @@
             }
         },
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-{"key":"Apple","name":"Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 //{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/麦田.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"4KVM","name":"4KVM","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/4KVM.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 {"key":"爱壹帆","name":"爱壹帆","jar":"https://github.com/su147456888444/tvbox/raw/main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
@@ -2555,6 +2555,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
