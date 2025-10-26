@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20251025🍉",
+	"notice": "[0706]FK20251026 🐶",
     "sites": [
         {
             "key": "豆瓣",
@@ -303,6 +303,19 @@
             }
         },
         {
+            "key": "开心",
+            "name": "开心｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+		{
             "key": "热剧",
             "name": "热剧丨APP",
             "type": 3,
@@ -2555,6 +2568,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
