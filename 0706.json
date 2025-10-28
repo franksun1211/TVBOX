@@ -6,15 +6,15 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20251028-E",
+	"notice": "[0706]FK20251028-F",
 	"lives": [
               
-            {
+           {
             "name": "冰茶",
             "type": 0,
             "playerType": 2,
-            "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=bingchawusifengxian&huikan=1",
-            "ua": "bingcha/1.1 (bingchawusifengxian) "
+            "url": "https://fy.188766.xyz/?ip=&mima=bingchawusifengxian&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
     "headers": [
@@ -2615,6 +2615,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
