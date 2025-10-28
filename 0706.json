@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20251028-B 🍇",
+	"notice": "[0706]FK20251028-C 🍇",
 	 "lives": [
     {
       "name": "直播",
@@ -28,14 +28,7 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],	
-    "headers": [
-        {
-            "host": "hlsztemgsplive.miguvideo.com",
-            "header": {
-                "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
-            }
-        }
-    ],
+   
     "sites": [
         {
             "key": "豆瓣",
@@ -2628,6 +2621,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
