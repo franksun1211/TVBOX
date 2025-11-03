@@ -644,10 +644,10 @@
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
         },
         {
-      "key": "javxx.py",
-      "name": "JAVXX",
+      "key": "嗷呜动漫.py",
+      "name": "嗷呜动漫",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
+      "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/PY/嗷呜动漫.py",
       "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
 	  "searchable": 1,
       "quickSearch": 1,
@@ -2632,6 +2632,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
