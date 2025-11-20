@@ -8,26 +8,8 @@
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
 	"notice": "[0706]FK20251120 🍌",
 	 "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/pro.txt",    
-      //"url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/sunny.txt",  	    
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",   
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",  
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/PXP.txt",  
-	    
-      //"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",    
-      //"url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/XZB.txt",
-      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
-      //"url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
-      "playerType":2,
-      "ua":"",
-	  "timeout": 10,
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png"
-    }
+    {"name": "🍺┃冰茶官方「TG直播」","type": 0,"playerType": 2,"url": "https://bc.188766.xyz/?url=http://tv123.top:35455&mishitong=true&mima=mianfeibuhuaqian","ua": "bingcha/1.1 (mianfeifenxiang) "},
+
   ],	
    
     "sites": [
@@ -2635,6 +2617,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
