@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260103 🍟",
+	"notice": "[0706]FK20260103-A 🍟",
 	 
    
     "sites": [
@@ -160,7 +160,7 @@
     },
      
 ////++++++++嗷嗚++++++++////////////////////////////////////////////////////////////  
-{"key":"賤","name":"🥇嗷嗚賤片","https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+//{"key":"賤","name":"🥇嗷嗚賤片","https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 //{"key":"优视频","name":"🥇嗷嗚优视频","type":4,"changeable":0,"api":"https://tvbot.ggff.net/uvod","jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 {"key":"金牌","name":"🥇嗷嗚金牌","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 {"key":"爱瓜","name":"🥇嗷嗚爱瓜","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/爱瓜.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
@@ -2930,6 +2930,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
