@@ -888,14 +888,14 @@
             "name": "樱花｜动漫",
             "type": 3,
             "api": "csp_HBPQ",
-            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/%E6%BD%87%E6%B4%92/XBPQ/樱花动漫.json"
+            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XBPQ/樱花动漫.json"
         },
         {
             "key": "巴士动漫",
             "name": "巴士｜动漫",
             "type": 3,
             "api": "csp_XYQHiker",
-            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/%E6%BD%87%E6%B4%92/XYQHiker/巴士动漫.json"
+            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XYQHiker/巴士动漫.json"
         },
         {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
         {
@@ -2930,6 +2930,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
