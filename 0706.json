@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20251230 🍕",
+	"notice": "[0706]FK20260103 🍟",
 	 
    
     "sites": [
@@ -888,14 +888,14 @@
             "name": "樱花｜动漫",
             "type": 3,
             "api": "csp_HBPQ",
-            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/潇洒/XBPQ/樱花动漫.json"
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/%E6%BD%87%E6%B4%92/XBPQ/樱花动漫.json"
         },
         {
             "key": "巴士动漫",
             "name": "巴士｜动漫",
             "type": 3,
             "api": "csp_XYQHiker",
-            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/潇洒/XYQHiker/巴士动漫.json"
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/%E6%BD%87%E6%B4%92/XYQHiker/巴士动漫.json"
         },
         {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
         {
@@ -961,18 +961,28 @@
             }
         },
 		{
-            "key": "多多动漫",
-            "name": "多多｜动漫",
+            "key": "卡卡",
+            "name": "卡卡｜动漫",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://154.201.90.53:8002",
+                "dataKey": "123456789abcdefg",
+                "dataIv": "123456789abcdefg"
+            }
+        },
+        {
+            "key": "丫丫动漫",
+            "name": "丫丫｜动漫",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://app.cf4k.xyz/1.txt",
-                "dataKey": "qqqqqqqqqqqqqqqq",
-                "dataIv": "qqqqqqqqqqqqqqqq",
-                "deviceId": "",
-                "version": ""
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl"
             }
         },
 		
@@ -2920,6 +2930,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
