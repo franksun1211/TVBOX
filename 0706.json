@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260103 🍟",
+	"notice": "[0706]FK20260104  🥪",
 	 
    
     "sites": [
@@ -76,7 +76,41 @@
                 "danmu": true
             }
         },
-     
+     {
+            "key": "✨UVod✨",
+            "name": "🥇優視頻",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
+            "searchable": 1,
+            "quickSearch": 1,
+		    "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
+            "filterable": 1,
+            "changeable": 1
+        },
+       {
+            "key": "✨爱你影视✨",
+            "name": "爱你影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/爱你影视.json"
+        },
+        {
+            "key": "✨影视大全✨",
+            "name": "影视大全",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/影视大全.json"
+        },
       
        
 
@@ -2930,6 +2964,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
