@@ -849,57 +849,8 @@
       "filterable": 1
     },
     
-		{
-            "key": "56动漫",
-            "name": "56｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-	    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/56动漫.js"
-        },
-        {
-            "key": "NT动漫",
-            "name": "NT｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-	    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/NT动漫.js"
-        },
-        {
-            "key": "Anime1",
-            "name": "Anime1｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-	    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/Anime1.js"
-        },
-        
-        {
-            "key": "动画片",
-            "name": "动画片｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/动画片大全.js"
-        },
-      
-        {
-            "key": "动漫岛",
-            "name": "动漫岛｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/动漫岛.js"
-        },
-        {
-            "key": "去看吧",
-            "name": "去看吧｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/去看吧.js"
-        },
-        
+	
+     
         {
             "key": "异世界",
             "name": "异世界｜动漫",
@@ -916,89 +867,49 @@
 		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/好看动漫.js"
         },
-        {
-            "key": "奇米动漫",
-            "name": "奇米｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/奇米动漫.js"
-        },
-        {
-            "key": "花子动漫",
-            "name": "花子｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/花子动漫.js"
-        },
+      
         
-        {
-            "key": "樱花动漫",
-            "name": "樱花｜动漫",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XBPQ/樱花动漫.json"
-        },
-        {
-            "key": "巴士动漫",
-            "name": "巴士｜动漫",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XYQHiker/巴士动漫.json"
-        },
+        
+        
         {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+        
+         {
+            "key": "哆啦新番社",
+            "name": "哆啦｜新番社",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "list"
+            },
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/XBPQ/哆啦新番社.json"
+        },
         {
-            "key": "曼波动漫",
-            "name": "曼波｜动漫",
+            "key": "Anime1",
+            "name": "A1｜动漫",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar":"https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
-		"ext": {
-                "url": "https://app.omofun1.top",
-                "dataKey": "66dc309cbeeca454",
-                "dataIv": "66dc309cbeeca454",
-                "deviceId": "",
-                "version": ""
-            }
+            "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/drpy2.min.js",
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/Anime1.js"
         },
-           
         {
-            "key": "咕咕动漫",
-            "name": "咕咕｜动漫",
+            "key": "NT动漫",
+            "name": "NT｜动漫",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-	    "jar":"https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
+            "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/drpy2.min.js",
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/NT动漫.js"
+        },
+        {
+            "key": "漫国动漫",
+            "name": "漫国丨动漫",
+            "type": 3,
+            "api": "csp_AppSy",
             "ext": {
-                "url": "https://www.gugu3.com",
-                "dataKey": "nKfZ8KX6JTNWRzTD",
-                "dataIv": "nKfZ8KX6JTNWRzTD",
-                "deviceId": "",
-                "version": ""
+                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "aassddwwxxllsx1x",
+                "parsesKey": "aassddwwxxllsx1x"
             }
         },
-        
-        
-       
-        
-	    {
-            "key": "米饭动漫",
-            "name": "米饭｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-	        
-            "ext": {
-                "url": "http://45.43.29.111:9527",
-                "dataKey": "GETMIFUNGEIMIFUN",
-                "dataIv": "GETMIFUNGEIMIFUN",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-		{
+        {
             "key": "卡卡",
             "name": "卡卡｜动漫",
             "type": 3,
@@ -1023,67 +934,121 @@
                 "dataIv": "qkxnwkfjwpcnwycl"
             }
         },
-		
-		 {
-            "key": "番薯",
-            "name": "番薯丨动漫",
+        {
+            "key": "冬日动漫",
+            "name": "冬日丨动漫",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://new.app.bytegooty.com",
-                "site": "",
-                "dataKey": "N4yj7l7xKxHF4*gz",
-                "dataIv": "N4yj7l7xKxHF4*gz",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "url": "http://www.drdm.fun",
+                "dataKey": "qE2nD0rL1lH4uP9r",
+                "dataIv": "qE2nD0rL1lH4uP9r"
             }
         },
-		{
-            "key": "元咲",
+        {
+            "key": "方舟动漫",
+            "name": "方舟丨动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.cyfz.vip",
+                "dataKey": "e72cdfd629e8895d",
+                "dataIv": "e72cdfd629e8895d"
+            }
+        },
+        {
+            "key": "元咲动漫",
             "name": "元咲丨动漫",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://cic.aicg.fun",
-                "site": "",
                 "dataKey": "2c4h36abd96se10u",
-                "dataIv": "2c4h36abd96se10u",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
-		 
-		{
-            "key": "漫国",
-            "name": "漫国丨动漫",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "aassddwwxxllsx1x",
-                "parsesKey": "aassddwwxxllsx1x"
+                "dataIv": "2c4h36abd96se10u"
             }
         },
         {
-            "key": "二三",
-            "name": "二三｜动漫",
+            "key": "番薯动漫",
+            "name": "番薯丨动漫",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/1.txt",
-                "dataKey": "qwertyuiopqwerty",
-                "dataIv": "qwertyuiopqwerty",
-                "deviceId": "",
-                "version": "120"
+                "url": "https://new.app.bytegooty.com",
+                "dataKey": "N4yj7l7xKxHF4*gz",
+                "dataIv": "N4yj7l7xKxHF4*gz"
             }
         },
+        {
+            "key": "曼波动漫",
+            "name": "曼波｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.omofun1.top",
+                "dataKey": "66dc309cbeeca454",
+                "dataIv": "66dc309cbeeca454"
+            }
+        },
+        {
+            "key": "咕咕动漫",
+            "name": "咕咕｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.gugu3.com",
+                "dataKey": "nKfZ8KX6JTNWRzTD",
+                "dataIv": "nKfZ8KX6JTNWRzTD"
+            }
+        },
+        {
+            "key": "米饭动漫",
+            "name": "米饭｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://get.mymifun.com",
+                "dataKey": "GETMIFUNGEIMIFUN",
+                "dataIv": "GETMIFUNGEIMIFUN"
+            }
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花｜动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/XBPQ/樱花动漫.json"
+        },
+        {
+            "key": "巴士动漫",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/XYQHiker/巴士动漫.json"
+        },
+        {
+            "key": "花子动漫",
+            "name": "花子｜动漫",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/drpy2.min.js",
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/花子动漫.js"
+        },
+        
+        {
+            "key": "去看吧",
+            "name": "去看吧｜动漫",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/drpy2.min.js",
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/tvbox-xiaosa/js/去看吧.js"
+        },  
+       
+		       
         
         {
             "key": "漫屋",
@@ -1101,22 +1066,7 @@
                 "ua": ""
             }
         },
-        {
-            "key": "方舟",
-            "name": "方舟丨动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.cyfz.vip",
-                "site": "",
-                "dataKey": "e72cdfd629e8895d",
-                "dataIv": "e72cdfd629e8895d",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
+        
 ////////////////////////////////////////////////////////////////////////////////////////////////// 
 
 //////+++++++++++++SPORT+++++++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////
@@ -3073,6 +3023,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
