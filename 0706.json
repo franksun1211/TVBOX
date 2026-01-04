@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260104-A  🥪",
+	"notice": "[0706]FK20260104-B 🧀",
 	 
    
     "sites": [
@@ -378,6 +378,19 @@
             }
         },
         {
+            "key": "白鸽",
+            "name": "白鸽｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://cy.baige.asia",
+                "dataKey": "599D0FE5178642FD",
+                "dataIv": "599D0FE5178642FD"
+            }
+        },
+		{
             "key": "鲸鱼",
             "name": "鲸鱼｜APP",
             "type": 3,
@@ -543,6 +556,30 @@
             }
         },
         {
+            "key": "雨滴",
+            "name": "雨滴｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
+                "dataKey": "685bf108bc47b67d",
+                "dataIv": "685bf108bc47b67d"
+            }
+        }, 
+		{
+            "key": "奇奇",
+            "name": "奇奇｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://103.236.61.192:8006",
+                "dataKey": "123456789abcdefg",
+                "dataIv": "123456789abcdefg"
+            }
+        },
+		{
             "key": "火猫",
             "name": "火猫｜APP",
             "type": 3,
@@ -1565,17 +1602,37 @@
 
 
 //////////////++++++++++++++4K++++++++++++++/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        
-       {
-            "key": "玩偶哥哥",
+     {
+            "key": "玩偶",
             "name": "玩偶｜4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.wogg.one",
+                    "https://wogg.333232.xyz",
+                    "https://woggpan.888484.xyz"
+                ]
+            }
+        },
+        {
+            "key": "快映",
+            "name": "快映｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/wogg.json"
+            "ext": {
+                "site": [
+                    "http://xsayang.fun:12512"
+                ]
+            }
         },
         {
             "key": "木偶",
@@ -1586,7 +1643,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/mogg.json"
+            "ext": {
+                "site": [
+                    "https://123.666291.xyz",
+                    "https://666.666291.xyz",
+                    "https://www.muou.site",
+                    "https://www.muou.asia"
+                ]
+            }
         },
         {
             "key": "蜡笔",
@@ -1597,7 +1661,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/lb.json"
+            "ext": {
+                "site": [
+                    "https://www.labi88.sbs",
+                    "https://feimao666.fun",
+                    "http://feimao888.fun"
+                ]
+            }
         },
         {
             "key": "至臻",
@@ -1608,7 +1678,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/zz.json"
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://xiaomiai.site",
+                    "https://xiaomi666.fun",
+                    "https://www.mihdr.top",
+                    "https://www.zhizhenpan.fun"
+                ]
+            }
         },
         {
             "key": "多多",
@@ -1619,7 +1698,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/yyds.json"
+            "ext": {
+                "site": [
+                    "https://tv.yydsys.top",
+                    "https://tv.yydsys.cc",
+                    "https://tv.214521.xyz"
+                ]
+            }
         },
         {
             "key": "欧哥",
@@ -1630,7 +1715,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/og.json"
+            "ext": {
+                "site": [
+                    "https://woog.nxog.eu.org",
+                    "https://woog.nxog.fun",
+                    "https://woog.nxog.eu.org",
+                    "https://woog.430520.xyz"
+                ]
+            }
         },
         {
             "key": "二小",
@@ -1641,7 +1733,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/ex.json"
+            "ext": {
+                "site": [
+                    "https://xhww.net",
+                    "https://erxiaofn.site",
+                    "https://erxiaofn.click",
+                    "https://www.xhww.net"
+                ]
+            }
         },
         {
             "key": "虎斑",
@@ -1652,7 +1751,41 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/hb.json"
+            "ext": {
+                "site": [
+                    "http://103.45.162.207:20720"
+                ]
+            }
+        },
+        {
+            "key": "夸克",
+            "name": "夸克｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.quarktv.cc"
+                ]
+            }
+        },
+        {
+            "key": "清影",
+            "name": "清影｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudQY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "http://www.revohd.com"
+                ]
+            }
         },
         {
             "key": "雷鲸",
@@ -1667,7 +1800,14 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/lj.json"
+            "ext": {
+                "site": [
+                    "https://www.leijing.xyz",
+                    "https://www.leijing1.com",
+                    "https://leijing.xyz",
+                    "https://leijing1.com"
+                ]
+            }
         },
         {
             "key": "海绵",
@@ -1682,7 +1822,13 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/hm.json"
+            "ext": {
+                "site": [
+                    "http://haimian.eu.org",
+                    "https://www.hmxz.org",
+                    "https://www.haimianxz.com"
+                ]
+            }
         },
         {
             "key": "夸父",
@@ -1697,7 +1843,25 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/kf.json"
+            "ext": {
+                "site": [
+                    "https://www.kfzy.cc"
+                ],
+                "cookie": "bbs_sid=qtrfbfct9gs8e7qat96o3nf09t; isClose=yes; __mxau__c2-lS6GI0pR=de438e75-e385-47c4-acb1-6564b407c7b1; __mxaf__c2-lS6GI0pR=1761439615; bbs_token=9NqiBWxAvM2MN_2FST20QOg5g9gcyzm2Hqfd9YwaQjK6Y_3D; __mxas__c2-lS6GI0pR=%7B%22sid%22%3A%22e4f30c47-1290-431b-b228-b9116c4744bd%22%2C%22vd%22%3A5%2C%22stt%22%3A168%2C%22dr%22%3A3%2C%22expires%22%3A1761476207%2C%22ct%22%3A1761474407%7D; __mxav__c2-lS6GI0pR=13"
+            }
+        },
+        {
+            "key": "盘它",
+            "name": "盘它｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudPT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "123",
@@ -1712,50 +1876,43 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/123.json"
-        },
-        {
-            "key": "趣盘",
-            "name": "趣盘｜4K",
-            "type": 3,
-            "api": "csp_PanWebQu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
             "ext": {
-                "url": "https://www.qupanshe.com"
-            }
-        },
-        {
-            "key": "双星",
-            "name": "双星｜4K",
-            "type": 3,
-            "api": "https://github.com/qist/tvbox/raw/master/xiaosa/js/drpy2.min.js",
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/js/双星.js",
-            "style": {
-                "type": "list"
+                "site": [
+                    "https://123panfx.com",
+                    "https://pan1.me"
+                ]
             }
         },
         {
             "key": "人人",
             "name": "人人｜4K",
             "type": 3,
-            "api": "https://github.com/qist/tvbox/raw/master/xiaosa/js/drpy2.min.js",
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/js/人人电影网.js",
+            "api": "csp_RenRen"
+        },
+        {
+            "key": "即刻",
+            "name": "即刻｜4K",
+            "type": 3,
+            "api": "csp_Jike",
             "style": {
                 "type": "list"
             }
         },
+        {
+            "key": "双星",
+            "name": "双星｜4K",
+            "type": 3,
+            "api": "csp_ShuangXing",
+            "style": {
+                "type": "list"
+            }
+        },   
+     
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-{"key":"4KVM","name":"4KVM","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/4KVM.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
-{"key":"爱壹帆","name":"爱壹帆","jar":"https://github.com/su147456888444/tvbox/raw/main/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
-"api":"csp_GM","ext":{"userScript":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
+{"key":"4KVM","name":"4KVM","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/4KVM.py","jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"爱壹帆","name":"爱壹帆","jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},
+"api":"csp_GM","ext":{"userScript":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
 "spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},
 "categoryContent":{"loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"},
 "detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},
@@ -2935,6 +3092,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
