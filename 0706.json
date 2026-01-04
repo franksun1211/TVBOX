@@ -1066,22 +1066,7 @@
                 "version": "120"
             }
         },
-        {
-            "key": "冬日",
-            "name": "冬日丨动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.drdm.fun",
-                "site": "",
-                "dataKey": "qE2nD0rL1lH4uP9r",
-                "dataIv": "qE2nD0rL1lH4uP9r",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
+        
         {
             "key": "漫屋",
             "name": "漫屋丨动漫",
@@ -2950,6 +2935,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
