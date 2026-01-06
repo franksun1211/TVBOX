@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260104-G 🧀",
+	"notice": "[0706]FK20260106  🥨",
 	 
    
     "sites": [
@@ -17,13 +17,127 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-        {
-            "key": "预告",
-            "name": "新片｜预告",
+/////////////////我的最愛///////////////////////////////
+{
+            "key": "✨UVod✨",
+            "name": "🥇優視頻✨",
             "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
+            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
+            "searchable": 1,
+            "quickSearch": 1,
+		    "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
+            "filterable": 1,
+            "changeable": 1
         },
+   {
+            "key": "爱弹幕",
+            "name": "🥇💢爱弹幕✨｜动漫",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
+        },
+	
+	{
+            "key": "路漫漫",
+            "name": "🥇💢路漫漫✨｜动漫",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
+        },
+		
+{
+            "key": "立播弹幕",
+            "name": "🥇LibVio✨｜弹幕",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://www.libvio.cc",
+                "danmu": true
+            }
+        },
+{
+            "key": "原创",
+            "name": "🥇原创✨┃FTY",
+            "type": 3,
+            "api": "csp_YCyzGuard",
+            "timeout": 30,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "changeable": 1
+        },
+	 {
+      "key": "云云.py",
+      "name": "🥇云云✨",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
+	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  {
+            "key": "和友",
+            "name": "🥇和友✨｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "site": "http://qcb.sxtzg.com/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "gHSLmx3JQRasgztO",
+                "parsesKey": "gHSLmx3JQRasgztO"
+            }
+        },
+		{
+            "key": "仓鼠",
+            "name": "🥇仓鼠✨｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+                "dataKey": "da61247f5b662597",
+                "dataIv": "da61247f5b662597",
+                "version": "120"
+            }
+        },
+		{
+            "key": "88",
+            "name": "🏆🏆⚽88┃FTY",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "看球",
+            "name": "🏆🏆⚽看球┃FTY",
+            "type": 3,
+            "api": "csp_KanqiuGuard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "style": {
+                "type": "list"
+            }
+        },		
+///////////////////////////////////////////////
         {
             "key": "本地",
             "name": "本地｜视频",
@@ -59,34 +173,8 @@
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
 			"changeable": 1
         }, 
-		      {
-            "key": "立播弹幕",
-            "name": "🥇LibVio✨｜弹幕",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://www.libvio.cc",
-                "danmu": true
-            }
-        },
-     {
-            "key": "✨UVod✨",
-            "name": "🥇優視頻✨",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
-            "searchable": 1,
-            "quickSearch": 1,
-		    "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-            "filterable": 1,
-            "changeable": 1
-        },
+		      
+     
        {
             "key": "✨爱你影视✨",
             "name": "爱你影视",
@@ -160,31 +248,11 @@
             }
         },
         
-        {
-            "key": "原创",
-            "name": "🥇原创✨┃FTY",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 30,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "changeable": 1
-        },
+        
        {"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
 
 		
-       {
-      "key": "云云.py",
-      "name": "🥇云云✨",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
-	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+      
      
 ////++++++++嗷嗚++++++++////////////////////////////////////////////////////////////  
 {"key":"賤","name":"🥇嗷嗚賤片✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
@@ -276,18 +344,7 @@
                 "host": "http://www.yezitv.top"
             }
         },
-        {
-            "key": "和友",
-            "name": "🥇和友✨｜APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "site": "http://qcb.sxtzg.com/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "gHSLmx3JQRasgztO",
-                "parsesKey": "gHSLmx3JQRasgztO"
-            }
-        },
+      
         {
             "key": "金牌",
             "name": "🥇金牌✨┃APP",
@@ -357,19 +414,7 @@
                 "version": "120"
             }
         },
-        {
-            "key": "仓鼠",
-            "name": "🥇仓鼠✨｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-                "dataKey": "da61247f5b662597",
-                "dataIv": "da61247f5b662597",
-                "version": "120"
-            }
-        },
+        
         {
             "key": "白鸽",
             "name": "白鸽｜APP",
@@ -821,23 +866,7 @@
   
      
 //////++++++++++++++++動漫++++++++++++++/////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        {
-            "key": "爱弹幕",
-            "name": "🥇💢爱弹幕✨｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
-        },
-	
-	{
-            "key": "路漫漫",
-            "name": "🥇💢路漫漫✨｜动漫",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
-        },
+     
         {
       "key": "嗷呜动漫.py",
       "name": "嗷呜动漫",
@@ -1045,32 +1074,7 @@
         //{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         //{"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
         
-        {
-            "key": "88",
-            "name": "🏆🏆⚽88┃FTY",
-            "type": 3,
-            "api": "csp_Sir88Guard",
-            "timeout": 15,
-            "searchable": 0,
-            "changeable": 0,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "看球",
-            "name": "🏆🏆⚽看球┃FTY",
-            "type": 3,
-            "api": "csp_KanqiuGuard",
-            "timeout": 15,
-            "searchable": 0,
-            "changeable": 0,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "style": {
-                "type": "list"
-            }
-        },		
+        
 ///////+++++++++++++++++影视+++++++///////////////////////////////////////////////////////////////////////////////////////////////////////////////     
         
      
@@ -2995,6 +2999,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
