@@ -177,8 +177,8 @@
 		      
      
        {
-            "key": "✨爱你影视✨",
-            "name": "爱你影视",
+            "key": "爱你影视",
+            "name": "✨爱你影视✨",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -189,8 +189,8 @@
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/爱你影视.json"
         },
         {
-            "key": "✨影视大全✨",
-            "name": "影视大全",
+            "key": "影视大全",
+            "name": "✨影视大全✨",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -2759,6 +2759,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
