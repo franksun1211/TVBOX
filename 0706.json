@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260106 🍒",
+	"notice": "[0706]FK20260110 🍏",
 	 
    
     "sites": [
@@ -88,16 +88,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	  {
-            "key": "和友",
-            "name": "🥇和友✨｜APP",
+	   {
+            "key": "花柳",
+            "name": "🥇花柳✨｜APP",
             "type": 3,
-            "api": "csp_AppSy",
+            "changeable": 0,
+            "api": "csp_AppFox",
             "ext": {
-                "site": "http://qcb.sxtzg.com/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "gHSLmx3JQRasgztO",
-                "parsesKey": "gHSLmx3JQRasgztO"
+                "host": "http://nico.oiio.fun",
+                "ver": 2
             }
         },
 		{
@@ -251,7 +250,7 @@
         },
         
         
-       {"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/su147456888444/tvbox/raw/main/drpy_js/Apple.py","jar":"https://github.com/su147456888444/tvbox/raw/main/yt.jar","searchable":1,"filterable":0,"changeable":0},
+{"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/Apple.py","jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar","searchable":1,"filterable":0,"changeable":0},
 
 		
       
@@ -267,6 +266,19 @@
 {"key":"嗷呜金牌影院","name":"🥇嗷呜金牌荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},		
 ////++++++++APP++++++++//////////////////////////////////////////////////////////////////////     
 {
+            "key": "金牌",
+            "name": "🥇金牌✨┃APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+                "dataKey": "kecbio48dsq131ed",
+                "dataIv": "kecbio48dsq131ed"
+            }
+        },
+		{
             "key": "热播影视",
             "name": "热播｜APP",
             "type": 3,
@@ -347,19 +359,7 @@
             }
         },
       
-        {
-            "key": "金牌",
-            "name": "🥇金牌✨┃APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
-                "dataKey": "kecbio48dsq131ed",
-                "dataIv": "kecbio48dsq131ed"
-            }
-        },
+        
         {
             "key": "爱盈",
             "name": "爱盈｜APP",
@@ -376,6 +376,39 @@
             }
         },
         {
+            "key": "爆炸",
+            "name": "爆炸｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
+                "dataIv": "37kj83zs1q16jk6t",
+                "search": "searchList4",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "橘子",
+            "name": "橘子｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "url": "https://juziapp.tpmbt.cn",
+                "dataKey": "K3h6YvSU8BTUfEcb",
+                "dataIv": "K3h6YvSU8BTUfEcb",
+                "version": "305",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+		{
             "key": "顾我",
             "name": "顾我｜APP",
             "type": 3,
@@ -866,6 +899,28 @@
             }
         },
   
+        {
+            "key": "气球",
+            "name": "气球｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://vv.229d.cn",
+                "dataKey": "8888888888888888",
+                "dataIv": "8888888888888888"
+            }
+        },
+        {
+            "key": "随看",
+            "name": "随看｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://suikan.tpmbt.cn",
+                "dataKey": "pHQsm6wjYaCuSPEz",
+                "dataIv": "pHQsm6wjYaCuSPEz"
+            }
+        },
      
 //////++++++++++++++++動漫++++++++++++++/////////////////////////////////////////////////////////////////////////////////////////////////////////////
      {
@@ -2975,6 +3030,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
