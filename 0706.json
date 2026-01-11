@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260110-A 🍏",
+	"notice": "[0706]FK20260110-B 🍏",
 	 
    
     "sites": [
@@ -80,7 +80,7 @@
 		
 		{
       "key": "云云.py",
-      "name": "🥇云云✨",
+      "name": "🥇云云高清✨",
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
 	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
@@ -2759,6 +2759,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
