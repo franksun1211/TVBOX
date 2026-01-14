@@ -6,7 +6,7 @@
 	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260114 🍎",
+	"notice": "[0706]FK20260114-A 🍎",
 	 
    
     "sites": [
@@ -1118,58 +1118,74 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 /////+++++++++++++++++++短剧+++++++++++++++++////////////////////////////////////////////////////////////          
+
+
 {
+            "key": "甜圈短剧",
+            "name": "甜圈｜短剧",
+            "type": 3,
+            "api": "csp_TianquanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "锦鲤短剧",
+            "name": "锦鲤｜短剧",
+            "type": 3,
+            "api": "csp_JinliDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "七猫短剧",
+            "name": "七猫｜短剧",
+            "type": 3,
+            "api": "csp_QiMaoDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "星阁短剧",
+            "name": "星阁｜短剧",
+            "type": 3,
+            "api": "csp_XinggeDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
-            "api": "csp_AppXY",
+            "api": "./py/星芽短剧.py",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "河马短剧",
-            "name": "河马｜短剧",
-            "type": 3,
-            "api": "csp_AppHMDJ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-        },
-        {
-            "key": "吉吉短剧",
-            "name": "吉吉｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/XBPQ/吉吉短剧.json"
-        },
-        {
-            "key": "爱我短剧",
-            "name": "爱我｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
+            "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/XBPQ/爱我短剧.json"
+            "filterable": 1
         },
         {
-            "key": "短剧网",
-            "name": "短剧网｜短剧",
+            "key": "剧王短剧",
+            "name": "剧王｜短剧",
+            "type": 3,
+            "api": "https://github.com/qist/tvbox/raw/master/xiaosa/py/剧王短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "番茄短剧",
+            "name": "番茄｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/XBPQ/短剧网.json"
-        },
-        {
-            "key": "短剧屋",
-            "name": "短剧屋｜短剧",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/XYQHiker/短剧屋.json"
+            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XBPQ/番茄短剧.json"
         },
   //////++++++++++++++搜索++++++++++++++////////////////////////////////////////////////////////////////////////////////////////       
         {
@@ -2456,6 +2472,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
