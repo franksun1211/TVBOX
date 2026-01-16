@@ -2,11 +2,9 @@
 {
     //"spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
-	//"spider":"https://github.com/su147456888444/tvbox/raw/main/yt.jar",
-	//"spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
-    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706]FK20260114-A 🍎",
+	"notice": "[0706]FK20260116 🍐",
 	 
    
     "sites": [
@@ -43,10 +41,18 @@
             "name": "🥇💢爱弹幕✨｜动漫",
             "type": 3,
             "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
         },
-	
+	 {
+      "key": "AnimeGiriGiri",
+      "name": "🥇💢GiriGiri爱✨｜动漫",
+      "type": 3,
+      "api": "csp_AnimeGiriGiriGuard",
+	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
+      "searchable": 1,
+      "changeable": 1
+    },
 	{
             "key": "路漫漫",
             "name": "🥇💢路漫漫✨｜动漫",
@@ -108,6 +114,35 @@
                 "ver": 2
             }
         },
+		{
+      "key": "WexHanXiaoQuan",
+      "name": "🥇韩剧✨┃秒播",
+      "type": 3,
+      "api": "csp_WexHanXiaoQuanGuard",
+	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 	
+      "searchable": 1,
+      "changeable": 1
+    },
+    
+    {
+      "key": "賤賤",
+      "name": "🥇贱片✨┃秒播",
+      "type": 3,
+      "api": "csp_WexJianPianGuard",
+	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
+      "searchable": 1,
+      "changeable": 1
+    },
+   
+    {
+      "key": "WexXiaoPingGuo",
+      "name": "🥇苹果✨┃秒播",
+      "type": 3,
+      "api": "csp_WexXiaoPingGuoGuard",
+	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
+      "searchable": 1,
+      "changeable": 1
+    },
 		{
             "key": "仓鼠",
             "name": "🥇仓鼠✨｜APP",
@@ -259,7 +294,7 @@
         },
         
         
-{"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/Apple.py","jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar","searchable":1,"filterable":0,"changeable":0},
+//{"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/Apple.py","jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar","searchable":1,"filterable":0,"changeable":0},
 
 		
       
@@ -2472,6 +2507,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
