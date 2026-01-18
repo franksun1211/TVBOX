@@ -479,27 +479,6 @@
         
        
         {
-            "key": "海绵",
-            "name": "海绵｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudHM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "http://haimian.eu.org",
-                    "https://www.hmxz.org",
-                    "https://www.haimianxz.com"
-                ]
-            }
-        },
-        {
             "key": "夸父",
             "name": "夸父｜4K",
             "type": 3,
@@ -2001,6 +1980,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
