@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706精簡]FK20260118 🍊",
+	"notice": "[0706精簡]FK20260118-A 🍊",
 	 
    
     "sites": [
@@ -354,23 +354,7 @@
        
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////++++++++++4K+++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////////////
- {
-            "key": "玩偶",
-            "name": "玩偶｜4K",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.wogg.one",
-                    "https://wogg.333232.xyz",
-                    "https://woggpan.888484.xyz"
-                ]
-            }
-        },
+ 
         {
             "key": "快映",
             "name": "快映｜4K",
@@ -386,24 +370,7 @@
                 ]
             }
         },
-        {
-            "key": "木偶",
-            "name": "木偶｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://123.666291.xyz",
-                    "https://666.666291.xyz",
-                    "https://www.muou.site",
-                    "https://www.muou.asia"
-                ]
-            }
-        },
+       
         {
             "key": "蜡笔",
             "name": "蜡笔｜4K",
@@ -441,23 +408,7 @@
                 ]
             }
         },
-        {
-            "key": "多多",
-            "name": "多多｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://tv.yydsys.top",
-                    "https://tv.yydsys.cc",
-                    "https://tv.214521.xyz"
-                ]
-            }
-        },
+        
         {
             "key": "欧哥",
             "name": "欧哥｜4K",
@@ -494,21 +445,7 @@
                 ]
             }
         },
-        {
-            "key": "虎斑",
-            "name": "虎斑｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://103.45.162.207:20720"
-                ]
-            }
-        },
+        
         {
             "key": "闪电",
             "name": "闪电｜4K",
@@ -539,43 +476,8 @@
                 ]
             }
         },
-        {
-            "key": "清影",
-            "name": "清影｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudQY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://www.revohd.com"
-                ]
-            }
-        },
-        {
-            "key": "雷鲸",
-            "name": "雷鲸｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudLJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://www.leijing.xyz",
-                    "https://www.leijing1.com",
-                    "https://leijing.xyz",
-                    "https://leijing1.com"
-                ]
-            }
-        },
+        
+       
         {
             "key": "海绵",
             "name": "海绵｜4K",
@@ -627,7 +529,7 @@
             "filterable": 1,
             "changeable": 1,
             "style": {
-                "type": "list"
+                
             }
         },
         {
@@ -640,7 +542,7 @@
             "filterable": 1,
             "changeable": 1,
             "style": {
-                "type": "list",
+                
                 "ratio": 1.433
             },
             "ext": {
@@ -660,19 +562,15 @@
             "key": "即刻",
             "name": "即刻｜4K",
             "type": 3,
-            "api": "csp_Jike",
-            "style": {
-                "type": "list"
-            }
+            "api": "csp_Jike"
+            
         },
         {
             "key": "双星",
             "name": "双星｜4K",
             "type": 3,
-            "api": "csp_ShuangXing",
-            "style": {
-                "type": "list"
-            }
+            "api": "csp_ShuangXing"
+            
         },
        
 
@@ -2103,6 +2001,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
