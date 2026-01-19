@@ -44,15 +44,7 @@
 		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
         },
-	 {
-      "key": "AnimeGiriGiri",
-      "name": "🥇💢GiriGiri爱✨｜动漫",
-      "type": 3,
-      "api": "csp_AnimeGiriGiriGuard",
-	 // "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
-      "searchable": 1,
-      "changeable": 1
-    },
+	
 	{
             "key": "路漫漫",
             "name": "🥇💢路漫漫✨｜动漫",
@@ -117,35 +109,7 @@
                 "ver": 2
             }
         },
-		{
-      "key": "WexHanXiaoQuan",
-      "name": "🥇韩剧✨┃秒播",
-      "type": 3,
-      "api": "csp_WexHanXiaoQuanGuard",
-	 // "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 	
-      "searchable": 1,
-      "changeable": 1
-    },
-    
-    {
-      "key": "賤賤",
-      "name": "🥇贱片✨┃秒播",
-      "type": 3,
-      "api": "csp_WexJianPianGuard",
-	//  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
-      "searchable": 1,
-      "changeable": 1
-    },
-   
-    {
-      "key": "WexXiaoPingGuo",
-      "name": "🥇苹果✨┃秒播",
-      "type": 3,
-      "api": "csp_WexXiaoPingGuoGuard",
-	 // "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
-      "searchable": 1,
-      "changeable": 1
-    },
+	
 		{
             "key": "仓鼠",
             "name": "🥇仓鼠✨｜APP",
@@ -1980,6 +1944,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
