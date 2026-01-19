@@ -1608,6 +1608,71 @@
                 }
             }
         },
+		 {
+            "name": "聚合1",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "聚合0",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "ikun",
+            "type": 0,
+            "url": "https://jx.hls.one/?url="
+        },
+        {
+            "name": "77",
+            "type": 0,
+            "url": "https://jx.77flv.cc/?url="
+        },
+        {
+            "name": "A6",
+            "type": 0,
+            "url": "https://pl.a6club.com/player/analysis.php?v="
+        },
+        {
+            "name": "8090",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url="
+        },
+        {
+            "name": "M3u8TV",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "CK",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "冰豆",
+            "type": 0,
+            "url": "https://bd.jx.cn/?url="
+        },
+        {
+            "name": "XY",
+            "type": 0,
+            "url": "https://jx.xymp4.cc/?url="
+        },
+        {
+            "name": "推荐",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
+        },
+        {
+            "name": "臻享",
+            "type": 1,
+            "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
+        },
+        {
+            "name": "优选",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url="
+        },
 		{
             "name": "Quad9",
             "url": "https://dns.quad9.net/dns-quer",
@@ -2013,6 +2078,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
