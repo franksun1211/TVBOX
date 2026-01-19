@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706精簡]FK20260119 🍋",
+	"notice": "[0706精簡]FK20260119-A 🍋",
 	 
    
     "sites": [
@@ -263,7 +263,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "changeable": 1
         },
         {
@@ -274,7 +274,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "changeable": 1
             // "ext": {
             //     "sites": "https://ddys.la,https://ddys.vip",
@@ -289,7 +289,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "changeable": 1
             //"ext":"https://www.xlys02.com,https://xl01.com.de"
         },
@@ -301,7 +301,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "changeable": 1
         },
         {
@@ -312,7 +312,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "changeable": 1
         },
         {
@@ -323,7 +323,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "changeable": 1
         },
       
@@ -2013,6 +2013,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
