@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706精簡]FK20260119-A 🍋",
+	"notice": "[0706精簡]FK20260119-B 🍋",
 	 
    
     "sites": [
@@ -25,6 +25,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+		{
+      "key": "云云.py",
+      "name": "🥇云云高清✨",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
+	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 		{
             "key": "UVod",
             "name": "🥇優視頻✨",
@@ -88,16 +98,7 @@
             }
         },
 		
-		{
-      "key": "云云.py",
-      "name": "🥇云云高清✨",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
-	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+		
 	   {
             "key": "花柳",
             "name": "🥇花柳✨｜APP",
@@ -255,78 +256,7 @@
                 "dataIv": "kecbio48dsq131ed"
             }
         },
-		{
-            "name": "🎪伊外",
-            "key": "伊外",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "changeable": 1
-        },
-        {
-            "name": "🏆高端",
-            "key": "高端",
-            "type": 3,
-            "api": "csp_DdysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "changeable": 1
-            // "ext": {
-            //     "sites": "https://ddys.la,https://ddys.vip",
-            //     "filters": ""
-            // }
-        },
-        {
-            "name": "🍿哔嘀",
-            "key": "哔嘀",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "changeable": 1
-            //"ext":"https://www.xlys02.com,https://xl01.com.de"
-        },
-        {
-            "name": "🏭厂长",
-            "key": "厂长",
-            "type": 3,
-            "api": "csp_CzzyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "changeable": 1
-        },
-        {
-            "name": "📽️LIBVIO",
-            "key": "LIBVIO",
-            "type": 3,
-            "api": "csp_LibvioAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "changeable": 1
-        },
-        {
-            "name": "📀俩BT",
-            "key": "俩BT",
-            "type": 3,
-            "api": "csp_BttwoAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-			"jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "changeable": 1
-        },
-      
+		
     
 //////++++++++++++++++動漫++++++++++++++/////////////////////////////////////////////////////////////////////////////////////////////////////////////
      
@@ -374,15 +304,7 @@
             "filterable": 1
         },
         
-        {
-            "key": "低端影视",
-            "name": "低端｜影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
         
        
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -2078,6 +2000,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
