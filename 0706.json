@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706精簡]FK20260118-A 🍊",
+	"notice": "[0706精簡]FK20260118-B 🍊",
 	 
    
     "sites": [
@@ -49,7 +49,7 @@
       "name": "🥇💢GiriGiri爱✨｜动漫",
       "type": 3,
       "api": "csp_AnimeGiriGiriGuard",
-	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
+	 // "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
       "searchable": 1,
       "changeable": 1
     },
@@ -122,7 +122,7 @@
       "name": "🥇韩剧✨┃秒播",
       "type": 3,
       "api": "csp_WexHanXiaoQuanGuard",
-	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 	
+	 // "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 	
       "searchable": 1,
       "changeable": 1
     },
@@ -132,7 +132,7 @@
       "name": "🥇贱片✨┃秒播",
       "type": 3,
       "api": "csp_WexJianPianGuard",
-	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
+	//  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
       "searchable": 1,
       "changeable": 1
     },
@@ -142,7 +142,7 @@
       "name": "🥇苹果✨┃秒播",
       "type": 3,
       "api": "csp_WexXiaoPingGuoGuard",
-	  "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
+	 // "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/wxer.txt",	 
       "searchable": 1,
       "changeable": 1
     },
@@ -1980,6 +1980,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
