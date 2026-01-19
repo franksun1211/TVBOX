@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706精簡]FK20260118-C 🍊",
+	"notice": "[0706精簡]FK20260119 🍋",
 	 
    
     "sites": [
@@ -255,10 +255,79 @@
                 "dataIv": "kecbio48dsq131ed"
             }
         },
-		
-        
+		{
+            "name": "🎪伊外",
+            "key": "伊外",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+            "changeable": 1
+        },
+        {
+            "name": "🏆高端",
+            "key": "高端",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+            "changeable": 1
+            // "ext": {
+            //     "sites": "https://ddys.la,https://ddys.vip",
+            //     "filters": ""
+            // }
+        },
+        {
+            "name": "🍿哔嘀",
+            "key": "哔嘀",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+            "changeable": 1
+            //"ext":"https://www.xlys02.com,https://xl01.com.de"
+        },
+        {
+            "name": "🏭厂长",
+            "key": "厂长",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+            "changeable": 1
+        },
+        {
+            "name": "📽️LIBVIO",
+            "key": "LIBVIO",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+            "changeable": 1
+        },
+        {
+            "name": "📀俩BT",
+            "key": "俩BT",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/aowu-spider.png",
+            "changeable": 1
+        },
       
-     
+    
 //////++++++++++++++++動漫++++++++++++++/////////////////////////////////////////////////////////////////////////////////////////////////////////////
      
         {
@@ -1944,6 +2013,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
