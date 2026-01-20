@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260119-B 🍋",
+	"notice": "[0706JJ]CK20260120 🍌",
 	 
    
     "sites": [
@@ -118,10 +118,11 @@
             "quickSearch": 1,
             "api": "csp_AppQi",
             "ext": {
-                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-                "dataKey": "da61247f5b662597",
-                "dataIv": "da61247f5b662597",
-                "version": "120"
+                "url": "https://hk440cms.cs4k.top",
+                "dataKey": "fL7sY4zN4kB3pG4p",
+                "dataIv": "fL7sY4zN4kB3pG4p",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
             }
         },
 		{
@@ -2000,6 +2001,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
