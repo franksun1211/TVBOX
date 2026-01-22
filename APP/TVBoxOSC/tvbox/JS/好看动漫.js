@@ -1,8 +1,8 @@
 var rule = {
     title: '好看动漫',
-    host: 'https://www.youjiula.com/',
-    url: 'https://www.youjiula.com/youjiu/fyclass-fypage.html',
-    searchUrl: 'https://www.youjiula.com/search.php?page=fypage&searchword=**&searchtype=',
+    host: 'https://www.hatudm.com/',
+    url: 'https://www.hatudm.com/youjiu/fyclass-fypage.html',
+    searchUrl: 'https://www.hatudm.com/search.php?page=fypage&searchword=**&searchtype=',
     searchable: 2, //是否启用全局搜索,
     quickSearch: 0, //是否启用快速搜索,
     filterable: 0, //是否启用分类筛选,
