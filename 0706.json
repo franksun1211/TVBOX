@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260127 🍉",
+	"notice": "[0706JJ]CK20260127-A 🍉",
 	 
    
     "sites": [
@@ -468,20 +468,17 @@
             "key": "即刻",
             "name": "即刻｜4K",
             "type": 3,
-            "api": "csp_Jike",
-            "style": {
-                "type": ""
+            "api": "csp_Jike"
+            
             }
         },
-        {
+       {
             "key": "双星",
-            "name": "双星｜4K",
+            "name": "🥇双星｜4K",
             "type": 3,
-            "api": "csp_ShuangXing",
-            "style": {
-                "type": ""
-            }
-        }, 
+            "api": "csp_ShuangXing"
+            
+        },
        
        
 
@@ -1994,6 +1991,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
