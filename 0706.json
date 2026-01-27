@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260120 🍌",
+	"notice": "[0706JJ]CK20260127 🍉",
 	 
    
     "sites": [
@@ -101,7 +101,7 @@
 		
 	   {
             "key": "花柳",
-            "name": "🥇花柳✨｜APP",
+            "name": "🥇💢花柳✨｜APP",
             "type": 3,
             "changeable": 0,
             "api": "csp_AppFox",
@@ -127,7 +127,7 @@
         },
 		{
             "key": "88",
-            "name": "🏆🏆⚽88┃FTY",
+            "name": "🥇🏆⚽88✨┃FTY",
             "type": 3,
             "api": "csp_Sir88Guard",
             "timeout": 15,
@@ -140,7 +140,7 @@
         },
         {
             "key": "看球",
-            "name": "🏆🏆⚽看球┃FTY",
+            "name": "🏆⚽看球✨┃FTY",
             "type": 3,
             "api": "csp_KanqiuGuard",
             "timeout": 15,
@@ -150,7 +150,100 @@
             "style": {
                 "type": "list"
             }
-        },		
+        },	
+		{
+            "key": "蜡笔",
+            "name": "🥇蜡笔✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.labi88.sbs",
+                    "https://feimao666.fun",
+                    "http://feimao888.fun"
+                ]
+            }
+        },
+        {
+            "key": "至臻",
+            "name": "🥇至臻✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://xiaomiai.site",
+                    "https://xiaomi666.fun",
+                    "https://www.mihdr.top",
+                    "https://www.zhizhenpan.fun"
+                ]
+            }
+        },
+       
+        {
+            "key": "欧哥",
+            "name": "🥇欧哥✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://woog.nxog.eu.org",
+                    "https://woog.nxog.fun",
+                    "https://woog.nxog.eu.org",
+                    "https://woog.430520.xyz"
+                ]
+            }
+        },
+		 {
+            "key": "夸克",
+            "name": "🥇夸克✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.quarktv.cc"
+                ]
+            }
+        },
+       
+        
+        {
+            "key": "夸父",
+            "name": "🥇💢夸父✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://www.kfjwzz.com"
+                ],
+                "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
+            }
+        },
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         
         
@@ -310,8 +403,7 @@
        
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////++++++++++4K+++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////////////
- 
-        {
+{
             "key": "快映",
             "name": "快映｜4K",
             "type": 3,
@@ -322,67 +414,13 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "http://xhban.xyz"
-                ]
-            }
-        },
-       
-        {
-            "key": "蜡笔",
-            "name": "蜡笔｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.labi88.sbs",
-                    "https://feimao666.fun",
-                    "http://feimao888.fun"
-                ]
-            }
-        },
-        {
-            "key": "至臻",
-            "name": "至臻｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://mihdr.top",
-                    "https://www.miqk.cc",
-                    "https://xiaomiai.site",
-                    "https://xiaomi666.fun",
-                    "https://www.mihdr.top",
-                    "https://www.zhizhenpan.fun"
+                    "http://xsayang.fun:12512",
+                    "http://154.201.83.50:12512"
                 ]
             }
         },
         
-        {
-            "key": "欧哥",
-            "name": "🥇欧哥｜4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://woog.nxog.eu.org",
-                    "https://woog.nxog.fun",
-                    "https://woog.nxog.eu.org",
-                    "https://woog.430520.xyz"
-                ]
-            }
-        },
+        
         {
             "key": "二小",
             "name": "二小｜4K",
@@ -417,76 +455,9 @@
                 ]
             }
         },
-        {
-            "key": "夸克",
-            "name": "夸克｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.quarktv.cc"
-                ]
-            }
-        },
-        
        
-        {
-            "key": "夸父",
-            "name": "夸父｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKF",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-               
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://www.kfzy.cc"
-                ],
-                "cookie": "bbs_sid=qtrfbfct9gs8e7qat96o3nf09t; isClose=yes; __mxau__c2-lS6GI0pR=de438e75-e385-47c4-acb1-6564b407c7b1; __mxaf__c2-lS6GI0pR=1761439615; bbs_token=9NqiBWxAvM2MN_2FST20QOg5g9gcyzm2Hqfd9YwaQjK6Y_3D; __mxas__c2-lS6GI0pR=%7B%22sid%22%3A%22e4f30c47-1290-431b-b228-b9116c4744bd%22%2C%22vd%22%3A5%2C%22stt%22%3A168%2C%22dr%22%3A3%2C%22expires%22%3A1761476207%2C%22ct%22%3A1761474407%7D; __mxav__c2-lS6GI0pR=13"
-            }
-        },
-        {
-            "key": "盘它",
-            "name": "盘它｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudPT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                
-            }
-        },
-        {
-            "key": "123",
-            "name": "123｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloud123",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://123panfx.com",
-                    "https://pan1.me"
-                ]
-            }
-        },
+       
+        
         {
             "key": "人人",
             "name": "人人｜4K",
@@ -497,20 +468,42 @@
             "key": "即刻",
             "name": "即刻｜4K",
             "type": 3,
-            "api": "csp_Jike"
-            
+            "api": "csp_Jike",
+            "style": {
+                "type": ""
+            }
         },
         {
             "key": "双星",
             "name": "双星｜4K",
             "type": 3,
-            "api": "csp_ShuangXing"
-            
-        },
+            "api": "csp_ShuangXing",
+            "style": {
+                "type": ""
+            }
+        }, 
+       
        
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+{
+            "key": "哔哩视频",
+            "name": "哔哩｜视频",
+            "type": 3,
+            "api": "csp_BiliYS",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://github.com/qist/tvbox/raw/master/xiaosa/json/哔哩视频.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
+        },
 /////+++++++++++++++++++短剧+++++++++++++++++////////////////////////////////////////////////////////////          
 
 
@@ -2001,6 +1994,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
