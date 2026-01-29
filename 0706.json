@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260127-C 🍉",
+	"notice": "[0706JJ]CK20260129 🍇",
 	 
    
     "sites": [
@@ -82,23 +82,7 @@
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
             "changeable": 1
         },
-	 {
-            "key": "立播弹幕",
-            "name": "🥇LibVio✨｜弹幕",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "site": "https://libvio.in",
-                "danmu": true
-            }
-        },
-		
-		
+	
 	   {
             "key": "花柳",
             "name": "🥇💢花柳✨｜APP",
@@ -111,20 +95,7 @@
             }
         },
 	
-		{
-            "key": "仓鼠",
-            "name": "🥇仓鼠✨｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "https://hk440cms.cs4k.top",
-                "dataKey": "fL7sY4zN4kB3pG4p",
-                "dataIv": "fL7sY4zN4kB3pG4p",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
+		
 		{
             "key": "88",
             "name": "🥇🏆⚽88✨┃FTY",
@@ -306,7 +277,7 @@
 		
 		{
             "key": "立播",
-            "name": "🥇立播✨┃FTY",
+            "name": "🥇LibVio✨┃FTY",
             "type": 3,
             "api": "csp_LibvioGuard",
             "timeout": 15,
@@ -1991,6 +1962,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
