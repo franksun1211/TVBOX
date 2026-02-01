@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260129 🍇",
+	"notice": "[0706JJ]CK20260201 🍓",
 	 
    
     "sites": [
@@ -543,20 +543,7 @@
             "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XBPQ/番茄短剧.json"
         },
   //////++++++++++++++搜索++++++++++++++////////////////////////////////////////////////////////////////////////////////////////       
-         {
-            "key": "阿里云盘",
-            "name": "我的｜阿里",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/aliShare.json"
-        },
+         
         {
             "key": "夸克云盘",
             "name": "我的｜夸克",
@@ -621,12 +608,7 @@
             "type": 3,
             "api": "csp_HunHePan"
         },
-        {
-            "key": "兄弟",
-            "name": "兄弟｜搜索",
-            "type": 3,
-            "api": "csp_XiongDiPan"
-        },
+       
         {
             "key": "天翼",
             "name": "天翼｜搜索",
@@ -1962,6 +1944,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
