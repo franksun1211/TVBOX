@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260206 🍈",
+	"notice": "[0706JJ]CK20260206-A 🍈",
 	 
    
     "sites": [
@@ -383,9 +383,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "style": {
-                "type": "list"
-            },
             "timeout": 60
         },
 {
@@ -1976,6 +1973,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
