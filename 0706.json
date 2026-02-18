@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260206-B 🍈",
+	"notice": "[0706JJ]CK20260218 🍒",
 	 
    
     "sites": [
@@ -17,16 +17,6 @@
         },
 /////////////////我的最愛////////////////////////////////////////////////////////////////////////
 
-		{
-      "key": "云云.py",
-      "name": "🥇云云高清✨",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
-	  "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 		{
             "key": "UVod",
             "name": "🥇優視頻✨",
@@ -1965,6 +1955,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
