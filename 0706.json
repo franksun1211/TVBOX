@@ -104,7 +104,7 @@
                 "type": "list"
             }
         },	
-		{
+		 {
             "key": "蜡笔",
             "name": "🥇蜡笔✨｜4K",
             "type": 3,
@@ -115,12 +115,19 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://www.labi88.sbs",
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
                     "https://feimao666.fun",
-                    "http://feimao888.fun"
+                    "http://feimao888.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop"
                 ]
-            }
+            },
+            "timeout": 60
         },
+		
         {
             "key": "至臻",
             "name": "🥇至臻✨｜4K",
@@ -2050,6 +2057,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
