@@ -65,18 +65,7 @@
             "changeable": 1
         },
 	
-	   {
-            "key": "花柳",
-            "name": "🥇💢花柳✨｜APP",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "http://nico.oiio.fun",
-                "ver": 2
-            }
-        },
-	
+	   
 		
 		{
             "key": "88",
@@ -260,19 +249,7 @@
 
         
         
-       {
-            "key": "小苹果弹幕",
-            "name": "🥇小苹果✨｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        }, 
+     
 		
 		{
             "key": "立播",
@@ -358,18 +335,7 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
       
-        {
-            "key": "苹果影视",
-            "name": "🥇苹果｜影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        
-       
-        
+      
        
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////++++++++++4K+++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////////////
@@ -2066,6 +2032,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
