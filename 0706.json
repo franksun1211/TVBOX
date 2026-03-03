@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260228 🥭",
+	"notice": "[0706JJ]CK20260303 🍍",
 	 
    
     "sites": [
@@ -196,6 +196,21 @@
                 "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
              },
             "timeout": 60
+        },
+		{
+            "key": "夸克云盘",
+            "name": "我的｜夸克",
+            "type": 3,
+            "api": "csp_PanQuark",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/quarkShare.json",
+			 "timeout": 60
         },
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         
@@ -543,20 +558,7 @@
         },
   //////++++++++++++++搜索++++++++++++++////////////////////////////////////////////////////////////////////////////////////////       
          
-        {
-            "key": "夸克云盘",
-            "name": "我的｜夸克",
-            "type": 3,
-            "api": "csp_PanQuark",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/quarkShare.json"
-        },
+        
         
         
         {
@@ -2032,6 +2034,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
