@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260303-A 🍍",
+	"notice": "[0706JJ]CK20260303-B 🍍",
 	 
    
     "sites": [
@@ -213,27 +213,8 @@
 			 "timeout": 60
         },
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-         {
-            "key": "Zwqf",
-            "name": "醉挽｜MYER",
-            "type": 3,
-            "api": "csp_Zwqf",
-            "searchable": 1,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "ext": {
-                "url": "https://fishapi.wya6.com/fish/zui/moyu.php",
-                "token": "moyu996"
-            }
-        },
-        {
-            "key": "zhiqiu",
-            "name": "听风｜MYER",
-            "type": 3,
-            "api": "csp_zhiqiu",
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "searchable": 1,
-            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-        },
+        
+         
         {
             "key": "Symx",
             "name": "🥇山有✨｜MYER",
@@ -242,24 +223,11 @@
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
             "ext": "https://film.symx.club"
         },
-        {
-            "key": "Kan360",
-            "name": "倦枕｜MYER",
-            "type": 3,
-            "api": "csp_Kan360",
-            "searchable": 1,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "filterable": 1,
-            "ext": {
-                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
-                "fishjx": [
-                    "https://jx.xmflv.com/?url="
-                ]
-            }
-        },
+        
+        
           {
             "key": "RenRen",
-            "name": "🥇人人✨｜影视",
+            "name": "🥇人人✨｜MYER",
             "type": 3,
             "api": "csp_RenRen",
             "searchable": 1,
@@ -2107,6 +2075,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
