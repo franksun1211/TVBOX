@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260303-B 🍍",
+	"notice": "[0706JJ]CK20260303-C 🍍",
 	 
    
     "sites": [
@@ -199,7 +199,7 @@
         },
 		{
             "key": "夸克云盘",
-            "name": "我的｜夸克",
+            "name": "🥇我的夸克✨",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -212,17 +212,32 @@
             "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/quarkShare.json",
 			 "timeout": 60
         },
+		      {
+            "key": "AoWu",
+            "name": "🥇💢嗷呜✨｜动漫",
+            "type": 3,
+            "api": "csp_AoWu",
+            "searchable": 1,
+			 "jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
+            "key": "XiFan",
+            "name": "🥇💢稀饭✨｜动漫",
+            "type": 3,
+            "api": "csp_XiFan",
+            "searchable": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
+            "quickSearch": 1,
+            "ext": {
+                "SiteUrl": "https://dm.xifanacg.com"
+            }
+        },
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         
          
-        {
-            "key": "Symx",
-            "name": "🥇山有✨｜MYER",
-            "type": 3,
-            "api": "csp_Symx",
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "ext": "https://film.symx.club"
-        },
+        
         
         
           {
@@ -305,7 +320,17 @@
         
 //{"key":"Apple","name":"🥇Apple","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/Apple.py","jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar","searchable":1,"filterable":0,"changeable":0},
 
-		
+{
+            "key": "小羊",
+            "name": "小羊｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://xy4k.com/url.txt",
+                "dataKey": "7SDWjknU34zqFbVr",
+                "dataIv": "7SDWjknU34zqFbVr"
+            }
+        },		
       
      
 ////++++++++嗷嗚++++++++////////////////////////////////////////////////////////////  
@@ -346,28 +371,7 @@
         },
         {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
                  
-         {
-            "key": "AoWu",
-            "name": "嗷呜｜动漫",
-            "type": 3,
-            "api": "csp_AoWu",
-            "searchable": 1,
-			 "jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "XiFan",
-            "name": "稀饭｜动漫",
-            "type": 3,
-            "api": "csp_XiFan",
-            "searchable": 1,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "quickSearch": 1,
-            "ext": {
-                "SiteUrl": "https://dm.xifanacg.com"
-            }
-        },
+   
         
        
        
@@ -538,7 +542,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "锦鲤短剧",
@@ -548,17 +553,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "七猫短剧",
-            "name": "七猫｜短剧",
-            "type": 3,
-            "api": "csp_QiMaoDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "星阁短剧",
@@ -568,17 +564,30 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "key": "碎片",
+            "name": "碎片｜短剧",
+            "type": 3,
+            "api": "csp_SuipianDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
-            "api": "./py/星芽短剧.py",
+            "api": "https://github.com/qist/tvbox/raw/master/xiaosa/py/星芽短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "genre": "shortdrama"
         },
         {
             "key": "剧王短剧",
@@ -588,14 +597,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "番茄短剧",
-            "name": "番茄｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/XBPQ/番茄短剧.json"
+            "filterable": 1,
+            "genre": "shortdrama"
         },
   //////++++++++++++++搜索++++++++++++++////////////////////////////////////////////////////////////////////////////////////////       
          
@@ -2075,6 +2078,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
