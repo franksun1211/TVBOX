@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260414 🥭",
+	"notice": "[0706JJ]CK20260414-A 🥭",
 	 
    
     "sites": [
@@ -237,7 +237,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         {
             "key": "Zwqf",
-            "name": "🥇moyu✨｜MYER",
+            "name": "🥇moyu4K✨｜MYER",
             "type": 3,
             "api": "csp_Zwqf",
             "searchable": 1,
