@@ -4,7 +4,7 @@
     "spider": "https://github.com/qist/tvbox/raw/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260414-A 🥭",
+	"notice": "[0706JJ]CK20260414-B 🥭",
 	 
    
     "sites": [
@@ -259,7 +259,8 @@
             "searchable": 1,
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+			  "timeout": 90
         },
         
         {
