@@ -102,7 +102,7 @@
             "api": "csp_KanqiuGuard",
             "timeout": 15,
             "searchable": 0,
-			"url": "https://play.88player.top/m3u8.html?url="
+			"url": "https://play.88player.top/m3u8.html?url=",
             "changeable": 0,
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
             "style": {
