@@ -3,7 +3,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260507 🍑",
+	"notice": "[0706JJ]CK20260507-A 🍑",
     "sites": [
         {
             "key": "Douban",
@@ -1053,8 +1053,7 @@
 {"name": "🏊‍♀️┃锋哥港台大陆「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容","playerType":1},
 {"name": "🎉┃锋哥港台「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆","playerType":1},	
 {"name": "🔫️┃锋哥xTV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源","playerType":1},
-{"name": "📱┃飞扬咪咕「直播」","type": 0,"url": "https://l.gmbbk.com/upload/39183918.txt","playerType":1},
-{"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
+
 
 { "name": "✨👖裤佬TV直播✨","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"},
 
@@ -1064,15 +1063,7 @@
 
 { "name": "👖风云TV直播","type": 1,"url": "http://iptv.4666888.xyz/FYTV.txt"},
 
-{ "name": "👖蜂巢TV直播","type": 1,"url": "https://niurl.cc/7DdpuD"},
 
-{"name": "👖宫殿TV直播","type": 0,"url":"https://gongdian.top/tv/iptv","playerType": 1,"logo": "https://gongdian.top/tv/taibiao/{name}.png"},
-
-{ "name": "👖白雪TV直播","type": 1,"url": "http://bxtv.3a.ink/live.txt"},
-
-{ "name": "👖咪咕TV直播","type": 0,"url": "https://iptv.gstory.cn/Cinetry"},
-
-{ "name": "👖易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
 
 {"name": "👖JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}},
 
@@ -1082,7 +1073,6 @@
 {"name": "🚕┃LiTV「长青」","type": 0,"url": "https://cloud.7so.top/f/volzIA/LiTV.m3u","playerType":1},
 {"name": "👖┃四季TV直播{台湾ip翻}","type": 0,"ua": "okhttp/5.3.2","url":"http://ezc.xtvantsc.xyz/litv.php"},
 {"name": "🌭┃全网通「直播」","type": 0,"url": "https://codeberg.org/zxj/xyh/raw/branch/main/live.txt","playerType":1},
-{"name": "👠┃zilong7728「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u","playerType":1},
 {"name": "🏄‍♂️┃spring「直播」","type": 0,"url": "https://im5k.fun/spring.m3u","playerType":1},
 {"name": "🏄‍♂️┃spring「直播」","type": 0,"url": "http://wangziduoqing.com/yuan/zb.txt","playerType":1},
 {"name": "🦄┃港台","type": 0,"ua": "okhttp","url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"},
