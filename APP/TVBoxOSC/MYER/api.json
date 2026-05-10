@@ -1,0 +1,1114 @@
+{
+    "spider": "./spider.jar",
+    "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
+    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "sites": [
+        {
+            "key": "Douban",
+            "name": "豆瓣｜推荐",
+            "type": 3,
+            "api": "csp_DoubanFishGuard",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 1,
+            "ext": "./json/douban.json"
+        },
+        {
+            "key": "FishConfig",
+            "name": "设置｜中心",
+            "type": 3,
+            "api": "csp_FishConfigFishGuard"
+        },
+        {
+            "key": "YGP",
+            "name": "新片｜预告",
+            "type": 3,
+            "api": "csp_YGPFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Wogg",
+            "name": "玩偶｜4K",
+            "type": 3,
+            "api": "csp_WoggFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "site": [
+                    "https://wogg.xxooo.cf",
+                    "https://woggpan.888484.xyz",
+                    "https://wogg.333232.xyz",
+                    "http://woggpan.xxooo.cf",
+                    "https://www.wogg.one"
+                ],
+                "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
+            }
+        },
+        {
+            "key": "FishMuou",
+            "name": "木偶｜4K",
+            "type": 3,
+            "api": "csp_FishCloudFishGuard",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://123.666291.xyz",
+                    "https://666.666291.xyz",
+                    "https://www.muou.site",
+                    "https://www.muou.asia"
+                ]
+            }
+        },
+        {
+            "key": "云疏",
+            "name": "云疏｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AWgGBYneC7ANMWg7/+1LpLanJ7hY9rXzBkFRjJ2vuVXPIP5lftfeg4+cFbgFuz0XLL5ZhkzjN9OxVb4YirKP0yopUW8i7ydiamEkZIfEUte4TsSj0I7n1UhSCbH4obyhSv8Bz6IS3t6OwXPIuIT5uRYOMXTAGTcXCnut0qp2gSB0Q1GV24avWb2VnTMaQ3O+7gIyIyDpSYEgfBdULp3R6QRt25MSNIAtFjyxMxo/xVVsG5F6evKhi9uNK6I4q1gjE3flVKcX5P6oMpww7W0tsvaw/REoMEN3faGAOKfCFdRhiYW/17axvzKmg3sswadhD7V9HvNpVSlDO0YA5ODv97W3botq2gIZjuF4r9biocsvjymTwbMWjDkxpje3dJQLa/Ip41wcAnp+drN78qmCvl7g+VYZK7PBAbjkBEUyBwc2d0FUiCcXwM5YdXfM9MCZuKSXpWLbSQpGygi0hCrVXgfd52i/nKvb83o2Rlk159uU+LZWlK6gclYThtLIyVa8mjAiomuJuHICb56+6RRMhDwwW0H+ugg+wJEJS1jC2qqwhFCFMO1Xa7x+6Cu2JR/ug5ps+z1R4q1THMhbHWmq8S2f/f+KIKibzv3iT+iCuPds3JfV3Ge4MILh5q05uNlpM1Mixu6oI5oQaTtNXuTuWxVN4H3tbvzyhlmSD/uwTvsRjRAfnHoLm7/+0EM1g1DwsBMw53qFIl557E13iWGQE7B+prcSNZrq2ImpOicGEvnLY+khUmANFcq+2NnNQico8ecIO3UZ1tAJnqTWsEKXaY10I6g60Od6oHAqgeb/695VF4ihz93qxPzoV8F2McxSTsUaFZESAN7ypTaTFk6tmvgXalQB1anl6Y7nNHwEslhIdRI2wFBeLBg+yIWwUJbi3j4u6/RAqXwAm6EH4Y8dnH0/w78JdbejD3QTLZ30mmXJyA2crPDjRCibJnI5EhrKAIMYaj8XsPZ2KKxKzGH2FDC4zWbeRk08f04YKBcfwT+0pLdefM9e2yfKXSvTQLgCBA=="
+        },
+        {
+            "key": "知予",
+            "name": "知予｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AXa/dhw2PLXN7GTzaamHOCEf9KWdx8b5bp7n8hAmf9Boa6AZrB5/hhb4qGO6kjkz/Oh5Uei9rzPWsZlQhgxQGSu7Zb/ZmT15NpqUP+qEjAXGPyOlfFWZbr4rxW3WZSqH6i+OT49idbNqqJdm1jXPR00G5O44GJb+9H7f1iioaW5GOEXjTbDGfBqd4uVVCz6vPPgb/k1NVY/Ze+bb5AsQMmZyAcHWgow8PEaTln0cVXxkb5VmKMQfj5sEq9ZnWGHbu4/32qI2Jjtkmj6VijcdWZSyxuwW/O1i8QbrqQZMeYyr16m5gwNFIyv3ppAxMfyjSz6P7J9dbMfS5PaT3xL3TKTAnZFjS0KyZIKYrJBLj9lXwgox8aFmPV1fT2CBX5t/dHX6gL8CfkhYGjFj7LnVLZo5se/1WjuMkzPTSZharqLvXySQsKpiGKLhfs8DsgQppW4BP8Lv2wPFDmbwB2op21RJDJNQhJXbOW6Z4rI5uXZJAW6LuvudGVKVD/RF3/yUlM4Boda3iuV/7ER45wPegGXouEiiuS7QHjYCgiMLVmUEiYLVhiTe3qDU6VlHqn5YhP7+1kibrXrRQ7JzyQ0sOxljdVHQw6IIRTQwzSBJLoDiiCddIncVXxYmKuhW6Pxen1bOfQgd723GkDyLB1Y5U9KXbzS9y6+ko37HVfmwUzDEcG+DYyxa2lJTCIXbdPbl8LBGUGMURx1S43wMLh1rurnz41qwPL5/WULQJmx4bt4E30dcTi/KfIBD8EUM8YZk8z7JSG5bi3oyYToXXRJCXK/qNpxaJ5I0s27MfnJRE/xF2k7Pv0YtFPmwdQr6Z3neEzOo/Vt1E5WlC0JiURC2bO+MWqA70m6B5WJkmnd46qPLtaofki6EzbH81AMvgsYAgjf8iAO6nYWFcrVoAsYMMgJkyPExJEUQStc+TB4gvUFUT9VeTHMXNSWiHMrhGkAQIA37PXzfig3c0sAUy+9iNlKXZv/lfbVFRgV9w8k0eDLrcR40Ma1Pmgnwq7v05RqJiSQCngiXOQgzR4wFar5anDJT73LmmP77+zaoJDH0aZeY"
+        },
+        {
+            "key": "寻川",
+            "name": "寻川｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AbcP1HG0F9DImJN3O0j1Bbun2pWvbIasZkXzOSFtW0E/HSe2wlzD6dQpVI9d9bmoCMLwvn2SborJU02oWR2PwVx5rDrBoxNUmdN0kbis2BLgbLmTYH0OT9VpeTpjiCj9WOoVXqnWtpPPxJSmUxDawdyPleyFu186EEDaVhlYY5tGOvh4j4zpu67S/HtYreFssTYUYuNpKwdoGIg7bWXmuM11j8PecqLCioIsxAXK7OeZNDErFXw5sw2w4Gx8Mv5gfVVo+6EU0QwPdhl9oQGbSizsRpdhneZe5QxSCnxTD4H9MU/52+bgirD+V93aMn9glFssf1NWCP/KEqxwx/F4A50023mXgL4Axk0/ClID5jrnVgxi6L/rl15KXfG1Ks7x9nyQadrDfsnwD6Ht6pcgipkP/WlOJBnf80DC0NEi1xUKMdZN/mndpIJBIqHrUdi4+5nV0aght2VISlNlmfA6ZXfa0P3dUUza+2vGBMkWZnGpsw6qMPLq1Fi1PVegq7zqd4Q7EU6QnHjpQLISbw3WegBgLkwJI4g7arygvD2DqWLqHDjQyCf+0ERiNss65iH9tg1nc6oxl3NAzFN5YkxpvN7eWCVWVhgKkcl7Tdkfzt2LI7XUPj5Q8eNM88dwgKoeE/mMPmLBD2xg/B7Bq3RZa3sZAswf6QDKYrxrm3leGD9HRDZBd+nMPQ9V86J/YZ6WqS3ekLwGjfzxl2VpmrTzdhFIym6D9YpAUQ4Jsvi6pdPgDpWrwb0LGsYZdrS0Y5Ppp8vzbFuvBXDCkl96gwOJIVT/k9OEj6V0vfLXK6XgW/PIRisZRFKNU5upA7UFv20s0cRv4qScI7UTI8FP/E6w5BElCMTeQ6RQOiGjH0NVsgCTVgaXi8qbOL9bkeuh2zHHc03QxoKM3v0k1LGmPT2MBWRTcTHo3NtomX+ox/BqyD0wFPptZgMJ/mm+vorXvvWD+SXmNwqwdWG4G9Q69bD1/YR2AQS1yDjJcvIuqSgAJYQHAhFxBBACy6j8cRpHl2fnlQ=="
+        },
+        {
+            "key": "栖遥",
+            "name": "栖遥｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "ASbA1U9rKeS7gPP1XKMWZUNUO5+HR1mjOKvruZjFUQ2xhS3UuSyVGPfVRVCA9OJVX1bkbm5evKES0tG7+56jo3qYVrevcPcXqljNfDyT9+yoyWfK6ptZHRJDwgsC0fTwXM/AayFEXMQABABItrNzgtqzSGvEGbqrBbR8XBh18i480twk8paNRPiV239shqygpDoxzlbn8HbSrYqZBOx9oin7ZnQgEGjhjP8jg8D1ufyPwU/c8zXBkc1my6rFQI09uR9wP+Z/4ql8m6lkaRTyl8LII6wJ8SyOXjRZfY7Jokg15Vup3l5n1nsxzzBIoid0A+mtjA4emkNc9zcWLkKKQXw+SvBxVfUsIYOXeHNjHj0FNOMBQiKtupuV+OzFEDzVqaMiOUcil4eS0lA+GGfMvkTQXUoSs9tWKMUOxZOrWZbxRJnknG7e1AjelMj1mpq9SjojNq+rUBycPNf6cfysG3F4udV5PmsZUAQpHJv/6qu6H+IK1DEvrbywVX0nxOtQyfu2dcaNkilplRKR9y3ycxqSIGXSEObAuuGWa+A/yvETS8aCcSBT7uieKC8+g0py1dG9yqYEgAF+BsWvZLCe9SA+c+DpBsgV//cW5zmA9FJVIhVC0EPnEwP2Y/wpds8GtXrftdEDybp4cR0IcDsLvIWE9ZUJAIALShBhrs/OeCknJwirqu9NcVjTN8mPwW6OdXwdQzQNbAjwIddreLzUHB13tiiBlFvsU3mmWSfJ4fPwNuybZKxh2vIMUu2oM9q60EyhNHkRMs/n6Pu5yOPjAOIqZ3+RKqWSDxn+iusukRvzqDrFnZI7ukLQ4i2a5AuMAhk3Q1XlzaaTGhc+eG8d/YTWL+ddWNXRZ7y3/belSIx1WzKfbJwOLoRQAQeJSvx87kZAWQoDVr210HtThiPAFdUPKl3sjIacs/vNw8UEg5V/BhCnnFBCF0EoT/ogxzrOdnl3C1fv3/FoNzKt9WMPf7pp4IMiajz7RwFfrHcT0NTFh4peGUK4FfKZkJl5WCafB2D7s/Twc+jwkGcDPas2qzdQJKjlBudCtlcOOY9FZ85Y"
+        },
+        {
+            "key": "承夜",
+            "name": "承夜｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AXnjAckxVw3vDrvWSVOyhSBaW+yPBqUEkuNnH+pU3oYiyQAw1gdkNMoRpSVZa2N1WWSX4PJhbmmVvQGD6qzTroiltgMHAEgzvKCjvFDARGVCSxb8TtvsqQknR4V4mVk7xsWc0OC1DT2DCihG4yWlXT+aT03IGjULNYW8a3f1Y6lhcrPSy3fPZDhr0Z5twOkxW4HBrTqiIGIap/uPw6vu5FPzBC1XhnfMV+P5itqWJBpUrsL7P14u91myYEIrJJ6y05ga043SJPLO2RJR4T7o0xzu1nrNmgdADD6Odk9YPIOMsVDVPc0svduBklT53VPg46e1pOTTJ21NEknFnsIkqXWkzMoGNaIksR+12k0E9HQT3/3N9fLr1aegnA1zJhc2l+R3nlaTIk18h5QyRZc7IYOvdbUWl9kPye5HSi+m2fHUq1AxPXwakxOD29vR1y/YGzhUfAE1ezcAXZQFwIJlWgE6t8LDLdKfYiqyiFpIjH9lMVESwm7if0Upe6h76iEIm9hQJEEvC2xqffxzAumIJiqVJKWZssMezaXemKbkB8wZp5uYysNZltPFmndfcTP1WV6cqQEFIxYWlKE44gF+cJee5/r4du31jw/YDO3VqtI5VmsB/VngOTKwn8S65vxx0R5Wmu1NXwYHZL3VLBUuT2yuYlNGIwL2cmDcSe/e2ATNeEDgG6BinjTIAOH5taSIAHEltM0cP+1tK5t6rte7zMU8JRDetj4i1dwLZjKFtObo/15k+Wf3ZUwUZuD253nnq3BRWfZKi73k+SAKD4tROiIaK0A8FL6D0AhRNzTO3WIOfiQBLhaV5ZdGjCPRZLIhCQLw4qKGIODtfHitAuxb2u0xu2GoRd0hkvmx4DnIY3s7Fs9HUJ4qfLJxPjwuH/54vUhPJBTwtk5FGWRokzsR/CkMm11BeSkIyQHzKqj3vog8/D3bd6oMHezznb+ptRHUvLCME936eFCEO8Ga5aNjoWCQhXeXYcOlc8oMkVoBeG10hs503Vv+dwCRHQQ2m2zUTt12CMdzoWW8EwicW9b2F4fBlaeEak5JyMfqcgeGyfYK"
+        },
+        {
+            "key": "枕霜",
+            "name": "枕霜｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AVNKslgyDu8tNUWTs3QzilEQiyqPCUKCvIl2PttpAEGYh50nusOEFrfb+3DjqcEo+aqwOmxq+VRk849zFX12/gmh4paoqKuRTOH8HitxJkaQ08t+hEqdthwW/RBOw7sq0QeQxRMCvljI4bK8m3+c/xV6FfJVulQq+kLapKCxkB/UhqLqtPdD7zmu2BY1XTeeJMsHevgY5uzfaayIZ0fyENsQ0iKc2nS9PYgy4k/yRFULPWP6g7tVd9/xSsQFSxkn2eqjhJt/CGKT46nuPInOnzJmAm/wajIpjE6O37eG2VpgHnfT8I1W8IliyqiMMl85yDpREbbu33aE6ZMAUrmjwk5AomzE1l8ifeN69VibbiRG0GQNmVK4HuX7pW86UdppY/nIXC9ktaTxnTTbP45S+zovx+/bdolzFpnFfzWvCQeWA23q7po1V5JNx3keVm/kYiuOM0JQmiuqk975VMlO+OzC15ayftDeT8pvPzAVZs//xE/ICdjKFLFnLe9C+TSEk8XQPnvw+bHgwf/MWhpTnnZ0j45ul1i+6/TmEKIePRO0Q07/AoD0c5T1L4mE847roG371TzhgEnLFu4ZQya6FpmOcuq9LFcpdk3G+yTglXYYTO0HAUliR2tSPsPJZm/frsDYLC7GapEx4oEC6qGDwlhhGLs8M7bJDhkjnp2eavF9mWxgpSywXFVmT9jJizoJlKSMOPtGfvFEl26X4FkxgXCsQMDW5WvqV26ByUOTpi41TqpNTMilnEUfspSujZD9KCe3f2i/XSs4feDkpLwAZASpbLvVi7dwbl26iFjlRNOO/SQULmWVbxIwbmC2UHiqR5duFLjt/IpDQudgHQ/NFaXnMeky1J2h3MWWFL0eTPuxVjrkSArNsdFtC0ihnWar/FonAQX6flzp7bDtpXCTpQJqevrCOXa19/HYUQphOA7MkyUlOx6cQhNR4x+qWQM0zSi9UNpSBbDu3baVam8Wr5wBq7SGWabRMcebfDCZT6IJn7x8yvbo4zsb1uZRjjmKGnKwOhvm5UNY5sd5mcxhtj9ByT1quKBs7foYa+JClb/O3SiXmBcNY4S78J5ohzxeqA=="
+        },
+        {
+            "key": "枕霜",
+            "name": "枕霜｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AYpCNTpur/xwQIjQ979xV0z8z2s9/EllSlqvPLouFUpWz5/wkP6BpKkWSG1pxGkLJJ+SplzDgP97SrL9qeLT0Fxw2RLrB8j32QTVhD9TTAYu6QZuEzNWQk1UT4M7uEFKVBHCfLhFbROOcsTy3shBKZAH05s47s6MzvP6Ly+7cm8s9jajTmsZL0LhS0FChbiLZhtk/LIVGSX+H1kVcS3IZ9xdEDm+CWc51HnJPCnjlywnXvJIg48+v5d284xOGiCnJS3T/dzbSJgROC69ki28qrm6YWT+NGoFPPH0QYN1v15baUyqhCp8GETr+ZshCuGZzlCnJu5sGO7yQXmi+ACMgb7sUSD9zgu3E6s5Y1VXqBUKq+goTvhuPOBa1fjrQCcOZMmM5Jcm4viAAoa6H9iWsYmpY+6YdXKdbGyZeKTIJR+qfcc7G/RZidrilVpSusP1t54ZjaVoY/2L3cBHPsdMbzqZCoMRXgrTewhCaTpAdfEveYYB+g2WuxgttP06iQiZjEcKwZDWliXRK+RwBfsLL1yI58N9GaV2OW5h0JezwBtwuydHqrzEU+eGHr69o6v9pd34pyhn8/PGgQyb47rKHTdVD6uJdPOUWzJa0J+fnIgjwu65NGE1G96PGwNmuWhJATfE//BZJgimAdq0yws4hWK/keuiPfxy1Tb/QTjmm+BRhokuZI7EbK6DNhKQmX7xF+r25705PFpjJJ3NyFO4ZE4l+f5G0T5+0bksVoIZUq3Zv1JmOhGXBKAwANtQaDcqNLg33BzflwZmUWlM7PA1HdVVih3roeWgOIEd+y7hPEXUziF0yCG+H1bcfUKV+M9UZq/zsa+/zyGACVkI7xPMnfarxlGK5fTI3B5LinMs4JWRjcgh/PPxkXjhEO7MB82dziVmO58Ikhj06TyE7PN1nkqU7oPNdWm0CqtcG5bENmwoFNf3OmWy1RBDVsEoWG/k6ozOTBM5NfjKf+z+J00faGOWMFBIMLaERc+whLvoXWIT3V02pRBrPF6LCOeDMZY7BU87ZxbEU4W8XMJ+hyhVE0fTw1Xsjx4HqqkwoYMTfgd6"
+        },
+        {
+            "key": "令汐",
+            "name": "令汐｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AcPQDXo9tJXs7hXJAzqAaZe4lU6W0YFTijDDxZ0SyllUOY73Qq9NHzlmdynmeAk6q2vxp0pohHFeAf0qMB2ydvBwisVxAfQEoWzjIaaVLlhhOahIf0WJtfPEcXRcHhLQ41WXpItfPfHSoSMd69//FEzACTrNbkFnrgGER6/3NYuL84V1Pc22Zr3Iuyl+bN5ZB8ILrE704LoiKXjmJhDfCCOpviDE7Vpc7CO0b7WhyR3Me83G0ISuEzCk9tOB2w9G7yMr5i1IK396UU/58r04ghnjffg34Kfdmm49JbaaQHee0WKzeJbdEgH+RXTP2PmxTZWovojrOuvOzMu2y6g5FHfk+sZQ9Ub6K07NDX/MEbRpcXyuZxlROBWkfo5LzxwNGANLbKXyJTyMTG+rum7DFrX7UQMh2prh3BYgH65yg45rVI98pmxYf9df4aBJJXOuexvit8V6C+wAv0MvU1WvVaNJTOIzFSSr2P9AmTKYfEhiCB/fXo5RybNJNil5Dyjd4P6pvNkiGff7o3DJ5z58+Q0otqmJw3MAhK429wEtaxX4oz2EIQc67iWV/cnP4lznY126VKNAJkJJKUeUZzMdyeqp9iyPgnv61kZ2xgNeZmzgY179JzdMOfWbWPAjAK1QDOj7co3LfGd6sk+NrkuWs6D97+taquPOug4divwb7txKX3Ic5BMGWFcRn8Bvgc9wIJie8jIK7mkVAy2CpvAf4D+hJmcxH2DvibHXkYkzo/7NqzzNK1zIFbeMi7aQd1ErsrAuNqlFZE327NZOyIMDJ1+1SptPV9QDOGJbBZJvMnM21UQ9XVBWofMmPSixyQFnBRFAGtONux/7ZnoiIFjNMCcIi/h8fCks74/qxwphHENhDi/kzeoy+xyYMRFUqVNOXouVKcAZtj2FK4vCrxR46A/IukeLnldhouIc9xzFf/3WhC/qPI9fgPojuTr/kZ3oROFmGFcF3m0wXq/6LaYOy+TAtCZJysbLEw9Vl5phaBbHDcXRjABQTTmWwiz5+fV6H3RuM4TWgZpOHUSArpt+kNTRgMwdWBIxuFTpbGkGi2EgnOiMVkBJEy6AcHzBa/MVvdnOGQIKaAhj4b36W04sN/nk25Pn8dYwrw/ZjDzjFpaNyE/HEsCkh92v7h1ye6zXUVQOyP46XgMleGwFIMfObzOMTjd8gnMqb81kCC0iuAhlVyFNwgN7/U8ZO/HILis6krTzglg7bC5rgT9NHb3e917un+E+Mv0PMMEc690D6linEiDsTE8iz0IYLddIm2O6XsyDiwKpn7TFR2RXPra0gHiKuSZwgCl1/qvvg1vEsp6WRj7Cq2h4A5EaM0UmtIQrLB6lrbhr6/ONy/5bnWTnQIAtWAhuGbpeRYHwtCqrzjzSa+oP5EDM9NXzPNxKStoU6L/zKMIXyD90j5+9OlPXeoiWIYeSBRyW+Jwb3VAub27/2xQa7faBiZFaZsEb/dd7eklL06i0nZlY/nmja7EVuwbMBnLw8euZ6WBdktn7U+M8s5IL5wASfWaTid6tZ7B1KEFKGrT0XQAjLFCK1HfP0rMD3jUVgkRUtXyZy0mmDEAbefehhjVFd3i2XTgLt+49jQ=="
+        },
+        {
+            "key": "晚禾",
+            "name": "晚禾｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "ARSvaDNMvcVX/aFWaiyhklMzIIRu1HdY8spi8t5K7CUntB8ab6lnfVDN1biHO8Rpnw7Lq0vD+WA9AsygtySTxHhHOm4ef9WkqBp7hQ1ooEjeQwaaxPIHF/kZcUz+ZjJsYiShSlg1f7NHM503FieEw7WnmkJIHY/K3aw+hblL1/DuRAMzTnicCvE2pXR9QWWjeQ9dbw3Dcu0UgYJTZD0Q7jyZMAZvhgeIrNBnLHYzHTESSfF0rZBtL91y5olU0MrgNa3kGoOELpVRhWK/zzLOiU1T/1XN81pKJTrzw6JlmECLQRqfJmpVGJlRIc45LZkyt08yJfVyIGu8RZHbUpPu652xFXSbkSP9hsXASxwo8hAla1pY5B+vdZzcTe+MUyFKXO/ttFD/XUjWXnigzO1kaxuAWfuaityUyynGk+L6SjWMEfcxxubwnBrxSEVxXvNzLSt6tuyhB/DHTT2vLMiA1LkXYDqRQq0z1YoWJ3DYD1XfnqRIAUtHhLaz+3/R83en2a6GBKjUMmzaCsFXQdhcMfp+hPZ0z/td1hbaEbJl9G5zfN/Eo+kdX5hOkisUc7l669ATsZPdPuzoPw56vvDG2HkSF3sNvCmSZExPw/uO28ANufub83mnWaUGxfR7hAybUqio40hSoQIwH/gbeHwRzyJ7DXkH82LuCfW8tDGNDhZ1B22iOcAXKL5UrT1NUJum0OwTsnK6bR5cb/OJvHulc+pOi/qmMrny6/SagtwPDsQ1/F4KJGPnmbqnrxKXCO9myBxw9quK3dl3IrmnrTcyuhy4SXAOG6O6UqhxlIrKGlgFt95GZoH5vzyYAMS7qZ5uKtwt8Sf1Jdctsm2b5qdv/VQeLBpySO8WuOttaA5tgm+ZEAvmHUgPP2DlOpg6vvRmuTCANBi3VHQQv/tbGAc4JEzjpuuVeNpzKrNpPmINuOQmmZ2UF2gLQKCjkpBokWfX/RiEyI7WO/0DpA2ZCzGRYFDhiUCmeNGjoMpWlS6DDxG2lVmkl6rXu0qN2NJUeWZPQkxFB0pafn24eKjyHI8QF8I="
+        },
+        {
+            "key": "栖鹤",
+            "name": "栖鹤｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AeIkhZYVOCkDrTaqZytfwIDOGyYGyDaucZGr7UPC5INlxwOK10J7PBynJ3lgNNFvipFMHm9d2/0rytZ0ZKDxpEPoJC1tiS8/RLpVrAhkD1O01Izm5TkS8GxzPvdn1W7zgKlqQu1EoWjmzPMmottinfXK8cixb9FT8UpmPl7NySHEnQHqW2OlaQrNQTR8xm16P90QcujE7hGi9Gx7sOY/4Sfkb5gEIop3BH8VcKXu93ig8hgznJq+7yLZmhdmYCUGNs+/XQRg1m/FrlakAmaV5pe7oQO4a2DHsWZDhGoRdfcXQ13zJuD/NzWnmOCtJiENsVVTSo320ud+uSQqfIPIKUg1Dxp8tcliH34XnBUaJoVBlcRZKJ1OSLtWC9FvK8wdx6X3YLkBvvBjOuDL1vKwXnNAfuh19DgjN7zRarTEiaFzbc7/9OKgVAqJKm4eW0ezcx2oruednmvf/qLkzWkDR27ldRYTv6yClapLial8iY7fPb8LlskpRA3gc2RPeVC/cloxfl77NrvyZo/ERL5BzG8V+Dmu2U4FoLDMXRJhb57hVPsfudtnIpT9PN81Fi1qMigKSHq6wgqiQzQqHhPTvVWdJ4JoSw9BSARK5IQzzA8ZeSR1mxQv3HP1wcMNkmA2SrQOa2nz7aV0Ft6182PWWNOGY9IihJlb4btgyeOv/ug4kr4qEnDXgFECwhfo2RNCmY7sMIddBy9s45EcOXshHKdNkD0nd6t5qMlIu6SkHUlE0jDqOn2YxKGZF4wqxpzcu73DqLiHZ1f0MjHGxZMKezweL1FEO51QsZ64bPE9HVGKcZNN+hVjz8D4YpQc1oRoQMAH3fYI4qXIEb7C7zPrPvSpGy6p5X8nZFlFY5CzdJuolDNC++LAeL4T1HLf5lStc+ldS7QhIkJftcGoul9z4hqZeCHAAX1iWb3sOtXGPBGKM50oSyZdgjgGeWil2y4+HFmo8GcDVRahZxcEMipPTGbDNTtEO7dYsMXCCOgK7pwD9qESZwb0w9DWgSK5FEYZEFZHNStTBhGQm+YmkYP1SZg9ApmjulqBb1WfLrJ9mIKzft3PgCuZbLZOEGORNZI77g=="
+        },
+        {
+            "key": "沐辞",
+            "name": "沐辞｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AQUucLUJRH9RFWo2llKlyTrMCyVJ0Kpob6GGGwM0j5jiyraPW+SaJOKlkFrgd1ZhRMCnf0G74bm9C+4z5cinWObAMVMVtYf3sq6ftyqkjscrCwmACTm3lYdUtHGXFJI5MibkogunAZdw4jqNzeJW5yZmcvtvNWAB2u3HpiPCZ/7BBa+frYoJk64v5fZCFR9ywNGr0nXP+F3iwSBdiuzG3EiSTWwdh66EiviaRCI17Qad4cXfy3SMDsy39ejvXzdTrN0VOAx2XDqhFRpL6JnxweIDg8NZ75R0qJDpn9hLiTUxiIB2fT9pjD+Da10ThaLJbcf49f2N2AbwIYaL0+7lGdPD4/WSG1B/MsJYbNVEIPVn4d3lWofSBf904ualn0Yx+RE8SQfoXWXiHowqIU01uQfWuFXV+1LwHTc3ZkTfdAd9SRqQgkfl4QwyogKb9KXE51rexjvPo7heswXhKJVnginjrFrCSuPbQ5I4G9mY0ivmsNLhl4YgezZ8nNLYJTisU7gn4Q5tSUdGCo4NGVmTAm9hRLKz5ao1FNnQ6zbq33/IRtiwfHPlGZf543z+wA4ZCXukLVd2HKmNniR7dnIScjvSENMatCmS60pm6xW0ZapgZZd6rDnSivtChrU+GetWYQBBA1d/FeFgOSGhd175JvnInnwe0sGlQ+aoSyaANoEDXjk8LSzJPScRIqEn4sUBHehjWBQyQjb8wGFjciWlQETGYFYyXn4SEAhqk/KSNNHbAO7nDTZrVJatDtF/e1W0+ryHzoY+UWoVoHqm2zbsqNezbSpumOfaIJIfM5GmcpiMdjAh7w/HpGngmX/MI574TixdhpqWvtagwEVu61hxxmK5ZDJXER2wjFxZBMn2T5QelhNRHUNT7HoxkrHs8VXBwkYbLjoXs05vtXVpkLkokEi2QJU/Qjh0lCCyvHHIE2cvEzcpAqRfvzGHksXSWwZzV1MO4iHjd86Sgo/8Xp7RLQMe4G57+bg+HoZXY5YDQzK+ESXGIs1p3agfPhvaP/0fkUhUSHkLCsoO3yCuQarGPR4qgDVN8bayFm7Ya3rK9zD4"
+        },
+        {
+            "key": "清沅",
+            "name": "清沅｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
+        },
+        {
+            "key": "疏舟",
+            "name": "疏舟｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AcQ4+WZLzzgg/BlBzPRpgJTlrnzjFqAqeDNETwTo3oVOmsmFSW5GZOqS0eSED3+/Qpo0GTBrZWPCvDVkXrdJ2Q1tfM5irqmGYvVkNeE4CcPyuuMbK0VWfOnj95pzRnMLCdqH9Cv7wnXsRdSY+9+EiDn7d3qgZgRtJoIZzDVhe3il+qrQ+8y+gouAA8zBUHbWpigelB45z5zO0T0FUYYLre9ECKhwDJrSNzCuvoqgbOZ8u+AcuwN/V+rJSCEf/aKyc9VpYVxud33KYFYeNr4YuD7QiYFkNRxTdlzZB+XwHJcjoy9ljm1UYcAZsHB16G2izKHN5Kp5s6a8ZOkBGPeXAi8OG3MUUOktEyqwWqliRkivWbfWF2NnkaUfOtvkkvojAWx7WBvESexbqqaZ4euK6Xt5T37c3WOOoSb+uxpENwxFPPnpxwf2CUTMa5uFED9I7UNvYeU/OTLznGOo0ClfZ5m2pye0pgOxncJCko4VZVXXUpZ3jYeHjFHVE8gOXrHbfTrs2a5ZM++40GUScLGEIjfpQ5GRsr++q7l74eKwr3BVgYZegfkR3VHty1e0sYFT0sLphvTT8tZDZkdVEJ+bPwme5ZyhVfZRK/fZ9JpiW1XCMpaXvSZA3/Zq+1sJ5DAEEzoH0fvLqLTu1SvFLnLn37WG0IipH90NjVc7pyAOZK65h2pG+SDs/nGIARqku8vTTJ8SErNof3NPqDSqTr0w4efuQ4rgP51RutdCXxi4eVL2cX+yYkv5GB21kHqfOoRm+mAlTm98I9sc/znLQ5XXPiHAkgshh/MlicMtezWiFKE4ahc4dTB1ayTUyfN5HnNWlImWYH6koK5O6igI3S9ctlZe4TczJLMHd7O9VbTUtBNPV+Hd81mw3e9k2OxatjV7SPda9xLFg52Vu14GUF9An6civID1/yqL5kkodYGgM/QMDRA4AjFkJ9UORZMfEkL7ajTIwrtzlCEjobpfIXVADKeG8HVBipOrvpOrLLmmwQAVk3Dxifr7q+mkoGuQRf/oPA=="
+        },
+        {
+            "key": "知年",
+            "name": "知年｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AZ+1eOvojzfKQM7La/CJ/Akt9dNQKwbuQbN0pSrieD4zcQGZkp5F0kY0d157fkUf/1rKS6ZtpKpGNGo+soO4xPb2X7kzoeqhQXD6qFU9KaKJ+gmNhg7Cv4IP0M1ZIbIBnFn3cqtq8ImqcTSo2KsSO8Ddg7/Y/oxP/NdyEqxzrJwDOCwol8tlOZBZRf/35RfgpBJCSltZzWYuKEf/VQshO/37pcZp6868jneNGxpT5JpH+fzuaO0hsy/lUNxk/r7GqZUUeyDKae7i/Kyep8L1Js5VYG8NpmnDcVm3dLBzDUXEm6zHhisfNsnMkAwYp4Z1D6BAwG7gSJxlA0pcsckFZlKzcZQ1904QBmdNrgGmvgOI+fG+u00rI3IDHugXXVl0Rlh0jzH5jD96zDh/B/DwANwRFQHMqu5Bc/QznOj5lbNOQZFGdULSNMqismwK18ZnBFXMtqbS8jC5H8sFUZuR+bPA1Pd5lb7UFczPKzWnfY2U3pgzrXSP+HVAtc3xTnXSR6w+qKjgD2q6xxiYWvDqedsxHTOd+tv9iWYSlk0p09ssT6trMkfV9ZRXCowexYCMzqDAEMKPdJmkvLlHtK3KMpU2M9O8iyWrOKS0un/80HXQ7ZqzutAStE8vTH0qlLC7xwwWGmg6EX5jgFOTgRTqrMpHTIHPe01ZzsnmXP7UOY+MNk8zyIFRG46f5NkvKVokOIaTcBsualbGHKSXabYWBEv1hfddi4CWWtnwyEurRdaVcLSF6usrg2sngurqmKu6uW9DKfN0Yr4vQ5QHHdYazk5KNOMG3rGWoBtDjphWGKOH3UNRiDP6vfjKzZ3IDeQvvL9xiRkUzmXgkMTcOcXjDXUVFAOvXF6dsXRMpahaibIkXk/6JI9NjJnu+GjKP3ah+sZXWYBJb9k/o7QcBj1tYMR2iylMxDjJln3QOSQXuJtOE0Ll+zcxo5LrbuCxAxtMTCsC/9IZQc++IqwIAgnwSelijGeMi6aiNTMHJlXLniGOgg5Yi9vrz/bhOZDDlOBL/dByhB9aGgKbE5mKQtVB2H1MJph8lK1m1H1HGOz6TUmU"
+        },
+        {
+            "key": "孟葭",
+            "name": "孟葭｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "AUP8wq2RmT2zNqmeNEuZ9AkMd34mZ6DYjNTId6qNx40Z2fNVFPRuRzZGDRKeBLPh+2oy3Og18JsCB7B8YQyO0SmPVU384bF8u15VyoHdmXv7EvxDFNjg+o3WpGm3ebNq8al6yHaODu7Up5eUGtFkWGlT8S+RrZ9hYCiGT3sE8k5WhQXfZGuJcTK+ZgDVT5ddqc44ZMBKvGMYpdPcXQWHXFgzxAfG0Mpi3yuSntEKleFUoxHHRsovmkrulrA7xf0EMYWLwalE5MjMVnblK1GVFkW6AKWzn+z3CKdNGlgIYBmIuuwfXGDCrxVWmKfiJAZ/cXcfjFkERY7DiQUghjhemMjOL46q6TdFe/rGfb+p+CNT3YRBooGyzGgfFBKdq3Lzu5YZwK/UVXXzZUVqbbZHjv3//+5uqxNsPybWBkElKesTB4hYBQO6bcQoL3yLL2dyV5arpsOfpIPJS6hMIpADHsd/CK0fmQSLQeMDsjVMIXIA0uomrG0Hyf5rECeZnZ5bRL5rF+LO5SVopHftgkRzj22yqKkupvM4m0G70WpFOGpsm5mCm/qBBqcYL3RXA9e7FX4luKSNTMkNG0tjG07Zx+B0pt0c9EQViay9QeU9iEeXePpRLoMjyRmADM6vjgHoT/C5jrX+4rBPyTlfHxFPW+ORSlM2rl9wRE80MjjqJmg91d+fmYTnddqDZnMolGqa6Fq8/3kzGa/G7u56cpSGhSKKKo3smoF2ZQR5T1nkwTzIBWi1ctR4QZLFxkNyl3Xu48HBBhA+WRFH9B9RFA/sw/UVRem+CbxiFyb9EoW0X76oKY9s6A+SMxSlzPiGHmcU7oAjWU0OuKhr3mx6/LX5GPFpXUjzjcrG76tWicY19JERZG5RhOOI9FrQ68WvPVmLzpzlImMSvKiX5eZGIKWhR6NXfPpkDXNz94YxYuGQLZNDLpW87SxNJ9/RLGvUWL1Fs9sHLqpq0Rku1MifGIwwdmJSLhawBYyXpfvSvqV80ObGYbSJ4X+BsRPrq1pcd+kAt/xobBeCPPu3R2OYIlTcT3taidNbMDqxRUFDCDS+YDvx"
+        },
+        {
+            "key": "温苒",
+            "name": "温苒｜4K",
+            "api": "csp_AppNoxFishGuard",
+            "type": 3,
+            "ext": "Afwf+iVOBXSDmXw4g9jY0FoYKXpkWEZ1Oe5Peq/eFurv9mQRltuANQDQmPzTRWyuu51jvbPN21jPWm2T0asXgnfqyIH5NDByvvV1YokYAzS2OhcPDNgfC+xo9vWpCAP7Kp6Qjpn4XxoacpL2G9cAqWyNwN4WOXKAIfAZ7OgWzre/XO+Q8P1fqbdCCf1B32VtWlasqGLks2ObKMxbthxaLTte6uKxz1ipOocNmTaDwwt8EKyVYNXHlMzVYTXq4CZT6zbyStpXcC45U1BnTDK8T30WpQt0aMZGoDe2BOekrGYhFBXdMqwlOyRQm2W+p12MG96SGqTyOWkJWymGa8aiPY40sRGIE63DJwkEGkor8tiHwdRwEjn4UKSp7LdHiJdrZdFQy39nOvMvKG9cmyxz8FZby9Kq+L8YTbn06wZTQEXdW/zntntLA1ohykyvNaDv+U3WYIQw8IE8nxSZuRVF3tdrs2HScPY2p+A0uGODEYfsIXvgyda55Pxn84s82D2g9IW/zCRTxj0GYy1gu1NcnHNcDOXzRFQnBIon0BxfWiVTGWSPhUiN3HX1EGCIjnmGx9Xzvbj7Anthn0tQTgoq1K4jDjBfX8vjbSyrg+8+61Z2Qa0gmaTldma910vtR51rifN/Lzpa+tVQeepsNb3Mbn71PjKrLOY6/68gjQ6QOAMECYAb3UbQvpk5iwp05PPYTNeMVXsCLDerlmNVhPm2kXU9+pv/W+sivwrCucVhTNcreu7bOKHo5RGzLG4xbGj+DiBXWRrc49c1+yX49xdhLYZgx4QBn/2//5KJR/+5xq0jiZs3kKcLVmkAXBUuG662WZmW55r/BXQYu7duI2Rdos987ty/icGnUnfnBkpVD1WagF75UiBVCcFvZ0xpaLGbM4f/r70WRbT81dgVfj0DnTbKtM2tiusidUbMGLteNZ5HJIDNXbD+fug4K4EHLmPfkTlNDWIvxxRu1I63GVZVRtO1JemnV7C5MkLxgS3zHRJjNOxSpnhLqJKMxZ3Cf6sVna+BsGe8HA6QpsOcx3BSzwk="
+        },
+        {
+            "key": "ALLLive",
+            "name": "星河｜共影",
+            "type": 3,
+            "api": "csp_ALLLiveFishGuard",
+            "searchable": 1
+        },
+        {
+            "key": "FishPs",
+            "name": "鱼鱼｜盘搜",
+            "type": 3,
+            "api": "csp_FishPsFishGuard",
+            "searchable": 1,
+            "filterable": 0
+        },
+        {
+            "key": "bili",
+            "name": "笔触｜琉璃",
+            "type": 3,
+            "api": "csp_BiliFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "cookie": ""
+            }
+        },
+        {
+            "key": "zhiqiu",
+            "name": "听风｜知秋",
+            "type": 3,
+            "api": "csp_zhiqiuFishGuard",
+            "searchable": 1,
+            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+        },
+        {
+            "key": "fishhxq",
+            "name": "韩圈｜影视",
+            "type": 3,
+            "api": "csp_FishHxqFishGuard",
+            "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
+        },
+        {
+            "key": "Kan360",
+            "name": "流离｜寒鸦",
+            "type": 3,
+            "api": "csp_Kan360FishGuard",
+            "searchable": 1,
+            "filterable": 1,
+            "ext": {
+                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+                "fishjx": [
+                    "https://jx.xmflv.com/?url="
+                ]
+            }
+        },
+        {
+            "key": "Rebo",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "三秋影视",
+            "name": "三秋｜APP",
+            "api": "csp_App3QFishGuard",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "若寒",
+            "name": "若寒｜APP",
+            "type": 3,
+            "api": "csp_AppEyFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AZkhLg8UH9cJk+fre8TqCUEORXUQQByszbMuLXDL6hHHwKQIdllVQGOBqU+ovduV3l3kCaVakm44257EDbAcyOWpPUEo/CaMEKtEIBOOSvdiW1XmbR1k5+f9+iWgBBnt/MUEu4Y67MmQUUWhE6t56eWATTemBk8t0EusDKq3J8kDIWuHf2O0U2wB0pIBngTXjLtMNXptoo10b12ylUe0JRHBydJ0qMtFD/0EENWCKg7/kt+berUWhu4HN2IVRH9AubTkxjBWFQ/cfxVNU74EfMhKCkBhQr1qKtducbNEyxjJHfnRxAragrtefeY5r3HMu23vfFjmcvK5qlkUqaeyJITPx87NC/8ylsi9jxT/So/p5V6KHywmpSN9kRjWeeZ8LVnG3agzJTiRRQxae7v/5XxYfEOCNcIBZrnrw3J50b8HT85LFd8+/gGZN/3rw1sooQI63pM+rJZ9H0UgAYwfELZnVTRQYMUXSNXHkEnleb8mmjODqG8E24TMT6Ulz0f70T2/NWhzvqqcz7XVhEjad/MtQw4Z4HI4FSFKoXBiZa8IkIxdp/836uTb3pqjkkgBbVMdFNnfidNsR+rFQoUSrZrEGEgh6a6IA1Ye4Gy6D/vTPINBjgE6HDepfBGb5hlYVzMwKhJ95gbiVdzG/hbnBHVPBAFTMdlTM1Vqkq7xyX6rGFzdHrVd00Ui2O8ivYRyiA=="
+        },
+        {
+            "key": "玄羽",
+            "name": "玄羽｜APP",
+            "type": 3,
+            "api": "csp_AppEyFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AU15oqAr8ldNhctrCxR+6FnSpTjCRl47OB3HeP7f7ne4Qpw/jvjLN2p6LC0Rt9wMpVHQD5XgCXdlcSwuUFOLeYr45vWfu9U3sxzU5XqRtgAxSzjdQaafORQgznXT8fDaPQoo12H77r6oPzpT9NH+7sp6+eMCKLlHT1nL8GunRVuuoC6QOFYLhVXR2AVa2ph6trmAeMPGeoOYy9ZUO+ir7i32sDW9/jDJEQNu0+gQ26l7J6nKeB4diUR+ZqbwH14CjXR2utj3iN/l9gSZHK2DdKJtCxaS8UlhJjuaCn7APGKVhW35lHzM5C9KO61Zi9lBuwraSRtkY0HmArZ0bwKZBi4j4wkjP7YW2xD6srFajGxAsU/6MpVs6VPmZw2rkh92HRAvt3G7B1bG+iu3AYkccc6UOKQXGv9z6ThsY6vC6ism73CnvbodbZatqIFKOCrSMWWOzyEN2UI9FTFn6xkpKzsFSQTSiv6F3veIKYSLSEY3RCdzT7JrLdr3S5upW21sNo6YKzC77Nl0yIZgX2EYfFk7f3crYuVzXa5Ce+RCOHru9ydWTPfo+WmUKHmbymGwn/a5WLW3qED3A+9mCYTf0MknisljSOJxMckWp9ivJHdLiCPayV3HgKqKZelpXJI5IHlqu3qaAk3LDZyezzPVQuFdmId3egCQKNeoaxfGtPZV0haqWCSZGKO9Qg9s37SeCZxaF1dYPFOkoRqJ0bXZgR4ZwbgtaF7/uNghVyh6UovdZALf3m5RqtjKOSGHhNl7rvrRVx0tIbg3GN+wlc0rork="
+        },
+        {
+            "key": "如兰",
+            "name": "如兰｜APP",
+            "type": 3,
+            "api": "csp_AppEyFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "Ac3h6XaxxXRNH21LbBkNwm1xOnwqX+coY8MCu+Uz/B+HLewNBxy2ALWw0c8hwdpyYQbXl0cBj8kHcGVtynsIQtqw6JtdSdOy+UErmSajPsBhjYcCrz7CZmcy8PNAnS88POwtpmFTZ3eYI3kHkING4+5H+9BbzkScoZvvss6heQQfvwTuxdTX8GwklLsI/6SfTtJIcDXXKomaJrRKFGk2qVikEGlIQ/b0sAa9IUKpfivhZZ0LXYs8ZR9MHvFwH9QS1alTjkiuZeoUtw7tqlXzxvNCh2FrD422LeJV6iDZGJZSLW6nUGgR+XTwT9wElzRO7jfARe9w4gxZXg4HftpIvMfCPRFaUxQX4bUfFtrkBuDcJGeB0ptbY4wO72mvzkj6wlg+vRaG7DWXl/PIwXcGSUxPwcu9tlZH6clcYE/5fOnogfkvTlVKQdzcmo+gR6UNAt9rYFDWNIkAAy5rRFCdIeRxLyNWlxhMMxcTtCckg6Bm2+POW5zJQs+i4+DSZnp1/xjcVP+l7j2hXB/PWfXSIcir88WoCDoU4szxsJW28/GSkV5qneRQd5NPG6meiYReeqOBFxB5au2ZhILQgcOAU8Zubm8K8Os0UMFPW3O8SPSOjzHzt0VfP6sleC2r7XF2Yb8XS8XnxVRDFNwHhSnLJ6/OxnC1z0302KyI4bEqdSuu9rfpOvVvDTBJc+mCsQGVyaK4UO2JWs8h97ftB3DUcQmT6lvfqELDx847EzsUZEZpxtbMSbclkVGUmEi30R1ppg=="
+        },
+        {
+            "key": "敛芳",
+            "name": "敛芳｜APP",
+            "type": 3,
+            "api": "csp_AppEyFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AXoPC4/s596Z8mmQr+qinqC8Y86UUhi3cIq4pQL9prTGcuX2TWwFHyHLsPqjZBhxlpfmcq2xZq/3fBGp3MAveeo2IBtZ/R441cYTRFIUJPxdADA4w9YguWzAy/qixbvYvK+WoYjxZAjLUPrzio9UMnrTp5bxiPRZy4QvraCCU2Z9d7AR3ga+ecle7rp0vRezYGv8uPZGBsGnMAuTBw1MCn7osLCRbiVW+asjc7kfv4vKmmgkruKxv3ml8/L+OlDv4+qTkSg+5lnRo2DYVbENTCVMCOhE1AMLOjUpn403GflNlAO1JwN27Ab/WHUQjpTAbugK6EdNDJgkFjAmWxrX3TJ4ekZgPiUjSUkpkoqowWqFgpALLlJyW5OE7Cmw0Tt9qOTs2YnCGcc7lt5iQy33wnn+0LaF5/fxDp7KXKg44BjsA5sYrR/BkvLivhTqrcXbj8BQOtpKimPKZ7RqUps53G9XLAJ46gi9ZSk97LkWhneoIAh+cqSxWDG2boCqcMpqZeswFwabkuav7DZ6IeUc81h4fDlhCDuyUh8FfcsGb+peaGE/pID9AkvKlAMDjxO1cbnkkMZ46fm4t7cC88VyQZYUz2b/mLQB73M2IsYHfDFOH4g0yJY3TY/Ss7HN9m8xWPrAzLD+8W6SMx34Kz2cV9mIo6BM1lNKKa7JX40CDWi6o6KIGWx5sghkePPJHho8UDEZUnu6JMdgWryks8+zMqv/OLf35WtsE6QWjL66Ydp+myZMaKTCdE6liE2nRXNKUw=="
+        },
+        {
+            "key": "怀桑",
+            "name": "怀桑｜APP",
+            "type": 3,
+            "api": "csp_AppEyFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AYo9f2bo6h84TRhZh2yaCr4D2ssw8FTAdNAGQJuBZTFGIx2JVSQlQ8fSkm/ecpq26y/RTamSwGfXwPZkwCQvAZe1zwZ7IYdaKsDT1kU0F4BJhGI8Lk2GMzWQZ7QbNqQO04BJVqDN06Jtk6tDEuX/bYyIcNTzgii/snh3ZubbT1OgV+A/MDwxNCyQqeMf9801wXlpee+TLNLATWSixFb/fuAFrOoKoDA3KyTfFzga/CO7j4D4s/+eTdlOqTZLJEdHQGgjZ+fFTwROKSw88t305DRZMgZ7wBzzMYSSokQ/XmLb86hcsb402c0qkk5FIhN+MoMcYycekBR7aMBSn94RKpFtVuiqSb/0UUWp0T8orBDwH7h8h7wdSSEiITeW0NrdUaKoQDGOIX9R8k1tUA2mLZYaI4/+WKOrWNDW6vyj3drUxKhjEhBNfSTlDYk1ldZnWXFIgVaTSJgaIIJc2fi0EI88o00mT8VOszhtWw5EwJc2F+vx1h0Ps7F7IsowOmFPfHt2xSrAMJWifcsl/Cvb1Es7DEUul32DyYIBYRLirfPMsUirKRRIStzqPT5wes2kXk6fVsLOGwvyUzMgnog3bT7JNoFrXewGDvuNCRyegeITXZmb4F/8vr/0la/9C7c5/mPOrQs1ugfJj2mzyca4ka1K8FGZaIb98d6Hj1mdrETy0tYPPOO4IfhAgnq15mRBl6ICyzpr5gt/KcluaeD6nW8="
+        },
+        {
+            "key": "长泽",
+            "name": "长泽｜APP",
+            "type": 3,
+            "api": "csp_AppEyFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AQ17HuY61rPP2dbcSn2nSCN4S44Cabq0NOitJy24O+hRR7pPAGofPYfVOJVOqdMtxGvYgSmemYKVQmIByfDN7GTiAtpY0X9Lb+WcGC11tE6mi+4V0gmmsDGjDiMG4KEImv2EDuRpnnNriVtQzrgxIUuxUBFusY5JkCqcH92i7exqxr44S6+vY3cNlGQgyF3OVDHb+SqgR1A1K2+/5BJf/btlUwW6ZVmOGjOFTmKIEWBIZosQ8VIrc5PxQRsaQTtsVo4sRIrP8VVh4ggWgjRICpmEL47SHqi5702tLQY9D3tChf9Hvv5KznhBIVSds3pp3yfvHMpa3PabR0QyAvPLccgn0TC1U/ossV2QtoW+szCCzfVrvQmN1eVI77AyK1OxXa7idMyXEMvK9F999JoV2xTcTTVySk4/Lb/JqzH3SNu8umOuEb+RY5+E40JB6h+7eU/zoe42Fn0xtUJNpDDMlXLYZutEKBKhtIU8V1y45l/krV4NkyYFxPi0gylIpGeteMURAtq7yIuYz9YjqYFUohMi+Ba6jQ+OE4sJ6uXXyq954Elhhxbk7kUI2ArrtXg62ZP3YiLuSPGpb3tWH/CvWmYdC7VsKUDCqIsV1MNpgO2qsGXgCOpfuWC+3NCwjlbKlPzULlIM01nJuziEKppX2Q0d/2ks2Gm2UqYlZhNjMsRKVGYnxmldvroy7EnsooS99RwVfB5+uMq51ZBlfPWnA1Fvhoyl8lklu4g6on3IMN6XRlmMHLVEtTZM1kNjI9NUeTzKOZwZJeeV0T8ORtZRT84="
+        },
+        {
+            "key": "琼林",
+            "name": "琼林｜APP",
+            "type": 3,
+            "api": "csp_AppGetFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "AVh0HWK1SDzkdXJYRW2UYzqfUUzzUUkXbylDdT+uszsv1n0ylgog2m1ILC47MPNbLlTgQP86OpyI804iQhgYvyydxjwJUHoy7eeCS7t5O+0pEDe/GNhi7nUDAETRCpdEni9tiV72knqoWPObqmW1Z3XH4iu2LkJviveOpSzab0+I619w9/8re1Dl3gnhWtvDkhxfOKylkH8jn/S8ZKhu8eo="
+        },
+        {
+            "key": "厌离",
+            "name": "厌离｜APP",
+            "type": 3,
+            "api": "csp_AppGetFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "Ab7b7Y5ID8xGbTb46Phc7ZTcz/RKt2nDVNagSHu/7dL2PoUdg+e+CP7Pcluu2LoKN3bF/z1zfADm4SHMiJzuZP7kXgR0g0592+ImagHtMpT1psnFCW5nelDbd1K0ZMzlQLizMRbffFxi5cZEx2YTmNFBUSlaYrSvwev6IdMtxwZ3KLpELDwHAfxDPXYJhWelE/LH4Ky2qH9wFhC3MNxY1sc="
+        },
+        {
+            "key": "枫眠",
+            "name": "枫眠｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGetFishGuard",
+            "ext": "AfkbGSXy4JEUp3Sz+gS4vNggCJ7auF5cVerMfmdNsXX0O8b0LEWFMwug63IBgrI5KhurQt+3u2u6fEq+50bepvk7pBI4+b0EkZ1BtX+mS+ioWu8pJyQ0+rZERvJUDumP0djiki/FY+khmpi4M6yKZV0co47wVE3bCf4FRLahsTMTXckRTi1lfpKAJFN68LAIyUqDZuoKgPNrxr5TB9DEyl4="
+        },
+        {
+            "key": "思追",
+            "name": "思追丨APP",
+            "type": 3,
+            "api": "csp_AppGetFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "ASKjgwRNiR0Cm6kFKdNzI8WI/ic4PmwK3odgt8MhFQvbl3mhDbShb5bbTFTo7paa8t0h/eK0IaCgWFxjyrk9E3XEhEgnQl4lSED6Aai0eVzXMurDiNGdHxvF3VEUI6e4G/o4FILNazhcr7ECOwLDz/VhNAd/7G/VxdrrL+Dz0oAUiUsfLmy4DiP+aQrY1INXLXmkDb2xN5Ev3pZr7xs6XtM="
+        },
+        {
+            "key": "Libvio",
+            "name": "立播｜4K",
+            "type": 3,
+            "api": "csp_LibvioFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.libvio.in",
+                    "https://www.libvio.la",
+                    "https://www.libvio.site",
+                    "https://www.libvio.mov"
+                ]
+            }
+        },
+        {
+            "key": "KZN",
+            "name": "指南｜4K",
+            "type": 3,
+            "api": "csp_KZNFishGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Qiwei",
+            "name": "七味｜4K",
+            "type": 3,
+            "api": "csp_QiweiFishGuard",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": {
+                "site": [
+                    "https://www.qwnull.com",
+                    "https://www.qwmkv.com",
+                    "https://www.qwfilm.com",
+                    "https://www.qnmp4.com",
+                    "https://www.qnnull.com",
+                    "https://www.qnhot.com",
+                    "https://www.qncool.com"
+                ]
+            }
+        },
+        {
+            "key": "gying",
+            "name": "观影｜4K",
+            "type": 3,
+            "api": "csp_GyingFishGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "cookie": "",
+                "site": [
+                    "https://www.教父.com",
+                    "https://www.星际穿越.com",
+                    "https://www.楚门的世界.com",
+                    "https://www.泰坦尼克号.com",
+                    "https://www.盗梦空间.com",
+                    "https://www.肖申克的救赎.com",
+                    "https://www.阿甘正传.com",
+                    "https://www.黑客帝国.com"
+                ]
+            }
+        },
+        {
+            "key": "FishLabi",
+            "name": "蜡笔｜4K",
+            "type": 3,
+            "api": "csp_FishCloudFishGuard",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://feimao666.fun",
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
+                    "https://feimao666.fun",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop"
+                ]
+            }
+        },
+        {
+            "key": "FishZhizhen",
+            "name": "至臻｜4K",
+            "type": 3,
+            "api": "csp_FishCloudFishGuard",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://zhizhenpan.com/",
+                    "https://zhizhen8.click",
+                    "https://www.zhizhen8.click"
+                ]
+            }
+        },
+        {
+            "key": "FishDuoduo",
+            "name": "多多｜4K",
+            "type": 3,
+            "api": "csp_FishCloudFishGuard",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://tv.yydsys.top",
+                    "https://tv.yydsys.cc",
+                    "https://tv.214521.xyz"
+                ]
+            }
+        },
+        {
+            "key": "FishErxiao",
+            "name": "二小｜4K",
+            "type": 3,
+            "api": "csp_FishCloudFishGuard",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://www.erixaopan.fun",
+                    "https://www.wexwp.cc",
+                    "https://wexwp.cc",
+                    "https://2xiaopan.top",
+                    "https://www.2xiaopan.top"
+                ]
+            }
+        },
+        {
+            "key": "FishHuban",
+            "name": "虎斑｜4K",
+            "type": 3,
+            "api": "csp_FishCloudFishGuard",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "http://103.45.162.207:20720"
+                ]
+            }
+        },
+        {
+            "key": "LeiJing",
+            "name": "雷鲸｜4K",
+            "type": 3,
+            "api": "csp_LeiJingFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.leijing.xyz",
+                    "https://www.leijing1.com",
+                    "https://leijing1.com"
+                ],
+                "cookie": ""
+            }
+        },
+        {
+            "key": "PanTa",
+            "name": "盘它｜4K",
+            "type": 3,
+            "api": "csp_PanTaFishGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K",
+            "type": 3,
+            "api": "csp_FishKFFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://www.kfjwzz.com"
+                ],
+                "cookie": ""
+            }
+        },
+        {
+            "key": "ShuangXing",
+            "name": "双星｜4K",
+            "type": 3,
+            "api": "csp_ShuangXingFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "DianYingYunJi",
+            "name": "云集｜4K",
+            "type": 3,
+            "api": "csp_DianYingYunJiFishGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "YunPanBa",
+            "name": "盘吧｜4K",
+            "type": 3,
+            "api": "csp_YunPanBaFishGuard",
+            "searchable": 1,
+            "ext": "https://yunpan6.com/"
+        },
+        {
+            "key": "YsSo",
+            "name": "奕搜｜4K",
+            "type": 3,
+            "api": "csp_YsSoFishGuard",
+            "searchable": 1,
+            "ext": "https://ysso.cc"
+        },
+        {
+            "key": "SeedHub",
+            "name": "SeedHub｜4K",
+            "type": 3,
+            "api": "csp_SeedHubFishGuard",
+            "searchable": 1
+        },
+        {
+            "key": "CZ",
+            "name": "厂长｜影视",
+            "type": 3,
+            "api": "csp_CZFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.czzymovie.com"
+        },
+        {
+            "key": "wencai",
+            "name": "文才｜影视",
+            "type": 3,
+            "api": "csp_WenCaiFishGuard",
+            "searchable": 1,
+            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+        },
+        {
+            "key": "Guazi",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_GuaziFishGuard",
+            "searchable": 1
+        },
+        {
+            "key": "Zxzj",
+            "name": "在线｜影视",
+            "type": 3,
+            "api": "csp_ZxzjFishGuard",
+            "searchable": 1,
+            "ext": "https://www.zxzjhd.com"
+        },
+        {
+            "key": "TvDy",
+            "name": "天堂｜影视",
+            "type": 3,
+            "api": "csp_TvDyFishGuard",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MqTv",
+            "name": "麻雀｜影视",
+            "type": 3,
+            "api": "csp_MqTvFishGuard",
+            "searchable": 1,
+            "ext": "https://www.mqtv.cc"
+        },
+        {
+            "key": "Ikanbot",
+            "name": "爱看｜影视",
+            "type": 3,
+            "api": "csp_IkanbotFishGuard",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+        },
+        {
+            "key": "Hema",
+            "name": "河马｜短剧",
+            "type": 3,
+            "api": "csp_HemaFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "类型": "短剧",
+            "filterable": 1
+        },
+        {
+            "key": "FishDuanju",
+            "name": "超级｜短剧",
+            "type": 3,
+            "api": "csp_FishDuanjuFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "类型": "短剧",
+            "filterable": 1
+        },
+        {
+            "key": "HHkk",
+            "name": "好看｜短剧",
+            "type": 3,
+            "api": "csp_HHkkFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "类型": "短剧",
+            "filterable": 1
+        },
+        {
+            "key": "番薯动漫",
+            "name": "番薯丨动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGetFishGuard",
+            "ext": "AYCBc+fWtk3Ww5c5E60Bo/WU/T4E6CeEycr4XI4G5qlbHuIqnYVSkEL3SU7CelK5Try8WfXhaNH+v57CAk7j2WsarjlyXV8uztVoM5+2qHrAlnCAla8ODUNhdN9dxGa8uKfX0x1ICKB+3HQfIKV9BRVGyFNO/xqOPnpLDK0+jGr/"
+        },
+        {
+            "key": "XiFan",
+            "name": "稀饭｜动漫",
+            "type": 3,
+            "api": "csp_XiFanFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "SiteUrl": "https://dm.xifanacg.com"
+            }
+        },
+        {
+            "key": "Manbo",
+            "name": "曼波｜动漫",
+            "type": 3,
+            "api": "csp_AppGetFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
+        },
+        {
+            "key": "Gugu",
+            "name": "咕咕｜动漫",
+            "type": 3,
+            "api": "csp_AppGetFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0="
+        },
+        {
+            "key": "Jianpian",
+            "name": "荐片｜磁力",
+            "type": 3,
+            "api": "csp_JianpianFishGuard",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Xb6v",
+            "name": "6 V｜磁力",
+            "type": 3,
+            "api": "csp_Xb6vFishGuard",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "TGSou",
+            "name": "糖果｜搜索",
+            "type": 3,
+            "api": "csp_TGSouFishGuard",
+            "searchable": 1
+        },
+        {
+            "key": "ChuXin",
+            "name": "初心｜音乐",
+            "type": 3,
+            "api": "csp_ChuXinFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "aiting",
+            "name": "爱听｜音乐",
+            "type": 3,
+            "api": "csp_AiTingMusicFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "Music24bit",
+            "name": "无损｜音乐",
+            "type": 3,
+            "api": "csp_Music24bitFishGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "categories": [
+                    "周杰伦",
+                    "林俊杰",
+                    "陈奕迅",
+                    "邓紫棋",
+                    "薛之谦"
+                ]
+            }
+        },
+        {
+            "key": "TuXiaoBei",
+            "name": "小兔｜少儿",
+            "type": 3,
+            "api": "csp_TuXiaoBeiFishGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "BeiLeHu",
+            "name": "小虎｜少儿",
+            "type": 3,
+            "api": "csp_BeiLeHuFishGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "Kanqiu",
+            "name": "看球｜体育",
+            "type": 3,
+            "api": "csp_KanqiuFishGuard",
+            "searchable": 0,
+            "filterable": 1,
+            "indexs": 0,
+            "ext": "http://www.88kanqiu.one",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "Sir88",
+            "name": "超全｜体育",
+            "type": 3,
+            "api": "csp_Sir88FishGuard",
+            "searchable": 0,
+            "filterable": 1,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "TingBook",
+            "name": "六月｜有声",
+            "type": 3,
+            "api": "csp_TingBookFishGuard",
+            "searchable": 1,
+            "indexs": 0,
+            "ext": "https://app.365ting.com",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "TingBookJinXia",
+            "name": "堇夏｜有声",
+            "type": 3,
+            "api": "csp_TingBookJinXiaFishGuard",
+            "searchable": 1,
+            "filterable": 1,
+            "indexs": 0,
+            "ext": "https://m.ting15.com",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "Local",
+            "name": "文件｜浏览",
+            "type": 3,
+            "api": "csp_LocalFishGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "Market",
+            "name": "网盘｜市场",
+            "type": 3,
+            "api": "csp_MarketFishGuard",
+            "searchable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": "AWmNzXUj5sW3E9cmHg7HzJYgcAvvRz30uYzOo5s+V+dNu26wvhfMrZXAaq9RcngbFaXU6gtq9etJ6nql9shxXjY567AyaX/mLQYkQNARHNfUnsxZ3sLFpUWallggHoCuAf0dAiLFsgi3T9KAB9sPHpuYrBF26N3YZX6a62CsVtBgqMXEP0Apg8s12I6R7dUOT0F6+Cr0+P3JmOcA98Ir/RkGi0AaWDwQSPtVOarYdbvhy1WzXn//N9hGjuXYhRnJgOmBiWPZAacCyxbFHLV0G/vjjbEXMK7fLa1KLdJ9RWWz9/Z0UevEdx2CEqTKsJFjD7WOxrsubZps5ylQj3ZQqBF0m9A8wBDhz2oksq5VrXsUolAHAKrNaz0t8K13IRbkxA3fYUH6v2YTzcz5HYrAz7McDNJyDfXLIw3bVwH+FU97"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送｜接收",
+            "type": 3,
+            "api": "csp_PushFishGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "timeout": 60
+        },
+        {
+            "key": "Fishdrive",
+            "name": "摸鱼｜媒体库",
+            "type": 3,
+            "api": "csp_FishDriveFishGuard",
+            "indexs": 0,
+            "searchable": 1,
+            "filterable": 1,
+            "ext": "./json/fishdrive.json"
+        },
+        {
+            "key": "Wallpaper",
+            "name": "摸鱼｜壁纸库",
+            "type": 3,
+            "api": "csp_WallpaperFishGuard",
+            "searchable": 0,
+            "indexs": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 0.56
+            }
+        }
+    ],
+    "lives": [],
+    "parses": [],
+    "flags": [],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}

@@ -1,0 +1,108 @@
+{
+  "embyClient": "Android Mobile",
+  "embyClientVersion": "3.3.67",
+  "pageSize": 20,
+  "subtitleExts": ["ass", "ssa", "srt"],
+  "embyItemTypes": "Movie,Series",
+  "embySearchTypes": "Movie,Series,BoxSet",
+  "embySearchLimit": 50,
+  "webdavFilters": [
+    {
+      "key": "type",
+      "name": "排序类型",
+      "values": [
+        {"n": "默认", "v": ""},
+        {"n": "名称", "v": "name"},
+        {"n": "大小", "v": "size"},
+        {"n": "修改时间", "v": "date"}
+      ]
+    },
+    {
+      "key": "order",
+      "name": "排序方式",
+      "values": [
+        {"n": "默认", "v": ""},
+        {"n": "升序", "v": "asc"},
+        {"n": "降序", "v": "desc"}
+      ]
+    }
+  ],
+  "embyFilters": [
+    {
+      "key": "sort",
+      "name": "排序",
+      "values": [
+        {"n": "最近更新", "v": "DateLastContentAdded,SortName"},
+        {"n": "最近添加", "v": "DateCreated,SortName"},
+        {"n": "名称升序", "v": "SortName|Ascending"},
+        {"n": "名称降序", "v": "SortName|Descending"},
+        {"n": "评分降序", "v": "CommunityRating,SortName"},
+        {"n": "年份降序", "v": "ProductionYear,SortName"}
+      ]
+    }
+  ],
+  "deviceProfile": {
+    "SubtitleProfiles": [
+      {"Method": "Embed", "Format": "ass"},
+      {"Format": "ssa", "Method": "Embed"},
+      {"Format": "subrip", "Method": "Embed"},
+      {"Format": "sub", "Method": "Embed"},
+      {"Method": "Embed", "Format": "pgssub"},
+      {"Format": "subrip", "Method": "External"},
+      {"Method": "External", "Format": "sub"},
+      {"Method": "External", "Format": "ass"},
+      {"Format": "ssa", "Method": "External"},
+      {"Method": "External", "Format": "vtt"}
+    ],
+    "CodecProfiles": [
+      {
+        "Codec": "h264",
+        "Type": "Video",
+        "ApplyConditions": [
+          {"Property": "IsAnamorphic", "Value": "true", "Condition": "NotEquals", "IsRequired": false},
+          {"IsRequired": false, "Value": "high|main|baseline|constrained baseline", "Condition": "EqualsAny", "Property": "VideoProfile"},
+          {"IsRequired": false, "Value": "80", "Condition": "LessThanEqual", "Property": "VideoLevel"},
+          {"IsRequired": false, "Value": "true", "Condition": "NotEquals", "Property": "IsInterlaced"}
+        ]
+      },
+      {
+        "Codec": "hevc",
+        "Type": "Video",
+        "ApplyConditions": [
+          {"Property": "IsAnamorphic", "Value": "true", "Condition": "NotEquals", "IsRequired": false},
+          {"IsRequired": false, "Value": "high|main|main 10", "Condition": "EqualsAny", "Property": "VideoProfile"},
+          {"Property": "VideoLevel", "Value": "175", "Condition": "LessThanEqual", "IsRequired": false},
+          {"IsRequired": false, "Value": "true", "Condition": "NotEquals", "Property": "IsInterlaced"}
+        ]
+      }
+    ],
+    "MaxStreamingBitrate": 40000000,
+    "TranscodingProfiles": [
+      {
+        "Container": "ts",
+        "AudioCodec": "aac,mp3,wav,ac3,eac3,flac,opus",
+        "VideoCodec": "hevc,h264,mpeg4",
+        "BreakOnNonKeyFrames": true,
+        "Type": "Video",
+        "MaxAudioChannels": "6",
+        "Protocol": "hls",
+        "Context": "Streaming",
+        "MinSegments": 2
+      }
+    ],
+    "DirectPlayProfiles": [
+      {
+        "Container": "mov,mp4,mkv,hls,webm",
+        "Type": "Video",
+        "VideoCodec": "h264,hevc,dvhe,dvh1,mpeg4,vp9",
+        "AudioCodec": "aac,mp3,wav,ac3,eac3,flac,truehd,dts,dca,opus,pcm"
+      }
+    ],
+    "ResponseProfiles": [
+      {"MimeType": "video/mp4", "Type": "Video", "Container": "m4v"}
+    ],
+    "ContainerProfiles": [],
+    "MusicStreamingTranscodingBitrate": 40000000,
+    "MaxStaticBitrate": 40000000
+  }
+}
