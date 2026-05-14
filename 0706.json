@@ -215,7 +215,7 @@
 {"key":"TgYunPan|本地","name":"🅿TgYunPan|本地","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,zaihuayun,PanjClub,yunpanpan,Quark_Movies,shareAliyun,BaiduCloudDisk","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"push_agent","name":"🎾推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}}
 
-}
+
 ],
 "parses": [{
 		"name": "Web聚合",
