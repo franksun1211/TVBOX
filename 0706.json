@@ -1,9 +1,9 @@
 ///////FROM WXER////////
 {
-    "spider": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F6ae40899-d083-45dd-b758-66d4a831b412.php",
+    "spider": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F6ae40899-d083-45dd-b758-66d4a831b412.php;md5;cedfaa6f4368d50e6a2ba5006614e8c6",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260516-A 🍒",
+	"notice": "[0706JJ]CK20260516-B 🍒",
     "sites": [
         {
             "key": "Douban",
