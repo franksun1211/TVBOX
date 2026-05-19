@@ -1,0 +1,30 @@
+{
+  "vodPic": "https://tse3-mm.cn.bing.net/th/id/OIP-C.MeDRTpt92G3S-_kU9BZJEQHaHa?rs=1&pid=ImgDetMain",
+  "drives": [
+    {
+      "name": "本地alist",
+      "server": "http://127.0.0.1:5244/",
+      "hidden": false,
+      "login": {
+        "username": "admin",
+        "password": "admin"
+      }
+    },
+    {
+      "name": "范本",
+      "server": "https://one.fongmi.com",
+      "hidden": true,
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
+        {
+          "path": "/安斋拉拉",
+          "pass": "18181818"
+        }
+      ]
+    }
+  ]
+}
+

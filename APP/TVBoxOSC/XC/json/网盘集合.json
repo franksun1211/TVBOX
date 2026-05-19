@@ -1,0 +1,56 @@
+[
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的夸克盘",
+    "share_id": "selfquark",
+    "share_type":"quark"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的摆渡盘",
+    "share_id": "selfbaidu",
+    "share_type":"baidu"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的UC盘",
+    "share_id": "selfuc",
+    "share_type":"uc"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的115盘",
+    "share_id": "self115",
+    "share_type":"115"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "MTV精选1万首夸克",
+    "share_id": "3e458103b556"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "夸克MV",
+    "share_id": "e10ef5a111e5"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "短剧夸克",
+    "share_id": "5173a250c8f7"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "短剧",
+    "share_id": "5Fzz7JFuQyg"
+  },
+  {
+    "share_name": "GRT易和谐电影",
+    "share_id": "6LvWZoQo3nS"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "xiaaluo",
+    "share_id": "sg8CdGUwmUr"
+  }
+]
+
