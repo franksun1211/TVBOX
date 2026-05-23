@@ -47,13 +47,13 @@
 
 {
             "key": "原创",
-            "name": "☀原创┃秒播",
+            "name": "🥇原创✨┃FTY",
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 15,
             "playerType": 1,
             "searchable": 1,
-	"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+	        "jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -62,7 +62,7 @@
 	
         {
             "key": "超全",
-            "name": "🥇🏆⚽吃瓜✨┃看球",
+            "name": "🥇🏆⚽吃瓜✨┃FTY",
             "type": 3,
             "api": "csp_LiveGzGuard",
             "searchable": 0,
@@ -76,7 +76,7 @@
          
 		{
             "key": "看球",
-            "name": "🏆⚽手机✨┃看球",
+            "name": "🏆⚽手机✨┃FTY",
             "type": 3,
             "api": "csp_KanqiuGuard",
             "timeout": 10,
