@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]CK20260525-A 🍓",
+    "notice": "[CKS2026JJ]CK20260525-B 🍓",
 
     "sites": [
         {
@@ -68,14 +68,7 @@
             "searchable": 1,
             "changeable": 1
         },
-{
-            "key": "wencai",
-            "name": "🥇文才✨｜影视",
-            "type": 3,
-            "api": "csp_WenCai",
-            "searchable": 1,
-            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-        },
+
 {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 {
             "key": "SportGuaZi",
@@ -196,14 +189,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "WexGuaZi",
-            "name": "💥瓜子┃秒播💥",
-            "type": 3,
-            "api": "csp_WexGuaZiGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "賤賤",
             "name": "🥇贱片✨┃秒播",
@@ -212,17 +198,10 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "WexWenCai",
-            "name": "🥇文才✨┃秒播",
-            "type": 3,
-            "api": "csp_WexWenCaiGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "WexDuBoKu",
-            "name": "💥独播┃秒播💥",
+            "name": "💥独播┃秒播",
             "type": 3,
             "api": "csp_WexDuBoKuGuard",
             "searchable": 1,
@@ -230,7 +209,7 @@
         },
         {
             "key": "WexYueYue",
-            "name": "💥闪电┃秒播💥",
+            "name": "💥闪电┃秒播",
             "type": 3,
             "api": "csp_WexYueYueGuard",
             "searchable": 1,
@@ -238,7 +217,7 @@
         },
         {
             "key": "WexYiYs",
-            "name": "💥伊影┃秒播💥",
+            "name": "💥伊影┃秒播",
             "type": 3,
             "api": "csp_WexYiYsGuard",
             "searchable": 1,
@@ -246,7 +225,7 @@
         },
         {
             "key": "WexReBo",
-            "name": "💥热播┃秒播💥",
+            "name": "💥热播┃秒播",
             "type": 3,
             "api": "csp_WexReBoGuard",
             "searchable": 1,
@@ -254,7 +233,7 @@
         },
         {
             "key": "WexBoBo",
-            "name": "🎇伯伯┃秒播🎇",
+            "name": "🎇伯伯┃秒播",
             "type": 3,
             "api": "csp_WexBoBoGuard",
             "searchable": 1,
@@ -262,7 +241,7 @@
         },
         {
             "key": "WexBtTwo",
-            "name": "🎇鼻涕┃秒播🎇",
+            "name": "🎇鼻涕┃秒播",
             "type": 3,
             "api": "csp_WexBtTwoGuard",
             "searchable": 1,
@@ -270,7 +249,7 @@
         },
         {
             "key": "新6V",
-            "name": "🎇新6V┃磁力🎇",
+            "name": "🎇新6V┃磁力",
             "type": 3,
             "api": "csp_WexXb6vGuard",
             "searchable": 1,
