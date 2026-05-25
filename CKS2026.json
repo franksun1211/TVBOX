@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]CK20260525 🍓",
+    "notice": "[CKS2026JJ]CK20260525-A 🍓",
 
     "sites": [
         {
@@ -44,16 +44,28 @@
 {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
 {"key":"嗷呜金牌影院","name":"🥇嗷呜金牌荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},	
-{
-            "key": "原创",
-            "name": "🥇原创✨┃FTY",
+ {
+            "key": "AnimeGiriGiri",
+            "name": "🥇💢爱弹幕✨｜动漫",
             "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 30,
-            "playerType": 1,
+            "api": "csp_AnimeGiriGiriGuard",
             "searchable": 1,
-            "quickSearch": 1,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "changeable": 1
+        },
+        {
+            "key": "AnimeFanShu",
+            "name": "🥇💢番薯┃动漫✨",
+            "type": 3,
+            "api": "csp_AnimeFanShuGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AnimeXiFan",
+            "name": "🥇💢稀饭┃动漫✨",
+            "type": 3,
+            "api": "csp_AnimeXiFanGuard",
+            "searchable": 1,
             "changeable": 1
         },
 {
@@ -322,30 +334,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "AnimeGiriGiri",
-            "name": "🥇💢爱弹幕✨｜动漫",
-            "type": 3,
-            "api": "csp_AnimeGiriGiriGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "AnimeFanShu",
-            "name": "🥇💢番薯┃动漫✨",
-            "type": 3,
-            "api": "csp_AnimeFanShuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "AnimeXiFan",
-            "name": "🥇💢稀饭┃动漫✨",
-            "type": 3,
-            "api": "csp_AnimeXiFanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         
         {
             "key": "WexTangDou",
