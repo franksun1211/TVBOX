@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260526 🍓",
+    "notice": "[CKS2026JJ]20260527 🍓",
 
     "sites": [
         {
@@ -72,7 +72,7 @@
 {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 {
             "key": "SportGuaZi",
-            "name": "🥇🏆⚽瓜子✨┃体育",
+            "name": "🥇🏆⚽瓜子✨┃体育🌐",
             "type": 3,
             "api": "csp_SportGuaZiGuard",
             "searchable": 1,
@@ -231,7 +231,7 @@
         },
         {
             "key": "WexBoBo",
-            "name": "🎇伯伯┃秒播",
+            "name": "🎇博播┃秒播",
             "type": 3,
             "api": "csp_WexBoBoGuard",
             "searchable": 1,
@@ -239,7 +239,7 @@
         },
         {
             "key": "WexBtTwo",
-            "name": "🎇鼻涕┃秒播",
+            "name": "🎇BT2┃秒播",
             "type": 3,
             "api": "csp_WexBtTwoGuard",
             "searchable": 1,
