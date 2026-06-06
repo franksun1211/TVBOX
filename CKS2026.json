@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260606 🍅",
+    "notice": "[CKS2026JJ]20260606-A 🍅",
 
     "sites": [
         {
@@ -60,17 +60,13 @@
             "searchable": 1,
             "changeable": 1
         },
-       {
-            "key": "XiFan",
+     {
+            "key": "AnimeXiFan",
             "name": "🥇💢稀饭┃动漫✨",
             "type": 3,
-            "api": "csp_XiFanFishGuard",
-		    "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260604/DUGG/fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
+            "api": "csp_AnimeXiFanGuard",
             "searchable": 1,
-            "quickSearch": 1,
-            "ext": {
-                "SiteUrl": "https://dm.xifanacg.com"
-            }
+            "changeable": 1
         },
 
 {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
@@ -180,7 +176,7 @@
         },
 		{
             "key": "MyQuark",
-            "name": "💓我的┃夸克💓‍",
+            "name": "💓我的夸克✨",
             "type": 3,
             "api": "csp_MyQuarkGuard",
             "searchable": 1,
