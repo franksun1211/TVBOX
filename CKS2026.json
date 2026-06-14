@@ -287,22 +287,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "WexBoBo",
-            "name": "🎇博播┃秒播",
-            "type": 3,
-            "api": "csp_WexBoBoGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexBtTwo",
-            "name": "🎇BT2┃秒播",
-            "type": 3,
-            "api": "csp_WexBtTwoGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "新6V",
             "name": "🎇新6V┃磁力",
