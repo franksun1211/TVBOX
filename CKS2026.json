@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260614-C 🥝",
+    "notice": "[CKS2026JJ]20260614-E 🥝",
 
     "sites": [
         {
@@ -113,17 +113,7 @@
             "changeable": 0,
             "ext": "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856"
         },
-        {
-            "name": "🥇💢🐱喵物✨|动漫",
-            "key": "AowuDmMw",
-            "type": 3,
-            "api": "csp_AowuDmAmns",
-			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
-        },
+       
 {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 {
             "key": "SportGuaZi",
