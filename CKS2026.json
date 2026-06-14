@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260613 🍅",
+    "notice": "[CKS2026JJ]20260614 🥝",
 
     "sites": [
         {
@@ -29,6 +29,26 @@
             "indexs": 0
         },
 {
+            "name": "🥇🐱橘汁4K✨|AW",
+            "key": "Woshinidie",
+            "type": 3,
+            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/7.png;md5;76d835a5c630383e9fd851399579220c",
+            "api": "csp_Woshinidie",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "host": "",
+                "version": "3.0.2.1",
+                "abid": "8192",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "keys": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==,OC1A06E197EF10CF3F6058CA7A803B5E",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
+            }
+        },
+		
+		{
             "key": "UVod",
             "name": "🥇優視頻✨",
             "type": 3,
@@ -52,29 +72,57 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "AnimeFanShu",
-            "name": "🥇💢番薯┃动漫✨",
-            "type": 3,
-            "api": "csp_AnimeFanShuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+     
      {
             "key": "AnimeXiFan",
-            "name": "🥇💢稀饭┃动漫✨",
+            "name": "🥇💢稀饭✨┃动漫",
             "type": 3,
             "api": "csp_AnimeXiFanGuard",
             "searchable": 1,
             "changeable": 1
         },
-{
-            "key": "路漫漫",
-            "name": "🥇💢路漫漫✨｜动漫",
+  {
+            "name": "🥇💢🐱嗷嗚✨|动漫",
+            "key": "AowuDmAw",
             "type": 3,
-            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
+            "api": "csp_AowuDmAmns",
+	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b"
+        },
+        {
+            "name": "🥇💢🐱番薯✨|动漫",
+            "key": "FanShu",
+            "type": 3,
+            "api": "csp_FanShuAmns",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "name": "🥇💢🐱番茶✨|动漫",
+            "key": "AowuDmFc",
+            "type": 3,
+            "api": "csp_AowuDmAmns",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856"
+        },
+        {
+            "name": "🥇💢🐱喵物✨|动漫",
+            "key": "AowuDmMw",
+            "type": 3,
+            "api": "csp_AowuDmAmns",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
         },
 {"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 {
@@ -210,7 +258,17 @@
             "searchable": 1,
             "changeable": 1
         },
-        
+        {
+            "name": "🥇🐱哔嘀2K✨|AW",
+            "key": "Bidys",
+            "type": 3,
+            "api": "csp_BidysAmns",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"
+        },
         {
             "key": "WexDuBoKu",
             "name": "💥独播┃秒播",
@@ -302,14 +360,14 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "AnimeMoDu",
-            "name": "🤡魔都┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeMoDuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+        //{
+            //"key": "AnimeMoDu",
+            //"name": "🤡魔都┃动漫🤡",
+            //"type": 3,
+            //"api": "csp_AnimeMoDuGuard",
+            //"searchable": 1,
+            //"changeable": 1
+       // },
         
         
         
