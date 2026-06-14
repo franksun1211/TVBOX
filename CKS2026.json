@@ -1,10 +1,10 @@
-///////FROM wx2fnw////////
+///////FROM wx2fnw & AOWU////////
 
 {
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260614 🥝",
+    "notice": "[CKS2026JJ]20260614-A 🥝",
 
     "sites": [
         {
@@ -136,7 +136,16 @@
                 "type": "list"
             }
         },   
-
+{
+            "name": "🥇🏆⚽咖啡✨|体育🌐",
+            "key": "KafLive",
+            "type": 3,
+            "api": "csp_KafLiveAmns",
+	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
 {
             "key": "二小",
             "name": "💓‍指南✨┃4K",
