@@ -267,17 +267,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "name": "🥇🐱哔嘀2K✨|AW",
-            "key": "Bidys",
-            "type": 3,
-            "api": "csp_BidysAmns",
-			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"
-        },
+      
         {
             "key": "WexDuBoKu",
             "name": "💥独播┃秒播",
