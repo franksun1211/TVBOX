@@ -4,7 +4,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260614-E 🥝",
+    "notice": "[CKS2026JJ]20260614-F 🥝",
 
     "sites": [
         {
@@ -251,14 +251,7 @@
             "changeable": 0,
             "ext": "https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"
         },
-		{
-            "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播💥",
-            "type": 3,
-            "api": "csp_WexHanXiaoQuanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
+	
         
         {
             "key": "賤賤",
