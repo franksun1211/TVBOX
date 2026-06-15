@@ -1,10 +1,12 @@
 ///////FROM wx2fnw & AOWU////////
 
 {
-    "spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
+    "spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
+	//"spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
+	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260614-F 🥝",
+    "notice": "[CKS2026JJ]20260615 🥝",
 
     "sites": [
         {
