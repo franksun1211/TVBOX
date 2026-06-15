@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260615 🥝",
+    "notice": "[CKS2026JJ]20260615-A 🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨",
+            "name": "✨豆瓣✨|0615更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
