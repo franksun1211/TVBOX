@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260615-A 🥝",
+    "notice": "[CKS2026JJ]20260618 🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|0615更新",
+            "name": "✨豆瓣✨|0618更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -88,7 +88,7 @@
             "key": "AowuDmAw",
             "type": 3,
             "api": "csp_AowuDmAmns",
-	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -99,7 +99,7 @@
             "key": "FanShu",
             "type": 3,
             "api": "csp_FanShuAmns",
-			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
@@ -109,7 +109,7 @@
             "key": "AowuDmFc",
             "type": 3,
             "api": "csp_AowuDmAmns",
-			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -133,7 +133,7 @@
             "key": "KafLive",
             "type": 3,
             "api": "csp_KafLiveAmns",
-	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -247,7 +247,7 @@
             "key": "Bidys",
             "type": 3,
             "api": "csp_BidysAmns",
-			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/1.png",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
