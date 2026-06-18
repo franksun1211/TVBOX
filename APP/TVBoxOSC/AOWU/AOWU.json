@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/1.png;md5;ae34799022ea04bad51b3f9ce57147cf",
+    "spider": "./jar/1.png",
     "logo": "./img/15.png",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
