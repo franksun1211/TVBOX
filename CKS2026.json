@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260618 🥝",
+    "notice": "[CKS2026JJ]20260622 🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|0618更新",
+            "name": "✨豆瓣✨|0622更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -74,15 +74,28 @@
             "searchable": 1,
             "changeable": 1
         },
-     
-     {
-            "key": "AnimeXiFan",
+      {
+            "key": "XiFan",
             "name": "🥇💢稀饭✨┃动漫",
             "type": 3,
-            "api": "csp_AnimeXiFanGuard",
+            "jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/1.jar;md5;affdf181da04ef62bb77911262d53e61",
+		 
+            "api": "csp_XiFan",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "ext": {
+                "SiteUrl": "https://dm.xifanacg.com"
+            }
         },
+     
+		//{
+            //"key": "AnimeXiFan",
+            //"name": "🥇💢稀饭✨┃动漫",
+            //"type": 3,
+           // "api": "csp_AnimeXiFanGuard",
+            //"searchable": 1,
+           // "changeable": 1
+        //},
   {
             "name": "🥇💢🐱嗷嗚✨|动漫",
             "key": "AowuDmAw",
@@ -243,6 +256,42 @@
             }
         },
         {
+            "key": "夸父",
+            "name": "☀️┃夸父┃4K",
+            "type": 3,
+            "api": "csp_FishKF",
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/1.jar;md5;affdf181da04ef62bb77911262d53e61",
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://www.kfjwzz.com"
+                ],
+                "cookie": ""
+            }
+        },
+        {
+            "key": "ShuangXing",
+            "name": "🌟┃双星┃4K",
+            "type": 3,
+            "api": "csp_ShuangXing",
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/1.jar;md5;affdf181da04ef62bb77911262d53e61",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            }
+        },
+		
+		{
             "name": "🥇🐱哔嘀2K✨|AW",
             "key": "Bidys",
             "type": 3,
