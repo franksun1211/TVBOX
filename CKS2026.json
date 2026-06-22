@@ -6,7 +6,7 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "[CKS2026JJ]20260622-E 🥝",
+    "notice": "[CKS2026JJ]20260622-F 🥝",
 
     "sites": [
         {
@@ -17,8 +17,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-			"ext": "https://github.com/franksun1211/TVBOX/blob/main/APP/TVBoxOSC/WXER/ext/DouBan.txt"
-            //"ext": "https://ghproxy.com/https://github.com/ls125781003/tvboxtg/raw/main/王二小/txt/20260414181247-ae51abfbfe.txt"
+            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/txt/20260414181247-ae51abfbfe.txt"
         },
        
        
@@ -90,7 +89,7 @@
         },
      {
             "key": "双星",
-            "name": "✨┃双星┃动漫",
+            "name": "🥇💢┃双星✨┃动漫",
             "type": 3,
             "api": "csp_App88",
 		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
