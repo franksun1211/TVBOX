@@ -1,4 +1,4 @@
-///////FROM wx2fnw & AOWU////////
+///////FROM wx2fnw & AOWU & Myer////////
 
 {
     "spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
@@ -65,7 +65,7 @@
 
 {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
-{"key":"嗷呜金牌影院","name":"🥇嗷呜金牌荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},	
+{"key":"嗷呜金牌影院","name":"🥇嗷呜荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},	
  {
             "key": "AnimeGiriGiri",
             "name": "🥇💢爱弹幕✨｜动漫",
