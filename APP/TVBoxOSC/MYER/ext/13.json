@@ -1,0 +1,245 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+ <head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <title>有声小说网_在线听书_有声小说在线听_有听网</title>
+  <meta name="Keywords" content="听书网,有声小说,在线听书,听小说,有听网"/>
+  <meta name="description" content="有听网(ting15.com)是值得听书爱好者收藏的声音内容免费分享平台，涵盖了有声小说的在线收听和下载，有声音，有乐趣，有听网！"/>
+  <meta http-equiv="Cache-Control" content="no-transform"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <link href="/lianting/mm.css" rel="stylesheet"/>
+ </head>
+ <body id="home">
+  <div id="wrapper">
+    <header>
+    <div class="top clear">
+     <div class="logo">
+      <a href="/">有听网</a>
+     </div>
+     <div class="user">
+	 	  <a href=" /index.php?s=/user-center-login.html" id="user_login" class="user_login" rel="nofollow"><span>登录(可保存收听记录)</span></a>     </div>
+    </div>
+    <nav class="nav clear">
+     <a href="/" class="h">首页</a>
+	 <a href="/wuxiaxuanhuan/" title="武侠玄幻" class="c2">武侠玄幻</a>
+		  <a href="/kongbulingyi/" title="恐怖灵异" class="c6">恐怖灵异</a>
+		  <a href="/tuilixuanyi/" title="推理悬疑" class="c7">推理悬疑</a>
+		  <a href="/dushiyanqing/" title="都市言情" class="c5">都市言情</a>
+		  <a href="/jiatinglunli/" title="家庭伦理" class="c9">家庭伦理</a>
+		  <a href="/wenxuemingzhu/" title="官场职场" class="c1">官场职场</a>
+		  <a href="/jingdianpingshu/" title="经典评书" class="c8">经典评书</a>
+		  		   <a name="h" href="/quyixiqu/" title="曲艺戏曲" class="c3" style="display:none">曲艺戏曲</a>		   <a name="h" href="/xiangshengxiaopin/" title="相声小品" class="c4" style="display:none">相声小品</a>		   <a name="h" href="/yinyue/" title="助眠音频" class="c10" style="display:none">助眠音频</a>      <a href="javascript:;" class="more" onclick="more(this)">更多↓</a>
+    </nav>
+   </header>
+   <div class="search_box">
+    <div class="search_cont">
+     <div class="s_input">
+      <input type="text" id="search" placeholder="书名/作者/播音，如:鬼吹灯"/>
+     </div>
+     <input type="button" class="s_btn" id="btnSearch" />
+    </div>
+   </div>
+   <span id="tip"></span>
+   <section class="tuijian">
+    <h2>精品推荐</h2>
+    <div class="tlist">
+	  			<a  href="/jiatinglunli/2049.html">
+      <dl>
+       <dt>
+          <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/20250322151049400.jpg" alt="桃园如此多娇" height="100" width="75">
+       </dt>
+       <dd>
+        <h3>桃园如此多娇</h3>
+        <p class="desc">残废三年，装傻三年，离奇痊愈。但林木却选择继续装病。因为身边有一群人美心善的村花以各..</p>
+       </dd>
+      </dl></a><a  href="/wuxiaxuanhuan/1254.html">
+      <dl>
+       <dt>
+          <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/2023-04-06/642ee5622dad5.jpg" alt="剑来(上/下)" height="100" width="75">
+       </dt>
+       <dd>
+        <h3>剑来(上/下)</h3>
+        <p class="desc">一个在北方长大的贫穷男孩，有一天看到头上有成千上万的御剑仙人，就像蝗虫过境一样。他只..</p>
+       </dd>
+      </dl></a><a  href="/tuilixuanyi/1698.html">
+      <dl>
+       <dt>
+          <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/2023-08-26/64e9f3ff4d4d6.png" alt="北派盗墓笔记" height="100" width="75">
+       </dt>
+       <dd>
+        <h3>北派盗墓笔记</h3>
+        <p class="desc">我是一个东北山村的穷小子，为了出人头地，我加入了一个名叫北派的盗墓团伙，从南到北，从..</p>
+       </dd>
+      </dl></a><a  href="/wuxiaxuanhuan/2002.html">
+      <dl>
+       <dt>
+          <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/2024-06-24/20240712073907351.jpg" alt="凡人修仙传" height="100" width="75">
+       </dt>
+       <dd>
+        <h3>凡人修仙传</h3>
+        <p class="desc">一个普通山村的穷小子，在偶然的机会中进入了一个江湖的小门派，成为了一名记名弟子，他就..</p>
+       </dd>
+      </dl></a>    </div>
+   </section>
+   <section class="month">
+    <h2>全本精品</h2>
+    <div class="mlist">
+    			<a  href="/tuilixuanyi/2037.html">
+      <dl>
+       <dt>
+      <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/20241217174759842.jpg" alt="破绽" height="100" width="75">
+       </dt>
+       <dd>
+        <h3>破绽</h3>
+        <p class="desc">全新角度重写谍战风云，媲美《潜伏》的豆瓣高分民国谍战神作，该故事讲述了抗战初期，国军..</p>
+       </dd>
+      </dl>
+	  	  </a>	 <a  href="/wenxuemingzhu/2036.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[官场职场]话说宋朝</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2031.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[经典评书]徽宗剑侠谱</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/dushiyanqing/2027.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[都市言情]平凡的世界</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jiatinglunli/2022.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[家庭伦理]乡野村嫂</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/dushiyanqing/2021.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[都市言情]首辅娇娘</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/wenxuemingzhu/2011.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[官场职场]侯卫东官场笔记(全集)第9部</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/kongbulingyi/1408.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[恐怖灵异]张震讲故事</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/dushiyanqing/1806.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[都市言情]都市极品高手</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/dushiyanqing/1726.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[都市言情]医手遮天</h3>
+       </dd>
+      </dl></a>	  </a>    </div>
+   </section>
+   <section class="new">
+    <h2>最近更新</h2>
+    <div class="nlist">
+			<a  href="/wenxuemingzhu/2112.html">
+      <dl>
+       <dt>
+      <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/GMCoOSMFrXEEAAR0QgEKzHjQ.jpg" alt="明天下" height="100" width="75">
+       </dt>
+       <dd>
+        <h3><font color="red">明天下</font></h3>
+        <p class="desc"><font color="red">云昭穿越到了明末这个纷乱混杂的时代，看族长家的傻儿子如何在乱世生存打拼出一片属于自己..</font></p>
+       </dd>
+      </dl>
+	  	  </a>	 <a  href="/jingdianpingshu/2111.html">
+      <dl>
+       <dd>
+        <h3 class="htext"><font color="red">[经典评书]李元霸别传</font></h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2110.html">
+      <dl>
+       <dd>
+        <h3 class="htext"><font color="red">[经典评书]孙庞斗智</font></h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2109.html">
+      <dl>
+       <dd>
+        <h3 class="htext"><font color="red">[经典评书]大话成语</font></h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2108.html">
+      <dl>
+       <dd>
+        <h3 class="htext"><font color="red">[经典评书]书剑恩仇录</font></h3>
+       </dd>
+      </dl></a>	  </a>    </div>
+   </section>
+   <section class="month">
+    <h2>点击月榜</h2>
+    <div class="mlist">
+     		<a  href="/dushiyanqing/4.html">
+      <dl>
+       <dt>
+      <img src="https://img-book-oss.guoguo.org.cn/Upload/ting/2021-09-02/613035fdc0338.jpg" alt="坏蛋是怎样炼成的1（桑梓）" height="100" width="75">
+       </dt>
+       <dd>
+        <h3>坏蛋是怎样炼成的1（桑梓）</h3>
+        <p class="desc">讲述一个超越黑道，只手遮天人的不平凡经历。有人就有恩怨，有恩怨，就有江湖。人就是江湖..</p>
+       </dd>
+      </dl>
+	  	  </a>	 <a  href="/wuxiaxuanhuan/3.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[武侠玄幻]斗破苍穹</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/kongbulingyi/18.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[恐怖灵异]扛匠</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/wenxuemingzhu/2112.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[官场职场]明天下</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2111.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[经典评书]李元霸别传</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2110.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[经典评书]孙庞斗智</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2109.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[经典评书]大话成语</h3>
+       </dd>
+      </dl></a>	  </a>	 <a  href="/jingdianpingshu/2108.html">
+      <dl>
+       <dd>
+        <h3 class="htext">[经典评书]书剑恩仇录</h3>
+       </dd>
+      </dl></a>	  </a>    </div>
+   </section>
+  	  <footer style="padding-bottom:100px">
+    <div class="bottom">
+     <a href="/">有听网</a>
+					<a href="http://www.ting15.com/?s=map-show-id-baidu-limit-100.html" rel="nofollow" target="_blank">百度地图</a>
+					<a href="http://www.ting15.com/?s=map-show-id-rss-limit-30.html" rel="nofollow" target="_blank">RSS订阅</a>
+    </div>
+    <p style="color:#ffb800;text-align:center;font-size:13px">免责声明：本站资源来源于网络，版权归原作者所有，若有侵犯您的权利，请来信告知，我们将立即予以删除。邮箱：admin@ting15.com 万分感谢！推荐chrome或safari浏览器，祝您收听愉快！<br />  </p>
+
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"KGg3avkoikIkBAsR",ck:"KGg3avkoikIkBAsR"})</script>
+   </footer>
+  </div>
+  <script src="/lianting/k.js"></script>
+  <script src="/lianting/more.js"></script>
+ </body>
+</html>
