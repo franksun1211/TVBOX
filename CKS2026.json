@@ -1,7 +1,7 @@
 ///////FROM wx2fnw & AOWU////////
 
 {
-    "spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
+    "spider": "https://ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
 	//"spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -17,7 +17,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/txt/20260414181247-ae51abfbfe.txt"
+			"ext": "https://ghproxy.com/https://github.com/franksun1211/TVBOX/blob/main/APP/TVBoxOSC/WXER/ext/DouBan.txt"
+            //"ext": "https://ghproxy.com/https://github.com/ls125781003/tvboxtg/raw/main/王二小/txt/20260414181247-ae51abfbfe.txt"
         },
        
        
@@ -34,7 +35,7 @@
             "name": "🥇🐱橘汁4K✨|AW",
             "key": "Woshinidie",
             "type": 3,
-            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/7.png;md5;76d835a5c630383e9fd851399579220c",
+            "jar": "https://ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/AOWU/jar/7.png;md5;76d835a5c630383e9fd851399579220c",
             "api": "csp_Woshinidie",
             "searchable": 1,
             "quickSearch": 1,
@@ -81,7 +82,7 @@
             "type": 3,
             "api": "csp_XiFan",
             "searchable": 1,
-			"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
+			"jar": "https://ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
             "quickSearch": 1,
             "ext": {
                 "SiteUrl": "https://dm.xifanacg.com"
@@ -92,7 +93,7 @@
             "name": "✨┃双星┃动漫",
             "type": 3,
             "api": "csp_App88",
-		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
+		    "jar": "https://ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
             "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
         },
 		//{
