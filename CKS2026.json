@@ -78,7 +78,7 @@
             "key": "XiFan",
             "name": "🥇💢稀饭✨┃动漫",
             "type": 3,
-            "jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/1.jar;md5;affdf181da04ef62bb77911262d53e61",
+            "jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
 		 
             "api": "csp_XiFan",
             "searchable": 1,
@@ -262,7 +262,7 @@
             "api": "csp_FishKF",
             "searchable": 1,
             "quickSearch": 1,
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/1.jar;md5;affdf181da04ef62bb77911262d53e61",
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
             "filterable": 1,
             "changeable": 1,
             "style": {
@@ -281,7 +281,7 @@
             "name": "🌟┃双星┃4K",
             "type": 3,
             "api": "csp_ShuangXing",
-			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/1.jar;md5;affdf181da04ef62bb77911262d53e61",
+			"jar": " https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/jar/myer.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
