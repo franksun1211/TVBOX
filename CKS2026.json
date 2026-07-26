@@ -30,37 +30,8 @@
             "changeable": 0,
             "indexs": 0
         },
-{
-            "name": "🥇🐱橘汁4K✨|AW",
-            "key": "Woshinidie",
-            "type": 3,
-            "jar": "https://github.com/ls125781003/tvboxtg/raw/main/嗷呜/spider.jar",
-            "api": "csp_Woshinidie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "host": "",
-                "version": "3.0.2.1",
-                "abid": "8192",
-                "pkg": "com.lxf.snzlcgtzxyx",
-                "keys": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==,OC1A06E197EF10CF3F6058CA7A803B5E",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
-            }
-        },
+
 		
-		{
-            "key": "UVod",
-            "name": "🥇優視頻✨",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
-            "searchable": 1,
-            "quickSearch": 1,
-		    "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-            "filterable": 1,
-            "changeable": 1
-        },   
 		 {
             "name": "🥇FZ✨|AW",
             "key": "AppV7Fz",
@@ -72,6 +43,17 @@
             "changeable": 0,
             "ext": "c8075714a2413f05151fea6864509533510f048c89b582eb125174a0c364626eb83a35618bdd10c1840663d38fb441b8ff25a078bc11c7a8f17ad5b723195ef16fe405746bf6b3defd8d16ac2d07b6f6580ea4826889761c1eae278162b6dc791fff46bcd3a42acfdd470315a17f741eeb834b4fb9f184e3baa5e698b9a771341f86037ec6fa0b8b5d3e2f12172d3ba5779bcbd40a9a9842e5e20efe45b59459bcf5269b50355cebeab216ced19dff4c8d1e3968be184fd3d5609eae3e6089d84bc7b97286027f67ef0d2b19002a7cfd7ad3094cb22ee9efd9dfcb7554f5b204f3bb205ac783272c59d9fa88672e92c91cf1f022930ce8acf1850b86c110e19cc99041d491a3330e53981a954fac8b71af43e3c200c360968d571b1ccbec1a91abfc9e6723b8b2fe1f77057423a7c152c35e5a6573a8dca051273febfe8fd8c12383a37226d8b0f4e8f09e3fbb99becc533165486f60cba1ba247842491d5dd10bc79cad14ecd4da86d0b4e9b416cda8bae4f52156c5165025cda138161b660c1e488c6fa4e733e7c78731b21564faf5008f69b326c9bde49778fd9a7a41de21b7d3dcecdd2461279726060d22d13da499673fa92de73bdf2ed4a1388e457f6d22ecbdcb3a37c1ba4196f98990bba4d4dd8713a6cbb3e3cc2c6bd8ef1dd3cd59fcb2df6dc6ba92b88ac79b047f47ef178c279d353d06d0280aaf30e23b5940ea278c24ba357999db8431273844a2016267d42b89c88d163a68d5cb17d14d46529d9922580294a5be697d66b074c8601c0e4e5c8789d3d5c0b5bcd0ec5cbd9482a41a725aa8fed498de8fdc5d7a275322afcd0bed8bd35ff237edcead3ce0d3984ee00734ed61e1f4c0e67798324ff694db01e3bac4cc00706132b77a4bddd801db4e527caec727640f80737a5e0d9793bc2d7e8a42a3996b21ac66a2e4c9ae4613e63f597fd72f4c4c7866ba14e2431a24325d25fb79eaaf19d1e1d01f7b4269fafb683aa4485580639c7a59975c3827a98c73906708f0e4efdd6a43e72e6ccd8b51d3ecfe281aa189c9544ca2808593fd239dff232009197c4ab4babed12df78fef1e9cf048de39f7cdd47ebeffec77113906eec44cf0e48fc123a81b73ab5f36cb3cc3b14837cd469e9264dc935f5b63bcd01799f2e3045bcf6442d1c2adc74380b9b3566ddcb9ea4c833e044a90d0f5cc4a47cfadc4e172f285f45ebc348ceed3d98ff83fa4bf00200f6f9eddbd37f26d6632db73a96f4a48d22caea73b0d130813de12b372c65dd99164dcf309038b3fc0b44cdb7656be826ce11dbcfae7e7d4419cfaa9b4bee1ca93e6d5dddd8bb44c5c2f3c6129d54dcfcab74412bfdd8c4e8ced562d5a6b3a7d07b68b530d7b67f257e683f5d943de791684609e6e6fa2bc6602498b10e0c9e8b8ebaede9dd13b7a4606b17053b238f5e5dafa9035b62fab1e7705aa1248abcb94c6ea418fab3a1a61f283925d11e5fd284b67f8fcdf2324b7a8fca8f4d6e5aabf49382f14ba58af771078e11b9156d18b4f4a73c1203f6517dc5294ed34b8d5b1aa0e02f82ff26405441923d120470e1cc7fa8fd881658bc44481e3cb53f30a4a0fc0dae84d8686933e3d805f936d759fb565d8f6069b976158e9a9b4f4675d0c958f55775dc6861186e7b0619e53e8ae19d283ada551c01b3743d22724b1722f79fbd9687c4a767d8b20a01999ecfcc80f0afcf23fb953290148f249eb882f907ea476f3b6c2461b8fa997fd4d6673d53473f8b264f7dc42dc526a2286065e4c37db9285b0df20e7fae6516dfd726a571f2f7fe23cc2f75d9dd202754e16987cfbf476b2cc55906b6994ed221da4a20f07693982589c3735c2386f4200b3cdda1f6010d512e344b981812a4a501c4714c6972bac852d0b8aa575ef2a650f178325266e5abb78d29394c12bd420678d240b4ad4d79b0540b108c8e22c6df84da38a300f30040b3940e4c69497a0d757525f08f592001b212fa31b4db83f311a843e062dfc552d5bc45612fc1c53dde127c260161f12d3cf3c1908b31182dd260d97913bda9156b66fa9465db0241f075b87bfee12d0258dfa4a410ac09ac6e9582e462c32e42132c8fd259ef8add97f96f663ff92c24bff1d1d00b4f37e5260476c436c336611b79634dcf343d80e51b498826c2a0f7da5471e6a109d3b18e038f974e6a1168d7ffedb3f1f88e8307315e6fdc916b05188023e84c46dc4fe4c2ab396fb825183a06d91ca9375f41168986d2ed90e511506b3d2ef7f79af2885733185f24bc37c5b0466739f9eeb5268d897411468ce2e03934f01321b0b7425cfa76b075742c3017be9e416273622cc6a8bfa30294f362d6e5b02d447829def580f01e4031a6455e37853bcc183ed9dcc4fc8a55c8bc3cee272e5611c0b0cb99edf905a7046a36c006d75e101f878ca0a3f942d6234d72eb02aa608b63452180995b19e86d0d4e16f4b9ab304fab82335eadd0ba83fe1f5079631b82c853d83d95dba7f1c632a9bd217ef10673481b8e8d93a190829c03075da8f433d45159974d8889ba06c123047279ced1c1add7f20c2814dbffda8558a8551b4294ef60a42cccf53f794dda8d8f70d03c5a81849f23a6c3faabf298a5add323721e6a1726f73dd135758c646fb41b2ae7af7114fbabb3e41ff1df4d2a1528265dc921e0021f26ec8bff7174efcf946bd5a7b62f2e6b0848b385675c27b1ba200352d72dad486c9b5896b49d94a05773f32de96005c3d4c15a7dc061e4cd530b8f27c125f2c79c63c99b101cec9f76ba143507c0cfc9958d2cdf9e87dd82545b289bb0a80bb8148cd86b021bd951f52824012a5a46768ac51fd1fd5b69f8f923d61240f995a4da2008fd2f50ce4d81fe44150c39884ceba6769555b9f6360c3c2edd5061e4a0d5a6253c0b5a22d7375def8cf6c9369c159db0e51f5b2c504a9a193d23d9d5bacb498c0f2424e0206d7358bc9cef7e6d379810fb36764d5ec356edcb9291aaae3136d937232"
         },
+		{
+            "key": "UVod",
+            "name": "🥇優視頻✨",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
+            "searchable": 1,
+            "quickSearch": 1,
+		    "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
+            "filterable": 1,
+            "changeable": 1
+        },   
 {"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
 {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
