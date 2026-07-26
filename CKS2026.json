@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]20260726🥝",
+    "notice": "🥝[CKS2026JJ]20260726-A🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|0726更新",
+            "name": "✨豆瓣✨|0726-A更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -65,6 +65,7 @@
             "type": 3,
             "api": "csp_AnimeGiriGiriGuard",
             "searchable": 1,
+	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
             "changeable": 1
         },
      
