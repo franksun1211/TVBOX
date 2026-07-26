@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]20260726-B🥝",
+    "notice": "🥝[CKS2026JJ]20260726-C🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|0726-B更新",
+            "name": "✨豆瓣✨|0726-C更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -30,13 +30,7 @@
             "changeable": 0,
             "indexs": 0
         },
-{
-            "key": "三秋影视",
-            "name": "🥇三秋✨|4K🍎",
-            "type": 3,
-	        "jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar",
-            "api": "csp_App3Q"
-        },
+
 		 {
             "key": "橘汁",
             "name": "🥇橘汁✨|4K🍎",
@@ -58,7 +52,16 @@
                 "decrypt": "1"
             }
         },
-		 {
+		{
+            "key": "三秋影视",
+            "name": "🥇三秋✨|4K🍎",
+            "type": 3,
+	        "jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar",
+            "api": "csp_App3Q"
+        },
+		
+		
+		{
             "name": "🥇FZ✨|4KAW",
             "key": "AppV7Fz",
             "type": 3,
