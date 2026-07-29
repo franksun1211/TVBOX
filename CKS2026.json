@@ -1,17 +1,17 @@
 ///////FROM wx2fnw & AOWU & Myer////////
 
 {
-    //"spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
-	"spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
+    "spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
+	//"spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]20260726-C🥝",
+    "notice": "🥝[CKS2026JJ]20260729🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|0726-C更新",
+            "name": "✨豆瓣✨|0729更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -106,7 +106,7 @@
             "type": 3,
             "api": "csp_AnimeGiriGiriGuard",
             "searchable": 1,
-	        "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
+	        //"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
             "changeable": 1
         },
      
@@ -125,6 +125,7 @@
             "name": "🥇💢番薯✨┃动漫",
             "type": 3,
             "api": "csp_AnimeFanShuGuard",
+	        "jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -133,6 +134,7 @@
             "name": "🥇💢喵呜✨┃动漫",
             "type": 3,
             "api": "csp_AnimeMiaoWuGuard",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -141,6 +143,7 @@
             "name": "🥇💢花海✨┃动漫",
             "type": 3,
             "api": "csp_AnimeHuaziGuard",
+	        "jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },   
@@ -358,6 +361,7 @@
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuHongGuoGuard",
+		  "jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -367,6 +371,7 @@
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuHuoLongGuard",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -376,6 +381,7 @@
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuQiMaoGuard",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -385,12 +391,14 @@
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuXiFanGuard",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
         {
             "key": "DuanJuHaoKan",
             "name": "🍉短剧┃好看🍉",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuHaoKanGuard",
@@ -400,6 +408,7 @@
         {
             "key": "DuanJuQiMiao",
             "name": "🍉短剧┃小猫🍉",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuQiMiaoGuard",
@@ -410,6 +419,7 @@
             "key": "DuanJuXingYa",
             "name": "🍉短剧┃星星🍉",
             "type": 3,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "类型": "短剧",
             "api": "csp_DuanJuXingYaGuard",
             "searchable": 1,
@@ -421,6 +431,7 @@
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuWeiGuanGuard",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
