@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]202608016🥝",
+    "notice": "🥝[CKS2026JJ]202608016-A🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|08016更新",
+            "name": "✨豆瓣✨|08016-A更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -195,6 +195,7 @@
             "key": "二小",
             "name": "💓‍指南✨┃4K",
             "type": 3,
+	"timeout": 90,
             "api": "csp_NewErXiaoGuard",
             "searchable": 1,
             "changeable": 1
@@ -203,6 +204,7 @@
             "key": "玩偶",
             "name": "💓‍玩偶✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewWoggGuard",
             "searchable": 1,
             "changeable": 1
@@ -211,6 +213,7 @@
             "key": "NewZhiZhen",
             "name": "💓至臻✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewZhiZhenGuard",
             "searchable": 1,
             "changeable": 1
@@ -219,6 +222,7 @@
             "key": "NewGuanYing",
             "name": "💓观影✨┃4K",
             "type": 3,
+		
             "api": "csp_NewGuanYingGuard",
             "searchable": 1,
             "changeable": 1,
@@ -228,6 +232,7 @@
             "key": "NewJuTou",
             "name": "💓剧透✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewJuTouGuard",
             "searchable": 1,
             "changeable": 1
@@ -236,6 +241,7 @@
             "key": "NewHuBan",
             "name": "💓虎斑✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewHuBanGuard",
             "searchable": 1,
             "changeable": 1
@@ -244,6 +250,7 @@
             "key": "NewShaYang",
             "name": "💓傻样✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewShaYangGuard",
             "searchable": 1,
             "changeable": 1
@@ -252,6 +259,7 @@
             "key": "NewMuOu",
             "name": "💓木偶✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewMuOuGuard",
             "searchable": 1,
             "changeable": 1
@@ -269,6 +277,7 @@
             "key": "原盘",
             "name": "💓‍原盘✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_New4KZnGuard",
             "searchable": 1,
             "changeable": 1
@@ -277,6 +286,7 @@
             "name": "☁️Sed|4KAW",
             "key": "SeedHub",
             "type": 3,
+			 "timeout": 90,
             "api": "csp_SeedHubAmns",
             "searchable": 1,
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/嗷呜/spider.jar", 
@@ -289,6 +299,7 @@
             "key": "盘他",
             "name": "💓‍盘他✨┃4K",
             "type": 3,
+			"timeout": 90,
             "api": "csp_NewPanTaGuard",
             "searchable": 1,
             "changeable": 1
@@ -300,7 +311,7 @@
             "api": "csp_MyQuarkGuard",
             "searchable": 1,
             "changeable": 1,
-            "timeout": 50,
+            "timeout": 90,
             "style": {
                 "type": "list"
             }
