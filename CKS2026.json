@@ -120,24 +120,24 @@
             //"searchable": 1,
            // "changeable": 1
         //},
-{
-            "key": "FanShu",
-            "name": "🥇💢番薯✨┃动漫🐟",
-            "type": 3,
-            "api": "csp_FanShu",
-            "searchable": 1,
-            "quickSearch": 1,
+//{
+           // "key": "FanShu",
+            //"name": "🥇💢番薯✨┃动漫🐟",
+           // "type": 3,
+           // "api": "csp_FanShu",
+            //"searchable": 1,
+            //"quickSearch": 1,
 	       // "jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "filterable": 1
-        },
-        {
-            "key": "双星",
-            "name": "🥇💢双星✨┃动漫🐟",
-            "type": 3,
-            "api": "csp_App88",
+            //"filterable": 1
+      //  },
+      //  {
+           // "key": "双星",
+           // "name": "🥇💢双星✨┃动漫🐟",
+           // "type": 3,
+           // "api": "csp_App88",
 			//"jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-            "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
-        },
+           // "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
+       // },
         {
             "key": "AnimeMiaoWuGuard",
             "name": "🥇💢喵呜✨┃动漫",
