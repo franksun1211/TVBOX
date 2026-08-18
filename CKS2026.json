@@ -6,12 +6,12 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]202608016-A🥝",
+    "notice": "🥝[CKS2026JJ]202608018🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|08016-A更新",
+            "name": "✨豆瓣✨|08018更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -32,26 +32,24 @@
         },
 
 		 {
-            "key": "橘汁",
-            "name": "🥇橘汁✨|4K🍎",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-			"jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar", 
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "appName": "橘汁",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.lxf.snzlcgtzxyx",
-                "host": "",
-                "site": "https://raw.githubusercontent.com/cxelva/xpg/main/lib/app.txt",
-                "version": "3.0.2.1",
-                "decrypt": "1"
-            }
-        },
+      "name": "🥇橘汁✨|4KAW",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/36332287-01c5-4b74-85f0-0cb070ddd57a.png;md5;0e457c08ca3c9fa3d949921cb73bb1f5",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "abid": "2205",
+        "version": "3.0.2.3",
+        "pkg": "com.mxj.wylcjbxyx",
+        "md5": "090DA8F91D3F60CC6CB250D86F06FE12",
+        "sha1": "3DADB42485B7F864E766479ADA6B1176D81D8D73",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt"
+      }
+    }, 
+		
 		{
             "key": "三秋影视",
             "name": "🥇三秋✨|4K🍎",
@@ -65,7 +63,7 @@
             "name": "🥇FZ✨|4KAW",
             "key": "AppV7Fz",
             "type": 3,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/嗷呜/spider.jar",
+			"jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -140,14 +138,24 @@
        // },
         {
             "key": "AnimeMiaoWuGuard",
-            "name": "🥇💢喵呜✨┃动漫",
+            "name": "🥇💢喵呜✨┃动漫AW",
             "type": 3,
             "api": "csp_AnimeMiaoWuGuard",
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
             "searchable": 1,
             "changeable": 0
         },
-{
+        {
+      "name": "🥇💢囧途┃动漫",
+      "key": "DMcyc",
+      "type": 3,
+      "api": "csp_DMcycAmns",
+      "searchable": 1,
+	  "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
+      "quickSearch": 1,
+      "changeable": 0
+    },
+		{
             "key": "AnimeHuaziGuard",
             "name": "🥇💢花海✨┃动漫",
             "type": 3,
@@ -156,6 +164,16 @@
             "searchable": 1,
             "changeable": 0
         },   
+		{
+      "name": "🐱青云┃动漫AW",
+      "key": "DMqingk",
+      "type": 3,
+      "api": "csp_DMqingkAmns",
+	  "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 		{
             "key": "方舟动漫",
             "name": "🍎方舟🔹动漫",
