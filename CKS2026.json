@@ -70,17 +70,17 @@
     },
 		
 		
-		{
-            "key": "UVod",
-            "name": "🥇優視頻✨",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
-            "searchable": 1,
-            "quickSearch": 1,
-		    "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-            "filterable": 1,
-            "changeable": 1
-        },   
+		//{
+            //"key": "UVod",
+            //"name": "🥇優視頻✨",
+            //"type": 3,
+           // "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
+           // "searchable": 1,
+           // "quickSearch": 1,
+		    //"jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
+           // "filterable": 1,
+            //"changeable": 1
+      //  },   
 {"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
 {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
