@@ -2,16 +2,17 @@
 
 {
     //"spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/WXER/jar/1.jar",
-	"spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
+	//"spider": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
+	"spider": "https://github.com/ls125781003/tbapi1/blob/main/WEX/spider.jar",
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]202608018-A🥝",
+    "notice": "🥝[CKS2026JJ]202608019🥝",
 
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "✨豆瓣✨|08018-A更新",
+            "name": "✨豆瓣✨|08019更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
