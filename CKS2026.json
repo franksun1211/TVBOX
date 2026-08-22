@@ -7,20 +7,21 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🥝[CKS2026JJ]202608019🥝",
+    "notice": "🥝[CKS2026JJ]202608021🥝",
 
     "sites": [
-        {
-            "key": "NewDouBan",
-            "name": "✨豆瓣✨|08019更新",
-            "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/txt/20260414181247-ae51abfbfe.txt"
-        },
-       
+        
+       {
+      "key": "Douban",
+      "name": "✨豆瓣✨|08021更新",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://github.com/ls125781003/tbapi1/blob/main/WEX/txt/20260414181247-ae51abfbfe.txt"
+    },
        
         {
             "key": "Wexconfig",
