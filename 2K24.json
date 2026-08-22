@@ -2,12 +2,12 @@
   "spider": "https://github.com/ls125781003/tbapi1/raw/main/WEX/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-  "notice": "🥝[CKS2K24JJ]202608021🥝",
+  "notice": "🥝[CKS2K24JJ]202608021-A🥝",
 
   "sites": [
     {
       "key": "Douban",
-      "name": "🐮【王二小放牛娃】🐮",
+      "name": "✨豆瓣✨|08021-A更新",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -16,20 +16,10 @@
       "filterable": 0,
       "ext": "https://github.com/ls125781003/tbapi1/raw/main/WEX/txt/20260414181247-ae51abfbfe.txt"
     },
-    {
-      "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20260820-1】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://github.com/ls125781003/tbapi1/raw/main/WEX/txt/20260414181247-ae51abfbfe.txt"
-    },
+ 
     {
       "key": "Wexconfig",
-      "name": "🐮配置┃中心🐮",
+      "name": "🅿配置中心",
       "type": 3,
       "api": "csp_PanConfigGuard",
       "searchable": 0,
@@ -51,6 +41,120 @@
         "type": "list"
       }
     },
+     {
+      "name": "🥇橘汁✨|4KAW",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/36332287-01c5-4b74-85f0-0cb070ddd57a.png;md5;0e457c08ca3c9fa3d949921cb73bb1f5",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "abid": "2205",
+        "version": "3.0.2.3",
+        "pkg": "com.mxj.wylcjbxyx",
+        "md5": "090DA8F91D3F60CC6CB250D86F06FE12",
+        "sha1": "3DADB42485B7F864E766479ADA6B1176D81D8D73",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt"
+      }
+    }, 
+		
+		{
+            "key": "三秋影视",
+            "name": "🥇三秋✨|4K🍎",
+            "type": 3,
+	        "jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar",
+            "api": "csp_App3Q"
+        },
+		{
+      "name": "🥇FZ✨|4KAW",
+      "key": "AppV7Fz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+	  "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+		{"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+
+{"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+
+{"key":"嗷呜金牌影院","name":"🥇嗷呜荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},	
+ {
+            "key": "爱弹幕",
+            "name": "🥇💢爱弹幕✨｜动漫",
+            "type": 3,
+            "api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		    "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
+        },
+       {
+      "name": "🥇💢番薯✨┃动漫AW",
+      "key": "DMfans",
+      "type": 3,
+      "api": "csp_DMfansAmns",
+	  "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+		{
+            "key": "AnimeMiaoWuGuard",
+            "name": "🥇💢喵呜✨┃动漫AW",
+            "type": 3,
+            "api": "csp_AnimeMiaoWuGuard",
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/main/王二小/spider.jar",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+      "name": "🥇💢囧途┃动漫",
+      "key": "DMcyc",
+      "type": 3,
+      "api": "csp_DMcycAmns",
+      "searchable": 1,
+	  "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "AnimeAiHuazi",
+      "name": "🤡花海┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeAiHuaziGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🐱青云┃动漫AW",
+      "key": "DMqingk",
+      "type": 3,
+      "api": "csp_DMqingkAmns",
+	  "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+		{
+            "key": "方舟动漫",
+            "name": "🍎方舟🔹动漫",
+            "type": 3,
+			 "jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar", 
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.cyfz.top",
+                "dataKey": "e72cdfd629e8895d",
+                "dataIv": "e72cdfd629e8895d"
+            }
+        },
+{"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+
+    
+    
     {
       "key": "二小",
       "name": "💓‍指南┃4K💓‍",
@@ -390,38 +494,9 @@
       "searchable": 1,
       "changeable": 0
     },
-    {
-      "key": "AnimeXiFan",
-      "name": "🤡稀饭┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeXiFanGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeCiYuanCheng",
-      "name": "🤡次元┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeCiYuanChengGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeAiHuazi",
-      "name": "🤡花海┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiHuaziGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AnimeAiMoDu",
-      "name": "🤡魔都┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeAiMoDuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
+    
+    
+  
     {
       "key": "BookAiShiJie",
       "name": "🎃‍极品┃听书🎃",
