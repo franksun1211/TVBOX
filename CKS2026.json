@@ -5,12 +5,12 @@
   "spider": "https://github.com/ls125781003/tbapi1/raw/main/WEX/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-  "notice": "🥝[CKS2026JJ]202608021-A🥝",
+  "notice": "🥝[CKS2026JJ]202608023🥝",
 
   "sites": [
     {
       "key": "Douban",
-      "name": "✨豆瓣✨|08021-A更新",
+      "name": "✨豆瓣✨|08023更新",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -32,17 +32,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "MyPan",
-      "name": "🐮我的┃网盘🐮",
-      "type": 3,
-      "api": "csp_MyPanGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
+   
     },
      {
       "name": "🥇橘汁✨|4KAW",
@@ -63,13 +53,7 @@
       }
     }, 
 		
-		{
-            "key": "三秋影视",
-            "name": "🥇三秋✨|4K🍎",
-            "type": 3,
-	        "jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar",
-            "api": "csp_App3Q"
-        },
+		
 		{
       "name": "🥇FZ✨|4KAW",
       "key": "AppV7Fz",
@@ -81,12 +65,8 @@
       "changeable": 0,
       "ext": "AppV7Fz"
     },
-		{"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
-{"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
-
-{"key":"嗷呜金牌影院","name":"🥇嗷呜荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},	
- {
+	  {
             "key": "爱弹幕",
             "name": "🥇💢爱弹幕✨｜动漫",
             "type": 3,
@@ -125,14 +105,14 @@
     },
     {
       "key": "AnimeAiHuazi",
-      "name": "🤡花海┃动漫🤡",
+      "name": "🥇💢花海┃动漫",
       "type": 3,
       "api": "csp_AnimeAiHuaziGuard",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "name": "🐱青云┃动漫AW",
+      "name": "🥇💢青云┃动漫AW",
       "key": "DMqingk",
       "type": 3,
       "api": "csp_DMqingkAmns",
@@ -143,7 +123,7 @@
     },
 		{
             "key": "方舟动漫",
-            "name": "🍎方舟🔹动漫",
+            "name": "🥇💢方舟┃动漫🍎",
             "type": 3,
 			 "jar": "https://github.com/cxelva/xpg/raw/main/xpg.jar", 
             "searchable": 1,
@@ -154,15 +134,42 @@
                 "dataIv": "e72cdfd629e8895d"
             }
         },
-{"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://https://www.moduys03.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+//{"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://https://www.moduys03.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+{
+      "key": "SportAiGuaZi",
+      "name": "🥇🏆⚽瓜子┃体育🌐",
+      "type": 3,
+      "api": "csp_SportAiGuaZiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+{
+      "key": "SportAiKaFei",
+      "name": "🥇🏆⚽咖啡┃体育🌐",
+      "type": 3,
+      "api": "csp_SportAiKaFeiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+{"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
-    
+{"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+
+{"key":"嗷呜金牌影院","name":"🥇嗷呜荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},	
+ 
     
     {
       "key": "二小",
       "name": "💓‍指南┃4K💓‍",
       "type": 3,
       "api": "csp_AiNewXiaoPanGuard",
+	  "timeout": 120,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -183,6 +190,7 @@
       "api": "csp_AiNewGuanYingGuard",
       "searchable": 1,
       "quickSearch": 1,
+	  "timeout": 120,	
       "changeable": 0
     },
     {
@@ -191,6 +199,7 @@
       "type": 3,
       "api": "csp_AiQwMkvGuard",
       "searchable": 1,
+	  "timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -200,6 +209,7 @@
       "type": 3,
       "api": "csp_AiNewZhiZhenGuard",
       "searchable": 1,
+		"timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -210,6 +220,7 @@
       "api": "csp_AiNewPanLianGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -219,6 +230,7 @@
       "api": "csp_AiNewPianKuGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -228,6 +240,7 @@
       "api": "csp_AiNewHuBanGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -237,6 +250,7 @@
       "api": "csp_AiNewMuOuGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -246,6 +260,7 @@
       "api": "csp_AiNewDuoDuoGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -255,6 +270,7 @@
       "api": "csp_AiNewJuTouGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -264,6 +280,7 @@
       "api": "csp_AiNewLibvioGuard",
       "searchable": 1,
       "quickSearch": 1,
+		"timeout": 120,
       "changeable": 0
     },
     {
@@ -272,6 +289,7 @@
       "type": 3,
       "api": "csp_AiNewZhiNan4KGuard",
       "searchable": 1,
+		"timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -281,6 +299,7 @@
       "type": 3,
       "api": "csp_AiNewWoNiu4KGuard",
       "searchable": 1,
+		"timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -290,6 +309,7 @@
       "type": 3,
       "api": "csp_AiPan1MeGuard",
       "searchable": 1,
+		"timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -299,6 +319,7 @@
       "type": 3,
       "api": "csp_AiNewYiDong4KGuard",
       "searchable": 1,
+		"timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -374,40 +395,8 @@
       "quickSearch": 1,
       "changeable": 0
     },
-    {
-      "key": "WexAiBoBo",
-      "name": "🎇伯伯┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexAiBoBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiIkanBot",
-      "name": "🎇爱看┃采集🎇",
-      "type": 3,
-      "api": "csp_WexAiIkanBotGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "LiveAiHuYa",
-      "name": "🐯‍虎牙┃直播🐯‍",
-      "type": 3,
-      "api": "csp_LiveAiHuYaGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "LiveAiDouYu",
-      "name": "🐳斗鱼┃直播🐳",
-      "type": 3,
-      "api": "csp_LiveAiDouYuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
+   
+   
     {
       "key": "LiveAiBiLi",
       "name": "🅱️哔哩┃直播🅱️",
@@ -497,102 +486,7 @@
       "searchable": 1,
       "changeable": 0
     },
-    
-    
   
-    {
-      "key": "BookAiShiJie",
-      "name": "🎃‍极品┃听书🎃",
-      "type": 3,
-      "api": "csp_BookAiShiJieGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "BookAiYueTing",
-      "name": "🎃‍悦庭┃听书🎃",
-      "type": 3,
-      "api": "csp_BookAiYueTingGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 120
-    },
-    {
-      "key": "BookAi23TingShu",
-      "name": "🎃‍爱上┃听书🎃",
-      "type": 3,
-      "api": "csp_BookAi23TingShuGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "ChildrenAiBaoBao",
-      "name": "👼宝宝┃儿歌👼",
-      "type": 3,
-      "api": "csp_ChildrenAiBaoBaoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "ChildrenAiBeiWa",
-      "name": "👼贝贝┃儿歌👼",
-      "type": 3,
-      "api": "csp_ChildrenAiBeiWaGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "ChildrenAiTuTu",
-      "name": "👼兔兔┃儿歌👼",
-      "type": 3,
-      "api": "csp_ChildrenAiTuTuGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "MusicAiTangDou",
-      "name": "💃跳舞┃教学💃",
-      "type": 3,
-      "api": "csp_MusicAiTangDouGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "MusicAiLiYuan",
-      "name": "🎎戏曲┃秒播🎎",
-      "type": 3,
-      "api": "csp_MusicAiLiYuanGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "MusicAiQingTing",
-      "name": "🎼蜻蜓┃电台🎼",
-      "type": 3,
-      "api": "csp_MusicAiQingTingGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
     {
       "key": "MusicAiIKtv",
       "name": "🎼KTV┃音乐🎼",
@@ -644,17 +538,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "SportAiGuaZi",
-      "name": "🌐瓜子┃体育🌐",
-      "type": 3,
-      "api": "csp_SportAiGuaZiGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+    
     {
       "key": "SportAiKanQiuTong",
       "name": "🌐球通┃体育🌐",
@@ -674,17 +558,7 @@
       "searchable": 1,
       "changeable": 0
     },
-    {
-      "key": "SportAiKaFei",
-      "name": "🌐咖啡┃体育🌐",
-      "type": 3,
-      "api": "csp_SportAiKaFeiGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+    
     {
       "key": "SportAiWwe",
       "name": "🌐WWE┃体育🌐",
