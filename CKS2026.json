@@ -20,18 +20,7 @@
       "ext": "https://github.com/ls125781003/tbapi1/raw/main/WEX/txt/20260414181247-ae51abfbfe.txt"
     },
  
-    {
-      "key": "Wexconfig",
-      "name": "🅿配置中心",
-      "type": 3,
-      "api": "csp_PanConfigGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+    
    
    
    
@@ -698,7 +687,18 @@
       "searchable": 1,
       "changeable": 0
     },
-   
+   {
+      "key": "Wexconfig",
+      "name": "🅿配置中心",
+      "type": 3,
+      "api": "csp_PanConfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "push_agent",
       "name": "推送",
