@@ -5,12 +5,12 @@
   "spider": "https://github.com/ls125781003/tbapi1/raw/main/WEX/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-  "notice": "🥝[CKS2026JJ]202608023🥝",
+  "notice": "🥝[CKS2026JJ]202608023-A🥝",
 
   "sites": [
     {
       "key": "Douban",
-      "name": "✨豆瓣✨|08023更新",
+      "name": "✨豆瓣✨|08023-A更新",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -34,24 +34,7 @@
     },
    
    
-     {
-      "name": "🥇橘汁✨|4KAW",
-      "key": "Woshinidie",
-      "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/36332287-01c5-4b74-85f0-0cb070ddd57a.png;md5;0e457c08ca3c9fa3d949921cb73bb1f5",
-      "api": "csp_Woshinidie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "abid": "2205",
-        "version": "3.0.2.3",
-        "pkg": "com.mxj.wylcjbxyx",
-        "md5": "090DA8F91D3F60CC6CB250D86F06FE12",
-        "sha1": "3DADB42485B7F864E766479ADA6B1176D81D8D73",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt"
-      }
-    }, 
+   
 		
 		
 		{
@@ -157,6 +140,24 @@
         "type": "list"
       }
     },
+	    {
+      "name": "🥇橘汁✨|4KAW",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/36332287-01c5-4b74-85f0-0cb070ddd57a.png;md5;0e457c08ca3c9fa3d949921cb73bb1f5",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "abid": "2205",
+        "version": "3.0.2.3",
+        "pkg": "com.mxj.wylcjbxyx",
+        "md5": "090DA8F91D3F60CC6CB250D86F06FE12",
+        "sha1": "3DADB42485B7F864E766479ADA6B1176D81D8D73",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt"
+      }
+    }, 
 {"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
 {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
