@@ -679,22 +679,7 @@
         "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
       }
     },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育📚",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
-      }
-    },
+    
 
     {
       "key": "SoAiHaiYin",
@@ -712,30 +697,7 @@
       "searchable": 1,
       "changeable": 0
     },
-    {
-      "key": "SoAiQuPanShe",
-      "name": "🎠趣搜┃百度🎠",
-      "type": 3,
-      "api": "csp_SoAiQuPanSheGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoAiAiPanSo",
-      "name": "🎠爱盘┃综合🎠",
-      "type": 3,
-      "api": "csp_SoAiAiPanSoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoHaoSo",
-      "name": "🎠好盘┃综合🎠",
-      "type": 3,
-      "api": "csp_SoHaoSoGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
+   
     {
       "key": "push_agent",
       "name": "推送",
