@@ -87,9 +87,9 @@ class Spider(Spider):
                 headers = self.headers.copy()
                 
             if method.upper() == "GET":
-                response = requests.get(url, headers=headers, params=data, timeout=10,verify=False)
+                response = requests.get(url, headers=headers, params=data, timeout=10)
             else:  # POST
-                response = requests.post(url, headers=headers, data=data, timeout=10,verify=False)
+                response = requests.post(url, headers=headers, data=data, timeout=10)
                 
             response.raise_for_status()
             response.encoding = response.apparent_encoding or 'utf-8'
