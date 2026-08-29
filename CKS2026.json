@@ -554,27 +554,7 @@
       }
     },
     
-    {
-      "key": "Emby",
-      "name": "💓Emby┃4K💓",
-      "type": 3,
-      "api": "csp_EmbyGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Emby001",
-      "name": "💓Emby001┃4K💓",
-      "type": 3,
-      "api": "csp_EmbyDiyGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "embynumber": 0
-      }
-    },
+   
     {
       "key": "AList",
       "name": "👁️Alist┃DIY👁️",
