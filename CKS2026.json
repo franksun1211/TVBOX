@@ -5,12 +5,12 @@
   "spider": "https://github.com/ls125781003/tbapi1/raw/main/WEX/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-  "notice": "🥝[CKS2026JJ]202608023-A🥝",
+  "notice": "🥝[CKS2026JJ]202608029🥝",
 
   "sites": [
     {
       "key": "Douban",
-      "name": "✨豆瓣✨|08023-A更新",
+      "name": "✨豆瓣✨|08029更新",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -99,7 +99,7 @@
                 "dataIv": "e72cdfd629e8895d"
             }
         },
-//{"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.moduys03.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+{"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 {
       "key": "SportAiGuaZi",
       "name": "🥇🏆⚽瓜子┃体育🌐",
