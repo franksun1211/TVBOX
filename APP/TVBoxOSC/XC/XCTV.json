@@ -74,7 +74,8 @@
 {"name": "📱┃飞扬咪咕「直播」","type": 0,"url": "https://l.gmbbk.com/upload/39183918.txt","playerType":1},
 {"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
 {"name": "🐬┃综合「直播」","type": 0,"playerType": 2,"url": "https://ds65.tv1288.xyz","ua": "bingcha/1.1 (mianfeifenxiang) "},
-{"name": "🛳️️┃裤佬「仅移动网」","type":0,"url":"https://live.445569.xyz/live.m3u","ua":"okHttp","timeout":10,"playerType":2},
+{"name": "🛳️️┃裤佬「IPTV」","type":0,"url":"https://live.445569.xyz/live.m3u","ua":"okHttp","timeout":10,"playerType":2},
+{"name": "🛳️️┃裤佬「体育直播」","type":0,"url":"https://jsnzkpg.de5.net/all.m3u","ua":"okHttp","timeout":10,"playerType":2},	   
 {"name": "🍅┃全国直播「live」","type":0,"url":"http://wangziduoqing.com/yuan/zb.txt","ua":"okHttp","timeout":10,"playerType":2},
 	   
 {"name": "👖日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
