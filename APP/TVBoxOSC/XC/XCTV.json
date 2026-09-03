@@ -64,9 +64,9 @@
 {"name": "🛬┃iptv_api直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u","playerType":1},
 {"name": "🖨️┃qingting港湾「直播」","type": 0,"url": "https://github.com/qingtingjjjjjjj/iptv-auto-update/raw/main/my.txt","playerType":1},
 {"name": "🖨️┃qingting港湾「xTV」","type": 0,"url": "https://github.com/qingtingjjjjjjj/iptv-auto-update/raw/main/my02.txt","playerType":1},	   
-{"name": "🏊‍♀️┃锋哥港台「安博」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/安博.txt","playerType":1},
-{"name": "🎉┃锋哥港台「4GTV」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/4gtv.txt","playerType":1},	
-{"name": "🔫️┃锋哥xTV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/午夜剧场.txt","playerType":1},
+{"name": "🏊‍♀️┃锋哥港台「x视频」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/xxx视频资源.txt","playerType":1},
+{"name": "🎉┃锋哥港台「4GTV」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/内地港台","playerType":1},	
+{"name": "🔫️┃锋哥xTV「直播」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/午夜剧场.txt","playerType":1},
 //{"name": "📱┃飞扬咪咕「直播」","type": 0,"url": "https://l.gmbbk.com/upload/39183918.txt","playerType":1},
 //{"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocipxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"},
 
