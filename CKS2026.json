@@ -2,11 +2,11 @@
     "spider": "https://raw.githubusercontent.com/ls125781003/tbapi1/refs/heads/main/WEX/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🌷🥝[CKS2026JJ]0902-A🥝🌷",
+    "notice": "🌷🥝[CKS2026JJ]0903🥝🌷",
     "sites": [
         {
             "key": "Douban",
-            "name": "✨豆瓣✨|0902-A更新",
+            "name": "✨豆瓣✨|0903更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -116,16 +116,7 @@
             "quickSearch": 1,
             "changeable": 0
         },
-        {
-            "key": "AiNewMuOu",
-            "name": "💓木偶┃4K💓",
-            "type": 3,
-            "api": "csp_AiNewMuOuGuard",
-            "searchable": 1,
-			"timeout": 120,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "AiNewDuoDuo",
             "name": "💓多多┃4K💓",
@@ -191,7 +182,7 @@
 
         {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
-        {"key":"嗷呜金牌影院","name":"🥇嗷呜荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},	
+       // {"key":"嗷呜金牌影院","name":"🥇嗷呜荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},	
  
 		{
             "key": "WexHanXiaoQuan",
@@ -229,15 +220,7 @@
             "quickSearch": 1,
             "changeable": 0
         },
-        {
-            "key": "WexAiWenCai",
-            "name": "💥文才┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiWenCaiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "WexFengYe4K",
             "name": "💥小枫┃秒播💥",
