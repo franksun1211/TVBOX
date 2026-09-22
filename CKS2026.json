@@ -2,11 +2,11 @@
     "spider": "https://raw.githubusercontent.com/ls125781003/tbapi1/refs/heads/main/WEX/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🌷🥝[CKS2026JJ]0912🥝🌷",
+    "notice": "🌷🥝[CKS2026JJ]0922🥝🌷",
     "sites": [
         {
             "key": "Douban",
-            "name": "✨豆瓣✨|0912更新👑",
+            "name": "✨豆瓣✨|0922更新👑",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -80,6 +80,16 @@
             "changeable": 0
         },
         {
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewHuaJuanGuard",
+      "searchable": 1,
+	  "timeout": 120,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+		{
             "key": "AiNewPanLian",
             "name": "💓盘链┃4K💓",
             "type": 3,
@@ -161,26 +171,17 @@
             "quickSearch": 1,
             "changeable": 0
         },
-        {
-      "key": "蜗牛",
-      "name": "💓‍蜗牛┃4K💓‍",
+       {
+      "key": "AiNewHuBan",
+      "name": "💓虎斑┃4K💓",
       "type": 3,
-      "api": "csp_AiNewWoNiu4KGuard",
+      "api": "csp_AiNewHuBanGuard",
       "searchable": 1,
 	  "timeout": 120,
       "quickSearch": 1,
       "changeable": 0
     },
-		{
-      "key": "AiNewYiDong4K",
-      "name": "💓逸动┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewYiDong4KGuard",
-      "searchable": 1,
-	  "timeout": 120,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+		
         {"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
         {"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
