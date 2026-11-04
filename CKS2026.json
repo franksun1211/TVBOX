@@ -2,11 +2,11 @@
     "spider": "https://raw.githubusercontent.com/ls125781003/tbapi1/refs/heads/main/WEX/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🌷🥝[CKS2026JJ]1104-A🥝🌷",
+    "notice": "🌷🥝[CKS2026JJ]1104-B🥝🌷",
     "sites": [
         {
             "key": "Douban",
-            "name": "✨豆瓣✨|1104-A更新👑",
+            "name": "✨豆瓣✨|1104-B更新👑",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -55,16 +55,16 @@
             "changeable": 0
         },
       
-    {
+    /* {
       "key": "AnimeXiFan",
       "name": "🥇💢✨稀饭┃动漫",
       "type": 3,
       "api": "csp_AnimeXiFanGuard",
       "searchable": 1,
       "changeable": 0
-    },
+    },*/
 		{"key": "魔都","name": "🥇💢魔都✨","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
-{
+/*{
       "key": "AnimeGiriGiri",
       "name": "🥇💢GiriGiri爱✨｜动漫",
       "type": 3,
@@ -72,7 +72,7 @@
 	  
       "searchable": 1,
       "changeable": 1
-    },
+    },*/
        /*{
             "key": "二小",
             "name": "💓‍指南┃4K💓‍",
