@@ -7,7 +7,7 @@
 	"sites":[
 
 
-{"key":"小学","name":"🅱️小学┃1107","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","cookie":""}},
+{"key":"小学","name":"🅱️小学┃1109","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","cookie":""}},
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","cookie":""}},
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","cookie":""}}
 ],
@@ -68,7 +68,7 @@
 {"name": "🎉┃锋哥港台「4GTV」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/内地港台","playerType":1},	
 {"name": "🔫️┃锋哥xTV「直播」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/午夜剧场.txt","playerType":1},
 {"name": "📱┃GE6X「直播」","type": 0,"url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/A.txt","playerType":1},
-{"name": "🚣🏻┃Qingting-X「直播」","type": 0,"url": "https://github.com/qingtingjjjjjjj/iptv-auto-update/blob/main/my02.txt"},
+{"name": "🚣🏻┃CS9「YT直播」","type": 0,"url": "https://github.com/ChiSheng9/iptv/blob/master/playlist.txt","playerType":1},
 
 {"name": "🖨️┃judy「4GTV」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u","playerType":1},
 {"name": "🖨️┃judy「Litv」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u","playerType":1},
