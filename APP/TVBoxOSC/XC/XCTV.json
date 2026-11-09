@@ -74,6 +74,9 @@
 {"name": "🖨️┃judy「Litv」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u","playerType":1},
 {"name": "🖨️┃judy「ofiii」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u","playerType":1},
 
+{"name": "📱┃ZWRT「直播」","type": 0,"url": "https://github.com/zwrt/IPTV/blob/Files/IPTV.m3u","playerType":1},
+//{"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
+//{"name": "🐬┃综合「直播」","type": 0,"playerType": 2,"url": "https://ds65.tv1288.xyz","ua": "bingcha/1.1 (mianfeifenxiang) "},	   
 {"name": "📱┃飞扬咪咕「直播」","type": 0,"url": "https://l.gmbbk.com/upload/39183918.txt","playerType":1},
 {"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
 {"name": "🐬┃综合「直播」","type": 0,"playerType": 2,"url": "https://ds65.tv1288.xyz","ua": "bingcha/1.1 (mianfeifenxiang) "},
