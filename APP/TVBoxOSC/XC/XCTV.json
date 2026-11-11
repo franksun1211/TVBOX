@@ -56,9 +56,9 @@
 		}   
 	}],
    "lives":[
-{"name": "✨Gather0831✨","type": 3,"url": "https://iptv.yang-1989.xyz/playlist.m3u","epg":"https://epg.yang-1989.eu.org/epg.xml.gz","ua": "okhttp/3.8.1","timeout": 10,"playerType": 2},
+{"name": "✨Gather1111✨","type": 3,"url": "https://iptv.yang-1989.xyz/playlist.m3u","epg":"https://epg.yang-1989.eu.org/epg.xml.gz","ua": "okhttp/3.8.1","timeout": 10,"playerType": 2},
 {"name": "🐍┃易发港🇭🇰澳「直播」","type": 0,"ua": "okhttp/3.15","url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},	
-
+{"name": "🛳️️┃裤佬「体育直播」","type":0,"url":"https://jsnzkpg.de5.net/all.m3u","ua":"okHttp","timeout":10,"playerType":2},	   
 {"name": "✨🧊┃全球揾定.華哥TV✨","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive","playerType":1},
 {"name": "🦸┃tangxTV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my02.txt","playerType":1},
 {"name": "🛬┃iptv_api直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u","playerType":1},
@@ -68,7 +68,7 @@
 {"name": "🎉┃锋哥港台「4GTV」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/内地港台","playerType":1},	
 {"name": "🔫️┃锋哥xTV「直播」","type": 0,"url": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/XC/午夜剧场.txt","playerType":1},
 {"name": "📱┃GE6X「直播」","type": 0,"url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/A.txt","playerType":1},
-{"name": "🚣🏻┃CS9「YT直播」","type": 0,"url": "https://github.com/ChiSheng9/iptv/blob/master/playlist.txt","playerType":1},
+{"name": "🚣🏻┃CLUNTOP「直播」","type": 0,"url": "https://github.com/cluntop/tvbox/raw/main/lib/iptv.txt","playerType":1},
 
 {"name": "🖨️┃judy「4GTV」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u","playerType":1},
 {"name": "🖨️┃judy「Litv」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u","playerType":1},
@@ -81,7 +81,7 @@
 {"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
 {"name": "🐬┃综合「直播」","type": 0,"playerType": 2,"url": "https://ds65.tv1288.xyz","ua": "bingcha/1.1 (mianfeifenxiang) "},
 {"name": "🛳️️┃裤佬「IPTV」","type":0,"url":"https://live.445569.xyz/live.m3u","ua":"okHttp","timeout":10,"playerType":2},
-{"name": "🛳️️┃裤佬「体育直播」","type":0,"url":"https://jsnzkpg.de5.net/all.m3u","ua":"okHttp","timeout":10,"playerType":2},	   
+
 {"name": "🍅┃全国直播「live」","type":0,"url":"http://wangziduoqing.com/yuan/zb.txt","ua":"okHttp","timeout":10,"playerType":2},
 	   
 {"name": "👖日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
