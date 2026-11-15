@@ -3,11 +3,11 @@
 	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🌷🥝[CKS2026JJ]1115-A🥝🌷",
+    "notice": "🌷🥝[CKS2026JJ]1115-B🥝🌷",
     "sites": [
         {
             "key": "Douban",
-            "name": "✨豆瓣✨|1115-A更新👑",
+            "name": "✨豆瓣✨|1115-B更新👑",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -74,6 +74,7 @@
             "key": "稀饭",
             "name": "🥇💢稀饭✨┃动漫",
             "type": 3,
+			"jar": "https://github.com/ls125781003/tbapi1/raw/main/XS/spider.jar",
             "api": "csp_AnimeXifan"
         },
 		{
@@ -150,16 +151,7 @@
 		  "timeout": 120,
       "changeable": 0
     },
-    {
-      "key": "AiNewPianKu",
-      "name": "💓盘库┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewPianKuGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-		  "timeout": 120,
-      "changeable": 0
-    },
+    
     {
       "key": "AiNewHuBan",
       "name": "💓虎斑┃4K💓",
