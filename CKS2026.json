@@ -1,13 +1,13 @@
 {
     "spider": "https://raw.githubusercontent.com/ls125781003/tbapi1/refs/heads/main/WEX/spider.jar",
-	"spider": "https://github.com/ls125781003/tbapi1/raw/main/XS/spider.jar",
+	
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🌷🥝[CKS2026JJ]1115-test🥝🌷",
+    "notice": "🌷🥝[CKS2026JJ]1115🥝🌷",
     "sites": [
         {
             "key": "Douban",
-            "name": "✨豆瓣✨|1115-test更新👑",
+            "name": "✨豆瓣✨|1115更新👑",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -41,18 +41,21 @@
             "key": "赏月",
             "name": "赏月 • 动漫",
             "type": 3,
+			  "jar": "https://github.com/ls125781003/tbapi1/raw/main/XS/spider.jar",
             "api": "csp_AnimeTsukimi"
         }, 
 		{
             "key": "吉里动漫",
             "name": "吉里 • 动漫",
             "type": 3,
+			"jar": "https://github.com/ls125781003/tbapi1/raw/main/XS/spider.jar",
             "api": "csp_AnimeGiri"
         },
         {
             "key": "花子动漫",
             "name": "花子 • 动漫",
             "type": 3,
+			"jar": "https://github.com/ls125781003/tbapi1/raw/main/XS/spider.jar",
             "api": "csp_AnimeHuazi"
         },
 		{
