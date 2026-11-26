@@ -56,7 +56,7 @@
 		}   
 	}],
    "lives":[
-{"name": "✨Gather1111✨","type": 3,"url": "https://iptv.yang-1989.xyz/playlist.m3u","epg":"https://epg.yang-1989.eu.org/epg.xml.gz","ua": "okhttp/3.8.1","timeout": 10,"playerType": 2},
+{"name": "✨Gather1126✨","type": 3,"url": "https://iptv.yang-1989.xyz/playlist.m3u","epg":"https://epg.yang-1989.eu.org/epg.xml.gz","ua": "okhttp/3.8.1","timeout": 10,"playerType": 2},
 {"name": "🐍┃易发港🇭🇰澳「直播」","type": 0,"ua": "okhttp/3.15","url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},	
 {"name": "🛳️️┃裤佬「体育直播」","type":0,"url":"https://jsnzkpg.de5.net/all.m3u","ua":"okHttp","timeout":10,"playerType":2},	   
 {"name": "✨🧊┃全球揾定.華哥TV✨","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive","playerType":1},
@@ -72,7 +72,7 @@
 
 {"name": "🖨️┃judy「4GTV」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u","playerType":1},
 {"name": "🖨️┃judy「Litv」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u","playerType":1},
-{"name": "🖨️┃judy「ofiii」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u","playerType":1},
+{"name": "🖨️┃FGBLH「夜色」","type": 0,"url": "https://github.com/natasha520/FGBLH/blob/main/AV/夜色.m3u","playerType":1},
 
 {"name": "📱┃ZWRT「直播」","type": 0,"url": " https://fanmingming.com/txt?url=https://github.com/zwrt/IPTV/blob/Files/IPTV.m3u","playerType":1},
 //{"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
