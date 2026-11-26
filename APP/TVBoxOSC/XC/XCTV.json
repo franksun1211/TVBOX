@@ -72,8 +72,9 @@
 
 {"name": "🖨️┃judy「4GTV」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u","playerType":1},
 {"name": "🖨️┃judy「Litv」","type": 0,"url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u","playerType":1},
-{"name": "🖨️┃FGBLH「夜色」","type": 0,"url": "https://github.com/natasha520/FGBLH/blob/main/AV/夜色.m3u","playerType":1},
+{"name": "🖨️┃FGBLH「夜色」","type": 0,"url": "https://github.com/natasha520/FGBLH/raw/main/AV/夜色.m3u","playerType":1},
 
+{"name": "🖨️┃fleung「sino」","type": 0,"url": "https://github.com/fleung49/star/raw/main/sino","playerType":1},	   
 {"name": "📱┃ZWRT「直播」","type": 0,"url": " https://fanmingming.com/txt?url=https://github.com/zwrt/IPTV/blob/Files/IPTV.m3u","playerType":1},
 //{"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
 //{"name": "🐬┃综合「直播」","type": 0,"playerType": 2,"url": "https://ds65.tv1288.xyz","ua": "bingcha/1.1 (mianfeifenxiang) "},	   
